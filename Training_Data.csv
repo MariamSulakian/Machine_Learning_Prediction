@@ -1,0 +1,1795 @@
+ID,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,Winner,Loser
+1,13-Aug-05,Everton,Man United,0,2,A,0,1,A,G Poll,10,12,5,5,15,14,8,6,3,1,0,0,Man United,Everton
+2,13-Aug-05,Man City,West Brom,0,0,D,0,0,D,C Foy,15,13,8,3,13,11,3,6,2,3,0,0,None,None
+3,14-Aug-05,Arsenal,Newcastle,2,0,H,0,0,D,S Bennett,15,2,12,1,15,17,8,3,0,1,0,1,Arsenal,Newcastle
+4,20-Aug-05,Newcastle,West Ham,0,0,D,0,0,D,D Gallagher,14,6,6,1,9,11,10,2,1,1,0,1,None,None
+5,21-Aug-05,Chelsea,Arsenal,1,0,H,0,0,D,G Poll,9,9,6,3,17,21,3,7,2,3,0,0,Chelsea,Arsenal
+6,24-Aug-05,Chelsea,West Brom,4,0,H,2,0,H,M Halsey,11,0,8,0,10,7,9,1,0,1,0,0,Chelsea,West Brom
+7,27-Aug-05,Tottenham,Chelsea,0,2,A,0,1,A,R Styles,11,13,6,7,16,12,2,5,3,2,1,0,Chelsea,Tottenham
+8,28-Aug-05,Newcastle,Man United,0,2,A,0,0,D,H Webb,9,11,4,5,26,16,5,3,1,2,0,0,Man United,Newcastle
+9,10-Sep-05,Man United,Man City,1,1,D,1,0,H,S Bennett,7,5,2,3,12,18,3,5,1,4,0,0,None,None
+10,10-Sep-05,Tottenham,Liverpool,0,0,D,0,0,D,H Webb,10,11,7,6,16,13,4,4,1,1,0,0,None,None
+11,18-Sep-05,Liverpool,Man United,0,0,D,0,0,D,R Styles,9,4,3,1,24,15,4,2,2,2,0,0,None,None
+12,19-Sep-05,Arsenal,Everton,2,0,H,2,0,H,A Wiley,11,4,4,2,13,19,4,0,2,3,0,0,Arsenal,Everton
+13,24-Sep-05,Newcastle,Man City,1,0,H,1,0,H,G Poll,8,8,6,4,14,14,3,6,0,2,0,0,Newcastle,Man City
+14,24-Sep-05,West Ham,Arsenal,0,0,D,0,0,D,M Dean,6,8,0,2,11,7,4,3,2,0,0,0,None,None
+15,2-Oct-05,Liverpool,Chelsea,1,4,A,1,2,A,G Poll,11,7,5,5,15,17,4,2,1,3,0,0,Chelsea,Liverpool
+16,2-Oct-05,Man City,Everton,2,0,H,0,0,D,M Halsey,14,5,5,4,16,10,4,2,1,0,0,0,Man City,Everton
+17,15-Oct-05,Tottenham,Everton,2,0,H,0,0,D,D Gallagher,7,8,5,4,13,9,5,8,0,2,0,0,Tottenham,Everton
+18,15-Oct-05,West Brom,Arsenal,2,1,H,1,1,D,B Knight,5,14,4,10,23,10,3,6,1,2,0,0,West Brom,Arsenal
+19,16-Oct-05,Man City,West Ham,2,1,H,1,0,H,M Clattenburg,22,6,17,3,11,13,9,3,2,0,0,0,Man City,West Ham
+20,22-Oct-05,Arsenal,Man City,1,0,H,0,0,D,M Riley,4,7,2,4,24,17,4,3,3,5,0,0,Arsenal,Man City
+21,22-Oct-05,Man United,Tottenham,1,1,D,1,0,H,U Rennie,13,9,9,7,15,12,7,8,2,3,0,0,None,None
+22,23-Oct-05,Everton,Chelsea,1,1,D,1,0,H,M Clattenburg,4,24,4,12,14,14,3,11,2,2,0,0,None,None
+23,29-Oct-05,Liverpool,West Ham,2,0,H,1,0,H,U Rennie,17,4,9,2,15,13,10,5,2,0,0,0,Liverpool,West Ham
+24,29-Oct-05,Tottenham,Arsenal,1,1,D,1,0,H,S Bennett,11,10,3,7,18,13,6,1,4,2,0,0,None,None
+25,30-Oct-05,West Brom,Newcastle,0,3,A,0,0,D,H Webb,8,11,4,8,9,14,9,4,0,1,0,0,Newcastle,West Brom
+26,5-Nov-05,West Ham,West Brom,1,0,H,0,0,D,P Walton,10,10,6,6,15,12,8,5,2,0,0,0,West Ham,West Brom
+27,6-Nov-05,Man United,Chelsea,1,0,H,1,0,H,G Poll,10,21,5,11,19,14,5,9,3,4,0,0,Man United,Chelsea
+28,19-Nov-05,Chelsea,Newcastle,3,0,H,0,0,D,M Halsey,12,3,4,2,12,13,3,5,2,1,0,0,Chelsea,Newcastle
+29,19-Nov-05,West Brom,Everton,4,0,H,1,0,H,D Gallagher,11,11,8,6,11,9,4,8,0,0,0,0,West Brom,Everton
+30,20-Nov-05,Tottenham,West Ham,1,1,D,1,0,H,A Wiley,15,8,8,4,16,13,9,7,3,1,0,0,None,None
+31,26-Nov-05,Man City,Liverpool,0,1,A,0,0,D,A Wiley,3,8,1,6,13,13,6,4,0,2,0,0,Liverpool,Man City
+32,27-Nov-05,Everton,Newcastle,1,0,H,0,0,D,H Webb,14,16,9,10,19,19,12,8,1,5,0,0,Everton,Newcastle
+33,27-Nov-05,West Ham,Man United,1,2,A,1,0,H,S Bennett,10,16,3,10,15,7,4,5,2,3,0,0,Man United,West Ham
+34,10-Dec-05,Newcastle,Arsenal,1,0,H,0,0,D,D Gallagher,8,6,4,3,23,13,5,4,2,1,0,1,Newcastle,Arsenal
+35,10-Dec-05,West Brom,Man City,2,0,H,1,0,H,M Dean,11,8,4,2,17,13,4,6,1,4,0,1,West Brom,Man City
+36,11-Dec-05,Man United,Everton,1,1,D,1,1,D,R Styles,21,7,12,5,12,11,9,0,1,2,0,0,None,None
+37,14-Dec-05,Everton,West Ham,1,2,A,1,1,D,P Walton,12,7,3,2,10,11,4,9,2,1,0,0,West Ham,Everton
+38,17-Dec-05,West Ham,Newcastle,2,4,A,1,2,A,P Dowd,11,10,7,7,9,16,3,2,3,3,0,0,Newcastle,West Ham
+39,18-Dec-05,Arsenal,Chelsea,0,2,A,0,1,A,R Styles,7,11,5,8,13,18,5,5,3,4,0,0,Chelsea,Arsenal
+40,26-Dec-05,Liverpool,Newcastle,2,0,H,2,0,H,M Halsey,21,2,11,2,9,13,7,4,1,0,0,1,Liverpool,Newcastle
+41,26-Dec-05,Man United,West Brom,3,0,H,2,0,H,M Clattenburg,17,5,9,3,13,6,8,2,1,0,0,0,Man United,West Brom
+42,28-Dec-05,Everton,Liverpool,1,3,A,1,2,A,G Poll,10,12,6,5,23,20,5,2,4,2,2,0,Liverpool,Everton
+43,28-Dec-05,Man City,Chelsea,0,1,A,0,0,D,U Rennie,5,11,2,4,20,12,1,4,1,1,0,0,Chelsea,Man City
+44,28-Dec-05,West Brom,Tottenham,2,0,H,1,0,H,M Riley,6,7,5,7,16,12,4,3,0,0,0,0,West Brom,Tottenham
+45,31-Dec-05,Liverpool,West Brom,1,0,H,0,0,D,A Wiley,27,4,13,0,8,12,10,1,0,0,0,0,Liverpool,West Brom
+46,31-Dec-05,Tottenham,Newcastle,2,0,H,1,0,H,H Webb,13,9,3,4,13,11,5,3,0,1,0,0,Tottenham,Newcastle
+47,2-Jan-06,West Ham,Chelsea,1,3,A,0,1,A,H Webb,6,17,3,10,10,11,2,5,1,3,0,0,Chelsea,West Ham
+48,3-Jan-06,Arsenal,Man United,0,0,D,0,0,D,G Poll,8,16,5,6,17,13,6,9,2,3,0,0,None,None
+49,4-Jan-06,Man City,Tottenham,0,2,A,0,1,A,A Wiley,13,8,3,2,8,11,12,8,2,2,0,0,Tottenham,Man City
+50,14-Jan-06,Liverpool,Tottenham,1,0,H,0,0,D,D Gallagher,16,6,12,2,8,12,10,7,0,1,0,1,Liverpool,Tottenham
+51,14-Jan-06,Man City,Man United,3,1,H,2,0,H,S Bennett,12,13,7,4,19,18,3,3,2,1,0,1,Man City,Man United
+52,21-Jan-06,Everton,Arsenal,1,0,H,1,0,H,A Wiley,9,14,3,5,19,17,5,6,4,2,0,1,Everton,Arsenal
+53,22-Jan-06,Man United,Liverpool,1,0,H,0,0,D,M Riley,7,11,4,7,15,17,1,2,2,3,0,0,Man United,Liverpool
+54,1-Feb-06,Arsenal,West Ham,2,3,A,1,2,A,M Halsey,16,4,10,4,6,15,12,2,1,1,0,0,West Ham,Arsenal
+55,1-Feb-06,Man City,Newcastle,3,0,H,2,0,H,C Foy,14,4,8,1,13,10,3,3,1,1,0,0,Man City,Newcastle
+56,4-Feb-06,Everton,Man City,1,0,H,1,0,H,A Marriner,10,7,5,3,13,19,9,5,0,3,0,1,Everton,Man City
+57,5-Feb-06,Chelsea,Liverpool,2,0,H,1,0,H,A Wiley,10,12,6,2,14,17,5,5,1,2,0,1,Chelsea,Liverpool
+58,14-Feb-06,Liverpool,Arsenal,1,0,H,0,0,D,G Poll,22,6,9,2,12,15,13,1,0,1,0,0,Liverpool,Arsenal
+59,25-Feb-06,Newcastle,Everton,2,0,H,0,0,D,G Poll,18,12,10,6,26,15,6,4,1,1,0,0,Newcastle,Everton
+60,26-Feb-06,Liverpool,Man City,1,0,H,1,0,H,D Gallagher,20,6,12,3,4,16,12,2,0,2,0,1,Liverpool,Man City
+61,4-Mar-06,West Brom,Chelsea,1,2,A,0,0,D,M Halsey,6,7,2,5,12,10,6,4,1,0,0,1,Chelsea,West Brom
+62,4-Mar-06,West Ham,Everton,2,2,D,2,1,H,M Riley,7,13,3,5,12,10,1,9,3,3,0,0,None,None
+63,11-Mar-06,Chelsea,Tottenham,2,1,H,1,1,D,G Poll,13,4,10,3,11,16,4,4,2,0,0,0,Chelsea,Tottenham
+64,12-Mar-06,Arsenal,Liverpool,2,1,H,1,0,H,S Bennett,11,8,4,3,8,18,5,0,0,2,0,1,Arsenal,Liverpool
+65,12-Mar-06,Man United,Newcastle,2,0,H,2,0,H,R Styles,28,5,12,2,6,11,5,7,0,1,0,0,Man United,Newcastle
+66,18-Mar-06,West Brom,Man United,1,2,A,0,1,A,H Webb,8,20,3,9,12,12,6,8,1,3,0,0,Man United,West Brom
+67,19-Mar-06,Newcastle,Liverpool,1,3,A,1,2,A,M Riley,8,12,4,6,21,18,2,1,2,3,1,0,Liverpool,Newcastle
+68,25-Mar-06,Chelsea,Man City,2,0,H,2,0,H,R Styles,19,5,10,4,5,10,11,1,1,3,0,1,Chelsea,Man City
+69,25-Mar-06,Liverpool,Everton,3,1,H,1,0,H,P Dowd,17,8,10,5,12,25,5,3,3,7,1,1,Liverpool,Everton
+70,27-Mar-06,Tottenham,West Brom,2,1,H,0,1,A,C Foy,11,13,8,8,10,14,6,5,0,2,0,0,Tottenham,West Brom
+71,29-Mar-06,Man United,West Ham,1,0,H,1,0,H,G Poll,23,9,13,3,10,12,3,6,0,0,0,0,Man United,West Ham
+72,1-Apr-06,Newcastle,Tottenham,3,1,H,3,1,H,M Dean,14,10,11,5,11,12,5,3,2,3,0,1,Newcastle,Tottenham
+73,1-Apr-06,West Brom,Liverpool,0,2,A,0,2,A,U Rennie,8,13,4,4,11,8,1,4,0,0,0,0,Liverpool,West Brom
+74,8-Apr-06,Tottenham,Man City,2,1,H,1,0,H,D Gallagher,23,14,19,6,4,16,8,5,0,3,0,0,Tottenham,Man City
+75,9-Apr-06,Chelsea,West Ham,4,1,H,2,1,H,C Foy,14,6,5,4,7,14,5,5,0,2,1,0,Chelsea,West Ham
+76,9-Apr-06,Man United,Arsenal,2,0,H,0,0,D,G Poll,14,10,8,3,16,16,5,3,3,1,0,0,Man United,Arsenal
+77,15-Apr-06,Arsenal,West Brom,3,1,H,1,0,H,M Dean,16,8,10,1,8,6,5,1,2,1,0,0,Arsenal,West Brom
+78,15-Apr-06,Everton,Tottenham,0,1,A,0,1,A,H Webb,8,10,4,6,16,9,7,9,2,1,0,0,Tottenham,Everton
+79,15-Apr-06,West Ham,Man City,1,0,H,1,0,H,S Bennett,8,6,6,2,18,11,9,3,0,2,0,0,West Ham,Man City
+80,17-Apr-06,Chelsea,Everton,3,0,H,1,0,H,R Styles,15,4,8,2,6,6,6,3,0,0,0,1,Chelsea,Everton
+81,17-Apr-06,Tottenham,Man United,1,2,A,0,2,A,M Halsey,15,11,8,5,7,15,9,5,1,1,0,0,Man United,Tottenham
+82,22-Apr-06,Arsenal,Tottenham,1,1,D,0,0,D,S Bennett,9,9,6,6,9,9,5,4,1,1,0,1,None,None
+83,22-Apr-06,Newcastle,West Brom,3,0,H,2,0,H,H Webb,14,5,9,1,16,11,4,2,0,1,0,0,Newcastle,West Brom
+84,26-Apr-06,West Ham,Liverpool,1,2,A,0,1,A,H Webb,11,13,7,7,11,7,6,3,0,0,1,1,Liverpool,West Ham
+85,29-Apr-06,Chelsea,Man United,3,0,H,1,0,H,M Dean,11,7,5,2,17,12,2,3,4,2,0,0,Chelsea,Man United
+86,1-May-06,West Brom,West Ham,0,1,A,0,1,A,G Poll,16,10,4,5,8,15,9,6,0,0,0,0,West Ham,West Brom
+87,4-May-06,Man City,Arsenal,1,3,A,1,1,D,G Poll,10,17,8,12,21,8,12,6,3,0,0,0,Arsenal,Man City
+88,7-May-06,Everton,West Brom,2,2,D,0,1,A,A Wiley,22,6,18,5,16,18,14,2,1,2,0,0,None,None
+89,7-May-06,Newcastle,Chelsea,1,0,H,0,0,D,M Riley,16,10,8,5,17,14,3,7,4,2,1,0,Newcastle,Chelsea
+90,7-May-06,West Ham,Tottenham,2,1,H,1,1,D,C Foy,12,14,7,6,17,7,11,4,1,0,0,0,West Ham,Tottenham
+91,19-Aug-06,Everton,Watford,2,1,H,1,0,H,P Walton,6,12,2,8,12,13,0,6,2,2,0,0,Everton,Watford
+92,20-Aug-06,Chelsea,Man City,3,0,H,2,0,H,S Bennett,10,5,4,2,7,15,5,2,1,3,0,1,Chelsea,Man City
+93,22-Aug-06,Watford,West Ham,1,1,D,0,0,D,M Atkinson,11,8,4,4,12,12,5,1,0,0,0,0,None,None
+94,26-Aug-06,Liverpool,West Ham,2,1,H,2,1,H,A Wiley,19,8,8,3,15,6,6,1,1,0,0,0,Liverpool,West Ham
+95,26-Aug-06,Man City,Arsenal,1,0,H,1,0,H,U Rennie,10,17,3,6,16,8,2,8,1,1,0,0,Man City,Arsenal
+96,26-Aug-06,Tottenham,Everton,0,2,A,0,0,D,M Halsey,15,6,6,2,9,12,7,2,1,1,0,1,Everton,Tottenham
+97,26-Aug-06,Watford,Man United,1,2,A,1,1,D,P Dowd,8,19,7,10,20,14,4,7,1,1,0,0,Man United,Watford
+98,9-Sep-06,Everton,Liverpool,3,0,H,2,0,H,G Poll,8,21,6,5,22,13,2,11,1,3,0,0,Everton,Liverpool
+99,9-Sep-06,Man United,Tottenham,1,0,H,1,0,H,M Riley,10,9,5,4,12,17,5,4,2,2,0,0,Man United,Tottenham
+100,17-Sep-06,Chelsea,Liverpool,1,0,H,1,0,H,M Riley,4,9,3,6,13,17,1,3,3,2,1,0,Chelsea,Liverpool
+101,17-Sep-06,Man United,Arsenal,0,1,A,0,0,D,G Poll,17,14,9,7,11,11,10,5,2,2,0,0,Arsenal,Man United
+102,17-Sep-06,West Ham,Newcastle,0,2,A,0,0,D,R Styles,10,16,7,9,11,11,5,6,3,3,0,0,Newcastle,West Ham
+103,20-Sep-06,Liverpool,Newcastle,2,0,H,1,0,H,M Halsey,22,11,11,6,12,13,8,6,1,1,0,0,Liverpool,Newcastle
+104,23-Sep-06,Liverpool,Tottenham,3,0,H,0,0,D,H Webb,14,5,6,1,12,9,6,0,1,0,0,0,Liverpool,Tottenham
+105,23-Sep-06,Man City,West Ham,2,0,H,0,0,D,C Foy,17,4,8,0,12,15,4,6,0,0,0,0,Man City,West Ham
+106,24-Sep-06,Newcastle,Everton,1,1,D,1,1,D,S Bennett,21,12,13,5,12,18,9,6,2,4,1,1,None,None
+107,30-Sep-06,Everton,Man City,1,1,D,1,0,H,A Marriner,14,11,10,5,14,17,8,4,2,2,0,0,None,None
+108,1-Oct-06,Man United,Newcastle,2,0,H,1,0,H,M Dean,24,3,11,3,5,13,8,3,1,3,0,0,Man United,Newcastle
+109,14-Oct-06,Arsenal,Watford,3,0,H,2,0,H,H Webb,15,9,7,3,6,14,8,4,0,1,0,0,Arsenal,Watford
+110,22-Oct-06,Man United,Liverpool,2,0,H,1,0,H,G Poll,10,13,8,5,14,21,5,5,1,3,0,0,Man United,Liverpool
+111,22-Oct-06,Tottenham,West Ham,1,0,H,1,0,H,S Bennett,13,5,5,2,14,15,9,9,3,4,0,0,Tottenham,West Ham
+112,28-Oct-06,Arsenal,Everton,1,1,D,0,1,A,M Riley,26,2,12,2,6,21,16,3,2,3,0,0,None,None
+113,28-Oct-06,Watford,Tottenham,0,0,D,0,0,D,U Rennie,9,11,2,8,14,14,7,7,3,1,0,0,None,None
+114,5-Nov-06,Tottenham,Chelsea,2,1,H,1,1,D,G Poll,8,17,3,10,15,15,7,10,3,5,0,1,Tottenham,Chelsea
+115,5-Nov-06,West Ham,Arsenal,1,0,H,0,0,D,R Styles,11,11,5,5,11,8,8,3,3,2,0,0,West Ham,Arsenal
+116,11-Nov-06,Chelsea,Watford,4,0,H,2,0,H,H Webb,14,2,8,1,13,14,9,4,1,1,0,0,Chelsea,Watford
+117,11-Nov-06,Man City,Newcastle,0,0,D,0,0,D,G Poll,15,8,8,3,18,11,6,5,1,3,0,0,None,None
+118,12-Nov-06,Arsenal,Liverpool,3,0,H,1,0,H,M Clattenburg,7,10,7,4,7,12,2,6,2,3,0,0,Arsenal,Liverpool
+119,18-Nov-06,Arsenal,Newcastle,1,1,D,0,1,A,M Atkinson,23,2,10,1,10,9,11,1,2,5,0,0,None,None
+120,18-Nov-06,Chelsea,West Ham,1,0,H,1,0,H,M Dean,19,7,9,1,10,8,5,6,1,4,0,0,Chelsea,West Ham
+121,25-Nov-06,Liverpool,Man City,1,0,H,0,0,D,R Styles,12,6,6,2,9,20,8,2,2,1,0,0,Liverpool,Man City
+122,26-Nov-06,Man United,Chelsea,1,1,D,1,0,H,H Webb,8,13,5,7,16,12,3,2,1,3,0,0,None,None
+123,29-Nov-06,Man United,Everton,3,0,H,1,0,H,M Halsey,18,7,6,4,15,15,3,2,1,1,0,0,Man United,Everton
+124,2-Dec-06,Arsenal,Tottenham,3,0,H,2,0,H,G Poll,6,7,5,4,15,15,3,2,1,2,0,0,Arsenal,Tottenham
+125,3-Dec-06,Everton,West Ham,2,0,H,0,0,D,M Atkinson,8,16,5,11,16,9,3,14,2,2,0,0,Everton,West Ham
+126,4-Dec-06,Man City,Watford,0,0,D,0,0,D,M Clattenburg,14,6,12,4,12,16,9,8,1,3,0,0,None,None
+127,9-Dec-06,Man United,Man City,3,1,H,2,0,H,G Poll,20,15,11,7,15,19,7,4,1,3,0,1,Man United,Man City
+128,10-Dec-06,Chelsea,Arsenal,1,1,D,0,0,D,A Wiley,20,11,7,4,16,16,4,5,2,2,0,0,None,None
+129,13-Dec-06,Chelsea,Newcastle,1,0,H,0,0,D,P Dowd,15,6,8,1,16,13,7,2,2,2,0,0,Chelsea,Newcastle
+130,16-Dec-06,Newcastle,Watford,2,1,H,0,0,D,M Atkinson,11,11,6,8,7,18,4,8,0,0,0,0,Newcastle,Watford
+131,17-Dec-06,Everton,Chelsea,2,3,A,1,0,H,M Halsey,3,18,1,9,17,8,5,6,1,1,0,0,Chelsea,Everton
+132,17-Dec-06,Man City,Tottenham,1,2,A,0,2,A,R Styles,10,11,4,7,13,11,6,3,1,0,0,0,Tottenham,Man City
+133,17-Dec-06,West Ham,Man United,1,0,H,0,0,D,P Dowd,10,19,4,11,25,10,1,11,3,2,0,0,West Ham,Man United
+134,23-Dec-06,Liverpool,Watford,2,0,H,0,0,D,P Dowd,15,7,10,4,10,17,7,6,0,0,0,0,Liverpool,Watford
+135,23-Dec-06,Newcastle,Tottenham,3,1,H,3,1,H,A Wiley,12,17,9,6,12,18,5,5,1,1,0,0,Newcastle,Tottenham
+136,26-Dec-06,Watford,Arsenal,1,2,A,1,1,D,M Dean,6,16,3,8,11,6,7,5,2,0,0,0,Arsenal,Watford
+137,30-Dec-06,Everton,Newcastle,3,0,H,1,0,H,D Gallagher,16,7,9,3,7,11,7,12,2,3,0,0,Everton,Newcastle
+138,30-Dec-06,Tottenham,Liverpool,0,1,A,0,1,A,M Halsey,9,10,3,5,5,21,2,3,0,0,0,0,Liverpool,Tottenham
+139,30-Dec-06,West Ham,Man City,0,1,A,0,0,D,S Bennett,12,7,6,5,12,15,6,2,1,2,0,0,Man City,West Ham
+140,1-Jan-07,Man City,Everton,2,1,H,0,0,D,U Rennie,11,15,7,5,13,13,4,6,2,3,0,0,Man City,Everton
+141,1-Jan-07,Newcastle,Man United,2,2,D,1,1,D,R Styles,8,20,8,8,11,10,1,10,1,2,0,0,None,None
+142,13-Jan-07,Watford,Liverpool,0,3,A,0,2,A,M Clattenburg,8,22,4,13,9,10,3,12,0,0,0,0,Liverpool,Watford
+143,14-Jan-07,Tottenham,Newcastle,2,3,A,1,1,D,S Bennett,25,12,17,7,8,9,5,3,1,4,0,0,Newcastle,Tottenham
+144,20-Jan-07,Liverpool,Chelsea,2,0,H,2,0,H,R Styles,17,11,8,3,10,17,3,7,0,1,0,0,Liverpool,Chelsea
+145,20-Jan-07,Newcastle,West Ham,2,2,D,1,2,A,U Rennie,14,12,7,7,16,26,10,2,3,4,0,0,None,None
+146,21-Jan-07,Arsenal,Man United,2,1,H,0,0,D,S Bennett,18,10,11,6,13,11,8,6,1,3,0,0,Arsenal,Man United
+147,30-Jan-07,West Ham,Liverpool,1,2,A,0,0,D,M Atkinson,13,15,6,9,11,8,4,9,1,1,0,0,Liverpool,West Ham
+148,31-Jan-07,Man United,Watford,4,0,H,1,0,H,M Dean,21,2,10,1,11,11,7,2,2,2,0,0,Man United,Watford
+149,3-Feb-07,Liverpool,Everton,0,0,D,0,0,D,A Wiley,25,6,10,4,13,18,6,4,0,3,0,0,None,None
+150,4-Feb-07,Tottenham,Man United,0,4,A,0,1,A,M Clattenburg,10,12,5,7,8,16,5,7,2,3,0,0,Man United,Tottenham
+151,10-Feb-07,Newcastle,Liverpool,2,1,H,1,1,D,M Halsey,7,13,3,9,9,14,3,4,1,1,0,0,Newcastle,Liverpool
+152,10-Feb-07,West Ham,Watford,0,1,A,0,1,A,A Wiley,23,8,10,5,17,23,10,4,4,2,0,0,Watford,West Ham
+153,21-Feb-07,Everton,Tottenham,1,2,A,1,1,D,U Rennie,10,8,3,4,7,14,5,1,2,1,0,0,Tottenham,Everton
+154,24-Feb-07,Watford,Everton,0,3,A,0,2,A,L Mason,11,13,3,5,10,17,5,9,2,1,0,0,Everton,Watford
+155,3-Mar-07,Liverpool,Man United,0,1,A,0,0,D,M Atkinson,15,5,8,3,11,12,12,2,2,2,0,1,Man United,Liverpool
+156,4-Mar-07,West Ham,Tottenham,3,4,A,2,0,H,M Dean,12,12,6,7,15,12,6,3,6,1,0,0,Tottenham,West Ham
+157,14-Mar-07,Man City,Chelsea,0,1,A,0,1,A,A Wiley,8,5,2,3,10,13,5,4,3,2,0,0,Chelsea,Man City
+158,17-Mar-07,Tottenham,Watford,3,1,H,1,0,H,M Halsey,17,2,11,2,5,8,5,4,0,0,0,0,Tottenham,Watford
+159,18-Mar-07,Everton,Arsenal,1,0,H,0,0,D,M Clattenburg,11,18,4,9,17,13,5,4,6,0,0,0,Everton,Arsenal
+160,31-Mar-07,Liverpool,Arsenal,4,1,H,2,0,H,S Bennett,12,11,7,3,17,8,2,7,1,3,0,0,Liverpool,Arsenal
+161,31-Mar-07,Newcastle,Man City,0,1,A,0,0,D,G Poll,15,7,6,5,9,16,8,1,1,3,0,0,Man City,Newcastle
+162,31-Mar-07,Watford,Chelsea,0,1,A,0,0,D,U Rennie,12,13,6,8,18,9,5,10,1,3,0,0,Chelsea,Watford
+163,7-Apr-07,Arsenal,West Ham,0,1,A,0,1,A,G Poll,29,6,15,5,10,15,14,1,0,1,0,0,West Ham,Arsenal
+164,7-Apr-07,Chelsea,Tottenham,1,0,H,0,0,D,R Styles,11,6,8,5,13,11,11,7,2,1,0,0,Chelsea,Tottenham
+165,9-Apr-07,Newcastle,Arsenal,0,0,D,0,0,D,H Webb,8,6,4,2,13,14,3,6,1,2,0,0,None,None
+166,14-Apr-07,Man City,Liverpool,0,0,D,0,0,D,U Rennie,7,11,1,3,12,15,4,4,1,2,0,0,None,None
+167,17-Apr-07,Arsenal,Man City,3,1,H,1,1,D,M Halsey,12,9,10,6,8,8,7,3,0,0,0,0,Arsenal,Man City
+168,18-Apr-07,West Ham,Chelsea,1,4,A,1,2,A,M Dean,14,14,10,7,21,9,9,5,5,2,0,0,Chelsea,West Ham
+169,21-Apr-07,Tottenham,Arsenal,2,2,D,1,0,H,M Dean,7,17,3,5,10,6,4,6,2,2,0,0,None,None
+170,21-Apr-07,Watford,Man City,1,1,D,0,0,D,R Styles,4,4,1,1,9,6,5,3,1,1,0,0,None,None
+171,21-Apr-07,West Ham,Everton,1,0,H,1,0,H,M Clattenburg,15,10,7,2,16,10,5,7,2,1,0,0,West Ham,Everton
+172,22-Apr-07,Newcastle,Chelsea,0,0,D,0,0,D,M Halsey,11,12,3,4,15,16,4,2,0,3,0,0,None,None
+173,28-Apr-07,Everton,Man United,2,4,A,1,0,H,A Wiley,8,18,3,12,17,11,4,9,1,1,0,0,Man United,Everton
+174,5-May-07,Man City,Man United,0,1,A,0,1,A,R Styles,4,6,3,3,13,10,5,3,2,2,0,0,Man United,Man City
+175,6-May-07,Arsenal,Chelsea,1,1,D,1,0,H,A Wiley,7,9,4,4,19,13,3,7,1,2,0,1,None,None
+176,9-May-07,Chelsea,Man United,0,0,D,0,0,D,G Poll,15,5,10,0,12,20,8,1,3,4,0,0,None,None
+177,13-May-07,Chelsea,Everton,1,1,D,0,0,D,M Halsey,14,8,10,5,13,5,9,2,2,1,0,0,None,None
+178,13-May-07,Man United,West Ham,0,1,A,0,1,A,M Atkinson,28,6,20,4,13,11,14,3,0,2,0,0,West Ham,Man United
+179,13-May-07,Tottenham,Man City,2,1,H,2,1,H,S Bennett,8,10,3,5,11,13,6,6,1,1,0,0,Tottenham,Man City
+180,13-May-07,Watford,Newcastle,1,1,D,0,1,A,R Styles,11,1,2,1,13,6,8,5,2,4,0,0,None,None
+181,11-Aug-07,West Ham,Man City,0,2,A,0,1,A,P Walton,9,14,2,5,13,11,5,3,0,4,0,0,Man City,West Ham
+182,14-Aug-07,Tottenham,Everton,1,3,A,1,3,A,M Halsey,14,16,8,10,16,9,9,4,2,0,0,0,Everton,Tottenham
+183,19-Aug-07,Liverpool,Chelsea,1,1,D,1,0,H,R Styles,18,6,8,2,11,16,5,2,4,5,0,0,None,None
+184,19-Aug-07,Man City,Man United,1,0,H,1,0,H,M Clattenburg,6,15,2,6,8,11,0,11,2,2,0,0,Man City,Man United
+185,25-Aug-07,Arsenal,Man City,1,0,H,0,0,D,C Foy,16,8,10,4,8,9,8,2,0,1,0,0,Arsenal,Man City
+186,26-Aug-07,Man United,Tottenham,1,0,H,0,0,D,H Webb,14,10,5,3,15,7,4,4,2,3,0,0,Man United,Tottenham
+187,15-Sep-07,Everton,Man United,0,1,A,0,0,D,A Wiley,8,16,2,8,20,10,3,6,2,2,0,0,Man United,Everton
+188,15-Sep-07,Tottenham,Arsenal,1,3,A,1,0,H,M Clattenburg,14,16,5,10,28,22,8,4,2,2,0,0,Arsenal,Tottenham
+189,23-Sep-07,Man United,Chelsea,2,0,H,1,0,H,M Dean,17,4,9,1,10,15,10,1,2,2,0,1,Man United,Chelsea
+190,23-Sep-07,Newcastle,West Ham,3,1,H,2,1,H,M Riley,12,13,4,8,16,15,1,5,1,3,0,0,Newcastle,West Ham
+191,29-Sep-07,Man City,Newcastle,3,1,H,1,1,D,C Foy,16,12,12,8,7,10,3,9,0,0,0,0,Man City,Newcastle
+192,29-Sep-07,West Ham,Arsenal,0,1,A,0,1,A,A Wiley,9,16,4,12,15,14,3,14,2,2,0,0,Arsenal,West Ham
+193,7-Oct-07,Liverpool,Tottenham,2,2,D,1,1,D,M Halsey,21,11,9,6,18,10,5,3,0,1,0,0,None,None
+194,7-Oct-07,Newcastle,Everton,3,2,H,1,0,H,M Atkinson,15,11,10,6,13,19,8,2,2,1,0,0,Newcastle,Everton
+195,20-Oct-07,Everton,Liverpool,1,2,A,1,0,H,M Clattenburg,6,17,1,7,8,14,9,6,1,2,2,0,Liverpool,Everton
+196,22-Oct-07,Newcastle,Tottenham,3,1,H,1,0,H,S Bennett,15,11,7,4,12,7,5,5,2,2,0,0,Newcastle,Tottenham
+197,27-Oct-07,Chelsea,Man City,6,0,H,2,0,H,M Riley,16,7,9,4,13,12,9,3,2,2,0,0,Chelsea,Man City
+198,28-Oct-07,Liverpool,Arsenal,1,1,D,1,0,H,H Webb,11,11,8,4,16,10,4,1,3,3,0,0,None,None
+199,3-Nov-07,Arsenal,Man United,2,2,D,0,1,A,H Webb,16,10,6,4,15,15,3,4,1,2,0,0,None,None
+200,11-Nov-07,Chelsea,Everton,1,1,D,0,0,D,A Wiley,15,6,10,2,13,16,9,1,2,2,0,0,None,None
+201,24-Nov-07,Newcastle,Liverpool,0,3,A,0,1,A,A Wiley,6,17,2,11,13,11,0,8,3,1,0,0,Liverpool,Newcastle
+202,25-Nov-07,West Ham,Tottenham,1,1,D,1,0,H,M Riley,14,9,9,5,33,5,7,8,3,4,0,0,None,None
+203,1-Dec-07,Chelsea,West Ham,1,0,H,0,0,D,H Webb,14,4,5,1,15,26,7,0,5,3,0,0,Chelsea,West Ham
+204,5-Dec-07,Newcastle,Arsenal,1,1,D,0,1,A,M Dean,12,6,8,2,9,10,6,6,3,2,0,0,None,None
+205,9-Dec-07,Tottenham,Man City,2,1,H,1,0,H,M Halsey,12,7,8,3,7,13,2,6,2,3,0,1,Tottenham,Man City
+206,15-Dec-07,West Ham,Everton,0,2,A,0,1,A,S Tanner,11,12,3,8,16,14,9,2,1,2,0,0,Everton,West Ham
+207,16-Dec-07,Arsenal,Chelsea,1,0,H,1,0,H,A Wiley,11,10,5,7,19,12,3,5,5,5,0,0,Arsenal,Chelsea
+208,16-Dec-07,Liverpool,Man United,0,1,A,0,1,A,M Halsey,19,5,6,3,14,13,3,3,2,3,0,0,Man United,Liverpool
+209,22-Dec-07,Arsenal,Tottenham,2,1,H,0,0,D,R Styles,9,10,5,5,10,10,5,1,1,3,0,0,Arsenal,Tottenham
+210,23-Dec-07,Man United,Everton,2,1,H,1,1,D,H Webb,18,4,11,2,10,13,8,2,3,3,0,0,Man United,Everton
+211,29-Dec-07,Chelsea,Newcastle,2,1,H,1,0,H,M Riley,16,3,10,2,9,11,12,3,1,2,0,0,Chelsea,Newcastle
+212,29-Dec-07,Everton,Arsenal,1,4,A,1,0,H,M Atkinson,10,10,3,7,14,13,10,2,0,5,1,1,Arsenal,Everton
+213,29-Dec-07,West Ham,Man United,2,1,H,0,1,A,M Dean,11,7,5,3,10,12,6,3,2,0,0,0,West Ham,Man United
+214,30-Dec-07,Man City,Liverpool,0,0,D,0,0,D,U Rennie,4,19,3,11,4,7,2,9,0,1,0,0,None,None
+215,1-Jan-08,Arsenal,West Ham,2,0,H,2,0,H,C Foy,21,15,13,7,5,7,5,7,0,3,0,0,Arsenal,West Ham
+216,2-Jan-08,Newcastle,Man City,0,2,A,0,1,A,M Atkinson,16,12,10,7,8,12,8,7,0,3,0,0,Man City,Newcastle
+217,12-Jan-08,Chelsea,Tottenham,2,0,H,1,0,H,A Wiley,8,6,6,2,17,11,4,7,2,4,0,0,Chelsea,Tottenham
+218,12-Jan-08,Everton,Man City,1,0,H,1,0,H,M Halsey,10,5,5,1,14,12,4,4,2,1,0,0,Everton,Man City
+219,12-Jan-08,Man United,Newcastle,6,0,H,0,0,D,R Styles,30,7,21,5,7,7,16,1,1,1,0,1,Man United,Newcastle
+220,20-Jan-08,Man City,West Ham,1,1,D,1,1,D,P Dowd,11,11,6,5,15,20,5,10,2,4,0,0,None,None
+221,29-Jan-08,Arsenal,Newcastle,3,0,H,1,0,H,M Riley,10,7,4,3,11,15,4,2,1,3,0,0,Arsenal,Newcastle
+222,30-Jan-08,Everton,Tottenham,0,0,D,0,0,D,A Marriner,11,5,6,4,14,12,7,2,1,1,0,0,None,None
+223,30-Jan-08,West Ham,Liverpool,1,0,H,0,0,D,A Wiley,8,13,2,5,11,19,4,6,0,3,0,0,West Ham,Liverpool
+224,2-Feb-08,Man City,Arsenal,1,3,A,1,2,A,A Marriner,5,14,2,9,7,7,1,9,2,0,0,0,Arsenal,Man City
+225,2-Feb-08,Tottenham,Man United,1,1,D,1,0,H,M Clattenburg,10,16,8,10,18,10,8,9,3,7,0,0,None,None
+226,10-Feb-08,Chelsea,Liverpool,0,0,D,0,0,D,M Riley,5,10,3,4,14,18,6,4,3,2,0,0,None,None
+227,10-Feb-08,Man United,Man City,1,2,A,0,2,A,H Webb,19,9,9,7,6,11,8,7,1,0,0,0,Man City,Man United
+228,23-Feb-08,Newcastle,Man United,1,5,A,0,2,A,C Foy,10,16,5,10,13,12,7,4,4,0,0,0,Man United,Newcastle
+229,25-Feb-08,Man City,Everton,0,2,A,0,2,A,R Styles,20,13,12,8,7,14,4,7,0,1,1,0,Everton,Man City
+230,1-Mar-08,West Ham,Chelsea,0,4,A,0,3,A,P Walton,9,13,7,8,14,6,6,1,0,2,0,1,Chelsea,West Ham
+231,5-Mar-08,Liverpool,West Ham,4,0,H,1,0,H,S Bennett,20,2,11,2,9,15,16,3,0,3,0,0,Liverpool,West Ham
+232,8-Mar-08,Liverpool,Newcastle,3,0,H,2,0,H,P Walton,15,6,13,4,8,7,12,8,1,0,0,0,Liverpool,Newcastle
+233,9-Mar-08,Tottenham,West Ham,4,0,H,2,0,H,C Foy,18,8,11,4,6,17,8,4,0,2,0,1,Tottenham,West Ham
+234,16-Mar-08,Man City,Tottenham,2,1,H,0,1,A,M Clattenburg,13,12,8,7,11,3,5,5,0,0,0,0,Man City,Tottenham
+235,19-Mar-08,Tottenham,Chelsea,4,4,D,1,2,A,M Riley,10,10,9,8,10,16,10,2,2,2,0,0,None,None
+236,22-Mar-08,Everton,West Ham,1,1,D,1,0,H,M Halsey,14,13,7,5,10,10,4,4,0,0,0,0,None,None
+237,23-Mar-08,Chelsea,Arsenal,2,1,H,0,0,D,M Clattenburg,11,7,8,5,10,13,4,2,3,1,0,0,Chelsea,Arsenal
+238,23-Mar-08,Man United,Liverpool,3,0,H,1,0,H,S Bennett,22,8,15,4,11,12,2,4,1,3,0,1,Man United,Liverpool
+239,30-Mar-08,Liverpool,Everton,1,0,H,1,0,H,H Webb,15,3,9,2,13,14,11,4,1,4,0,0,Liverpool,Everton
+240,30-Mar-08,Tottenham,Newcastle,1,4,A,1,1,D,S Bennett,18,17,10,9,10,8,6,7,1,1,0,0,Newcastle,Tottenham
+241,5-Apr-08,Arsenal,Liverpool,1,1,D,0,1,A,P Dowd,8,11,6,4,10,10,5,3,1,2,0,0,None,None
+242,5-Apr-08,Man City,Chelsea,0,2,A,0,1,A,C Foy,14,10,7,5,6,12,7,5,1,0,0,0,Chelsea,Man City
+243,13-Apr-08,Man United,Arsenal,2,1,H,0,0,D,H Webb,13,18,7,11,12,7,6,5,2,6,0,0,Man United,Arsenal
+244,17-Apr-08,Everton,Chelsea,0,1,A,0,1,A,M Atkinson,10,5,5,3,8,9,4,6,0,2,0,0,Chelsea,Everton
+245,26-Apr-08,Chelsea,Man United,2,1,H,1,0,H,A Wiley,13,7,8,6,14,16,8,3,3,4,0,0,Chelsea,Man United
+246,26-Apr-08,West Ham,Newcastle,2,2,D,2,2,D,U Rennie,18,4,11,3,13,11,6,1,2,3,0,0,None,None
+247,3-May-08,Man United,West Ham,4,1,H,3,1,H,M Riley,8,9,4,5,15,16,4,2,1,3,1,0,Man United,West Ham
+248,4-May-08,Arsenal,Everton,1,0,H,0,0,D,A Wiley,11,8,2,4,10,4,8,3,0,1,0,0,Arsenal,Everton
+249,4-May-08,Liverpool,Man City,1,0,H,0,0,D,M Halsey,23,4,10,3,9,5,12,5,0,0,0,0,Liverpool,Man City
+250,5-May-08,Newcastle,Chelsea,0,2,A,0,0,D,S Bennett,13,18,5,9,13,15,1,6,2,2,0,0,Chelsea,Newcastle
+251,11-May-08,Everton,Newcastle,3,1,H,1,0,H,P Walton,20,3,11,2,11,12,6,2,0,2,0,0,Everton,Newcastle
+252,11-May-08,Tottenham,Liverpool,0,2,A,0,0,D,U Rennie,6,18,3,12,11,9,8,4,1,1,0,0,Liverpool,Tottenham
+253,16-Aug-08,Arsenal,West Brom,1,0,H,1,0,H,H Webb,24,5,14,4,11,8,7,5,0,0,0,0,Arsenal,West Brom
+254,17-Aug-08,Man United,Newcastle,1,1,D,1,1,D,M Riley,18,11,12,4,15,11,6,6,3,0,0,0,None,None
+255,23-Aug-08,West Brom,Everton,1,2,A,0,0,D,R Styles,14,9,4,7,11,14,11,5,3,1,0,0,Everton,West Brom
+256,24-Aug-08,Man City,West Ham,3,0,H,0,0,D,H Webb,14,3,9,0,12,16,6,3,0,2,0,1,Man City,West Ham
+257,30-Aug-08,Arsenal,Newcastle,3,0,H,2,0,H,R Styles,20,4,14,2,12,11,12,1,2,2,0,0,Arsenal,Newcastle
+258,31-Aug-08,Chelsea,Tottenham,1,1,D,1,1,D,H Webb,12,6,3,6,10,13,5,8,3,0,0,0,None,None
+259,13-Sep-08,Liverpool,Man United,2,1,H,1,1,D,H Webb,16,7,11,3,10,18,5,4,0,3,0,1,Liverpool,Man United
+260,13-Sep-08,Man City,Chelsea,1,3,A,1,1,D,M Halsey,13,18,7,8,14,10,8,5,0,1,0,1,Chelsea,Man City
+261,13-Sep-08,West Brom,West Ham,3,2,H,2,2,D,L Probert,13,21,8,13,9,18,8,8,1,1,0,0,West Brom,West Ham
+262,14-Sep-08,Stoke,Everton,2,3,A,0,1,A,A Wiley,12,8,7,5,10,19,7,8,2,1,0,0,Everton,Stoke
+263,20-Sep-08,Liverpool,Stoke,0,0,D,0,0,D,A Marriner,27,3,11,2,8,10,20,3,1,1,0,0,None,None
+264,20-Sep-08,West Ham,Newcastle,3,1,H,2,0,H,P Dowd,12,11,6,8,8,21,2,6,1,2,0,0,West Ham,Newcastle
+265,21-Sep-08,Chelsea,Man United,1,1,D,0,1,A,M Riley,20,13,13,8,15,18,7,4,1,7,0,0,None,None
+266,27-Sep-08,Everton,Liverpool,0,2,A,0,0,D,M Riley,4,11,2,6,17,20,7,4,3,3,1,0,Liverpool,Everton
+267,27-Sep-08,Stoke,Chelsea,0,2,A,0,1,A,M Atkinson,5,14,2,9,9,6,5,5,2,1,0,0,Chelsea,Stoke
+268,5-Oct-08,Everton,Newcastle,2,2,D,2,1,H,H Webb,13,11,5,9,18,15,3,5,1,3,0,0,None,None
+269,5-Oct-08,Man City,Liverpool,2,3,A,2,0,H,P Walton,7,14,5,7,11,12,1,7,1,1,1,0,Liverpool,Man City
+270,18-Oct-08,Arsenal,Everton,3,1,H,0,1,A,P Walton,22,7,14,3,8,13,7,4,2,4,0,0,Arsenal,Everton
+271,18-Oct-08,Man United,West Brom,4,0,H,0,0,D,M Halsey,18,6,14,2,11,14,15,1,0,1,0,0,Man United,West Brom
+272,19-Oct-08,Stoke,Tottenham,2,1,H,1,1,D,L Mason,7,11,3,6,12,12,6,1,1,2,0,2,Stoke,Tottenham
+273,20-Oct-08,Newcastle,Man City,2,2,D,1,1,D,R Styles,6,20,2,8,15,15,5,10,0,2,1,0,None,None
+274,25-Oct-08,Everton,Man United,1,1,D,0,1,A,A Wiley,13,18,9,14,17,11,5,9,3,3,0,0,None,None
+275,26-Oct-08,Chelsea,Liverpool,0,1,A,0,1,A,H Webb,14,8,5,3,17,13,4,2,3,3,0,0,Liverpool,Chelsea
+276,26-Oct-08,Man City,Stoke,3,0,H,1,0,H,S Tanner,18,9,12,6,12,16,6,8,1,0,0,0,Man City,Stoke
+277,26-Oct-08,West Ham,Arsenal,0,2,A,0,0,D,P Dowd,7,20,3,10,13,9,4,9,2,3,1,0,Arsenal,West Ham
+278,28-Oct-08,Newcastle,West Brom,2,1,H,2,0,H,M Dean,10,14,5,4,13,11,7,8,0,4,0,0,Newcastle,West Brom
+279,29-Oct-08,Arsenal,Tottenham,4,4,D,1,1,D,M Atkinson,20,9,12,6,8,17,9,1,1,4,0,0,None,None
+280,29-Oct-08,Man United,West Ham,2,0,H,2,0,H,P Walton,21,4,12,1,10,9,3,1,1,2,0,0,Man United,West Ham
+281,1-Nov-08,Stoke,Arsenal,2,1,H,1,0,H,R Styles,7,13,5,6,11,7,3,5,4,2,0,1,Stoke,Arsenal
+282,1-Nov-08,Tottenham,Liverpool,2,1,H,0,1,A,P Dowd,8,14,4,6,18,13,4,4,1,2,0,0,Tottenham,Liverpool
+283,8-Nov-08,Arsenal,Man United,2,1,H,1,0,H,H Webb,11,17,7,9,16,7,5,6,3,2,0,0,Arsenal,Man United
+284,8-Nov-08,Liverpool,West Brom,3,0,H,2,0,H,P Walton,11,4,10,2,10,8,3,7,2,1,0,0,Liverpool,West Brom
+285,8-Nov-08,West Ham,Everton,1,3,A,0,0,D,M Halsey,15,12,13,7,9,10,9,4,1,1,0,0,Everton,West Ham
+286,9-Nov-08,Man City,Tottenham,1,2,A,1,1,D,M Dean,9,14,7,9,12,13,4,5,1,2,2,1,Tottenham,Man City
+287,15-Nov-08,Man United,Stoke,5,0,H,2,0,H,P Walton,21,3,15,1,5,15,3,0,1,2,0,0,Man United,Stoke
+288,15-Nov-08,West Brom,Chelsea,0,3,A,0,3,A,S Bennett,13,15,3,9,7,10,3,10,0,3,0,0,Chelsea,West Brom
+289,22-Nov-08,Chelsea,Newcastle,0,0,D,0,0,D,P Dowd,25,2,14,0,12,13,8,1,0,2,0,0,None,None
+290,22-Nov-08,Man City,Arsenal,3,0,H,1,0,H,A Wiley,12,11,8,5,16,9,3,3,0,1,0,0,Man City,Arsenal
+291,22-Nov-08,Stoke,West Brom,1,0,H,0,0,D,L Mason,9,8,7,2,9,7,4,1,1,0,0,0,Stoke,West Brom
+292,30-Nov-08,Chelsea,Arsenal,1,2,A,1,0,H,M Dean,12,9,5,6,18,16,3,2,2,0,0,0,Arsenal,Chelsea
+293,30-Nov-08,Man City,Man United,0,1,A,0,1,A,H Webb,10,12,1,8,17,15,3,8,2,5,0,1,Man United,Man City
+294,30-Nov-08,Tottenham,Everton,0,1,A,0,0,D,S Bennett,14,8,6,6,9,16,5,1,1,3,0,0,Everton,Tottenham
+295,1-Dec-08,Liverpool,West Ham,0,0,D,0,0,D,P Walton,21,7,8,3,5,7,17,5,1,1,0,0,None,None
+296,6-Dec-08,Newcastle,Stoke,2,2,D,2,0,H,M Riley,9,12,6,4,10,17,6,3,0,1,0,0,None,None
+297,8-Dec-08,West Ham,Tottenham,0,2,A,0,0,D,C Foy,11,17,4,12,13,16,7,5,2,0,0,0,Tottenham,West Ham
+298,13-Dec-08,Man City,Everton,0,1,A,0,0,D,M Halsey,7,11,4,4,10,7,5,7,0,1,0,0,Everton,Man City
+299,13-Dec-08,Tottenham,Man United,0,0,D,0,0,D,M Dean,11,15,6,12,10,9,4,14,1,1,0,0,None,None
+300,14-Dec-08,Chelsea,West Ham,1,1,D,0,1,A,M Riley,19,4,12,2,13,20,9,4,3,2,0,0,None,None
+301,21-Dec-08,Arsenal,Liverpool,1,1,D,1,1,D,H Webb,6,10,3,6,14,17,2,1,3,3,1,0,None,None
+302,21-Dec-08,Newcastle,Tottenham,2,1,H,1,1,D,A Marriner,7,11,4,6,9,7,4,7,3,2,0,0,Newcastle,Tottenham
+303,21-Dec-08,West Brom,Man City,2,1,H,0,0,D,C Foy,12,11,7,7,10,9,5,7,2,1,0,0,West Brom,Man City
+304,22-Dec-08,Everton,Chelsea,0,0,D,0,0,D,P Dowd,10,6,8,2,16,12,6,5,0,3,0,1,None,None
+305,26-Dec-08,Chelsea,West Brom,2,0,H,2,0,H,R Styles,23,6,15,2,7,7,7,5,1,0,0,0,Chelsea,West Brom
+306,26-Dec-08,Stoke,Man United,0,1,A,0,0,D,C Foy,6,17,3,10,13,7,6,9,4,2,1,0,Man United,Stoke
+307,28-Dec-08,Newcastle,Liverpool,1,5,A,1,2,A,M Halsey,10,17,7,12,7,11,4,9,2,1,0,0,Liverpool,Newcastle
+308,28-Dec-08,West Brom,Tottenham,2,0,H,0,0,D,S Tanner,17,4,11,3,13,12,8,4,3,2,0,1,West Brom,Tottenham
+309,28-Dec-08,West Ham,Stoke,2,1,H,0,1,A,M Jones,15,8,7,5,10,13,8,4,3,3,0,1,West Ham,Stoke
+310,10-Jan-09,Newcastle,West Ham,2,2,D,1,1,D,A Wiley,21,12,12,11,10,18,8,3,1,0,0,0,None,None
+311,10-Jan-09,Stoke,Liverpool,0,0,D,0,0,D,L Mason,5,7,0,3,10,10,4,5,2,2,0,0,None,None
+312,11-Jan-09,Man United,Chelsea,3,0,H,1,0,H,H Webb,14,10,11,6,14,14,6,3,3,5,0,0,Man United,Chelsea
+313,17-Jan-09,Chelsea,Stoke,2,1,H,0,0,D,P Walton,37,4,22,1,6,16,10,4,0,3,0,0,Chelsea,Stoke
+314,19-Jan-09,Liverpool,Everton,1,1,D,0,0,D,H Webb,9,7,5,6,19,15,4,4,0,2,0,0,None,None
+315,27-Jan-09,Tottenham,Stoke,3,1,H,3,0,H,M Riley,22,6,14,3,19,21,7,4,2,3,0,0,Tottenham,Stoke
+316,27-Jan-09,West Brom,Man United,0,5,A,0,2,A,R Styles,10,17,4,10,11,7,5,4,5,2,1,0,Man United,West Brom
+317,28-Jan-09,Everton,Arsenal,1,1,D,0,0,D,A Marriner,7,7,3,4,9,11,7,6,2,2,0,0,None,None
+318,28-Jan-09,Man City,Newcastle,2,1,H,1,0,H,M Jones,14,2,7,1,8,11,7,0,1,2,0,0,Man City,Newcastle
+319,31-Jan-09,Arsenal,West Ham,0,0,D,0,0,D,S Bennett,15,2,8,2,12,12,13,3,2,2,0,0,None,None
+320,31-Jan-09,Man United,Everton,1,0,H,1,0,H,M Halsey,17,7,10,4,11,14,6,2,0,0,0,0,Man United,Everton
+321,31-Jan-09,Stoke,Man City,1,0,H,1,0,H,M Atkinson,7,17,4,7,9,9,7,6,1,1,1,0,Stoke,Man City
+322,1-Feb-09,Liverpool,Chelsea,2,0,H,0,0,D,M Riley,21,4,15,1,20,15,12,1,4,3,0,1,Liverpool,Chelsea
+323,7-Feb-09,West Brom,Newcastle,2,3,A,1,3,A,C Foy,13,10,7,7,7,11,3,4,2,2,0,0,Newcastle,West Brom
+324,8-Feb-09,Tottenham,Arsenal,0,0,D,0,0,D,M Dean,16,4,6,1,14,14,6,4,1,2,0,1,None,None
+325,8-Feb-09,West Ham,Man United,0,1,A,0,0,D,P Dowd,9,11,5,6,14,8,5,11,1,1,0,0,Man United,West Ham
+326,22-Feb-09,Liverpool,Man City,1,1,D,0,0,D,P Dowd,18,10,5,4,10,13,6,4,1,2,0,0,None,None
+327,22-Feb-09,Newcastle,Everton,0,0,D,0,0,D,L Mason,4,15,0,5,15,15,0,6,0,1,1,0,None,None
+328,28-Feb-09,Everton,West Brom,2,0,H,1,0,H,S Bennett,11,17,6,9,9,14,3,6,1,1,0,0,Everton,West Brom
+329,1-Mar-09,West Ham,Man City,1,0,H,0,0,D,M Dean,13,9,9,2,14,18,4,7,2,2,0,0,West Ham,Man City
+330,3-Mar-09,West Brom,Arsenal,1,3,A,1,3,A,S Tanner,8,16,4,8,19,14,3,4,4,0,0,0,Arsenal,West Brom
+331,4-Mar-09,Newcastle,Man United,1,2,A,1,1,D,S Bennett,9,11,6,9,10,10,3,10,2,2,0,0,Man United,Newcastle
+332,14-Mar-09,Everton,Stoke,3,1,H,2,0,H,A Marriner,17,10,13,5,7,12,4,9,0,1,0,0,Everton,Stoke
+333,14-Mar-09,Man United,Liverpool,1,4,A,1,2,A,A Wiley,14,9,9,6,14,15,10,3,2,3,1,0,Liverpool,Man United
+334,15-Mar-09,Chelsea,Man City,1,0,H,1,0,H,M Riley,18,6,6,3,7,8,4,3,0,2,0,0,Chelsea,Man City
+335,16-Mar-09,West Ham,West Brom,0,0,D,0,0,D,M Halsey,9,8,4,4,10,10,3,4,1,1,0,0,None,None
+336,21-Mar-09,Newcastle,Arsenal,1,3,A,0,0,D,M Halsey,11,15,8,10,12,12,8,4,0,1,0,0,Arsenal,Newcastle
+337,21-Mar-09,Tottenham,Chelsea,1,0,H,0,0,D,M Dean,8,15,4,9,14,8,8,7,2,2,0,0,Tottenham,Chelsea
+338,4-Apr-09,Arsenal,Man City,2,0,H,1,0,H,A Marriner,17,9,9,4,11,9,7,2,1,3,0,0,Arsenal,Man City
+339,4-Apr-09,Newcastle,Chelsea,0,2,A,0,0,D,R Styles,6,16,4,10,7,17,4,6,0,2,0,0,Chelsea,Newcastle
+340,4-Apr-09,West Brom,Stoke,0,2,A,0,1,A,M Atkinson,12,9,9,6,10,10,6,3,2,1,0,0,Stoke,West Brom
+341,11-Apr-09,Stoke,Newcastle,1,1,D,1,0,H,C Foy,17,8,6,2,14,11,8,4,4,2,0,0,None,None
+342,11-Apr-09,Tottenham,West Ham,1,0,H,0,0,D,M Atkinson,14,8,9,6,9,12,10,1,1,4,0,0,Tottenham,West Ham
+343,19-Apr-09,Man City,West Brom,4,2,H,2,1,H,M Jones,18,26,11,17,18,14,3,9,1,2,0,0,Man City,West Brom
+344,19-Apr-09,Tottenham,Newcastle,1,0,H,1,0,H,M Halsey,22,8,18,3,13,15,4,7,1,2,0,0,Tottenham,Newcastle
+345,21-Apr-09,Liverpool,Arsenal,4,4,D,0,1,A,H Webb,22,8,15,4,10,12,12,0,0,1,0,0,None,None
+346,22-Apr-09,Chelsea,Everton,0,0,D,0,0,D,M Halsey,18,14,6,5,9,10,4,6,0,1,0,0,None,None
+347,25-Apr-09,Everton,Man City,1,2,A,0,1,A,A Wiley,12,16,4,10,12,14,5,3,1,3,0,0,Man City,Everton
+348,25-Apr-09,Man United,Tottenham,5,2,H,0,2,A,H Webb,21,6,14,4,14,10,6,2,3,3,0,0,Man United,Tottenham
+349,25-Apr-09,West Ham,Chelsea,0,1,A,0,0,D,M Dean,8,20,6,8,9,11,3,5,1,0,0,0,Chelsea,West Ham
+350,2-May-09,Stoke,West Ham,0,1,A,0,1,A,P Walton,13,7,7,3,8,9,7,0,3,2,0,0,West Ham,Stoke
+351,2-May-09,Tottenham,West Brom,1,0,H,1,0,H,R Styles,16,10,9,7,6,7,9,7,1,1,0,0,Tottenham,West Brom
+352,3-May-09,Liverpool,Newcastle,3,0,H,2,0,H,P Dowd,25,3,11,3,6,8,7,1,0,2,0,1,Liverpool,Newcastle
+353,9-May-09,Everton,Tottenham,0,0,D,0,0,D,L Mason,13,4,5,2,16,10,4,5,2,3,0,0,None,None
+354,9-May-09,West Ham,Liverpool,0,3,A,0,2,A,A Wiley,8,16,3,9,10,17,2,4,3,2,0,0,Liverpool,West Ham
+355,10-May-09,Arsenal,Chelsea,1,4,A,0,2,A,P Dowd,15,16,7,8,19,12,6,2,1,0,0,0,Chelsea,Arsenal
+356,10-May-09,Man United,Man City,2,0,H,2,0,H,C Foy,15,11,7,5,11,12,8,7,1,1,0,0,Man United,Man City
+357,16-May-09,Everton,West Ham,3,1,H,1,1,D,P Dowd,18,8,9,3,15,14,6,3,1,2,0,1,Everton,West Ham
+358,16-May-09,Man United,Arsenal,0,0,D,0,0,D,M Dean,11,14,5,11,13,14,2,6,0,5,0,0,None,None
+359,16-May-09,Tottenham,Man City,2,1,H,1,0,H,M Halsey,11,9,4,3,5,7,4,7,0,1,0,0,Tottenham,Man City
+360,17-May-09,West Brom,Liverpool,0,2,A,0,1,A,M Atkinson,12,16,7,10,13,4,11,5,2,0,0,0,Liverpool,West Brom
+361,24-May-09,Arsenal,Stoke,4,1,H,4,1,H,M Atkinson,24,3,11,1,9,11,6,0,1,0,0,0,Arsenal,Stoke
+362,24-May-09,Liverpool,Tottenham,3,1,H,1,0,H,P Walton,20,8,9,4,14,4,9,2,0,1,0,0,Liverpool,Tottenham
+363,15-Aug-09,Everton,Arsenal,1,6,A,0,3,A,M Halsey,8,15,5,9,11,13,4,9,0,0,0,0,Arsenal,Everton
+364,15-Aug-09,Stoke,Burnley,2,0,H,2,0,H,S Bennett,12,9,5,5,15,10,3,6,2,2,0,0,Stoke,Burnley
+365,16-Aug-09,Tottenham,Liverpool,2,1,H,1,0,H,P Dowd,17,6,11,3,14,16,6,5,3,3,0,0,Tottenham,Liverpool
+366,19-Aug-09,Burnley,Man United,1,0,H,1,0,H,A Wiley,8,18,2,9,8,12,1,12,2,1,0,0,Burnley,Man United
+367,19-Aug-09,Liverpool,Stoke,4,0,H,2,0,H,P Walton,18,6,13,3,10,9,11,5,0,1,0,0,Liverpool,Stoke
+368,23-Aug-09,Burnley,Everton,1,0,H,1,0,H,P Dowd,8,17,4,11,11,13,3,7,1,0,0,0,Burnley,Everton
+369,23-Aug-09,West Ham,Tottenham,1,2,A,0,0,D,M Clattenburg,17,17,8,10,13,11,4,8,2,1,0,0,Tottenham,West Ham
+370,29-Aug-09,Chelsea,Burnley,3,0,H,1,0,H,M Clattenburg,27,3,17,0,7,5,10,1,0,1,0,0,Chelsea,Burnley
+371,29-Aug-09,Man United,Arsenal,2,1,H,0,1,A,M Dean,10,9,4,3,21,15,6,5,3,6,0,0,Man United,Arsenal
+372,12-Sep-09,Liverpool,Burnley,4,0,H,2,0,H,L Mason,27,6,16,3,8,10,7,5,0,2,0,0,Liverpool,Burnley
+373,12-Sep-09,Man City,Arsenal,4,2,H,1,0,H,M Clattenburg,10,19,6,9,13,12,3,12,3,2,0,0,Man City,Arsenal
+374,12-Sep-09,Stoke,Chelsea,1,2,A,1,1,D,M Dean,4,18,2,10,13,11,4,14,3,3,0,0,Chelsea,Stoke
+375,12-Sep-09,Tottenham,Man United,1,3,A,1,2,A,A Marriner,11,17,7,13,16,13,3,9,3,2,0,1,Man United,Tottenham
+376,19-Sep-09,West Ham,Liverpool,2,3,A,2,2,D,A Marriner,8,19,5,15,13,17,4,4,3,3,0,0,Liverpool,West Ham
+377,20-Sep-09,Chelsea,Tottenham,3,0,H,1,0,H,H Webb,25,9,15,4,7,9,11,3,0,2,0,0,Chelsea,Tottenham
+378,20-Sep-09,Man United,Man City,4,3,H,1,1,D,M Atkinson,21,10,11,6,15,14,11,1,2,2,0,0,Man United,Man City
+379,26-Sep-09,Stoke,Man United,0,2,A,0,0,D,H Webb,2,13,1,7,9,8,2,7,1,1,0,0,Man United,Stoke
+380,26-Sep-09,Tottenham,Burnley,5,0,H,2,0,H,M Dean,18,10,12,7,10,14,2,7,1,1,0,0,Tottenham,Burnley
+381,28-Sep-09,Man City,West Ham,3,1,H,2,1,H,C Foy,20,12,12,8,18,14,11,5,1,1,0,0,Man City,West Ham
+382,4-Oct-09,Chelsea,Liverpool,2,0,H,0,0,D,M Atkinson,12,12,8,3,14,17,5,8,1,1,0,0,Chelsea,Liverpool
+383,4-Oct-09,Everton,Stoke,1,1,D,0,0,D,A Marriner,24,8,17,6,5,15,11,4,1,3,0,0,None,None
+384,17-Oct-09,Stoke,West Ham,2,1,H,1,1,D,M Atkinson,11,12,4,11,16,13,5,6,3,3,0,0,Stoke,West Ham
+385,24-Oct-09,Tottenham,Stoke,0,1,A,0,0,D,L Probert,22,8,12,2,8,18,7,1,0,3,0,0,Stoke,Tottenham
+386,25-Oct-09,Liverpool,Man United,2,0,H,0,0,D,A Marriner,11,7,6,5,20,11,5,1,2,3,1,1,Liverpool,Man United
+387,25-Oct-09,West Ham,Arsenal,2,2,D,0,2,A,C Foy,15,15,9,10,17,15,6,8,3,2,1,0,None,None
+388,31-Oct-09,Arsenal,Tottenham,3,0,H,2,0,H,M Clattenburg,18,7,12,5,10,10,6,2,1,1,0,0,Arsenal,Tottenham
+389,7-Nov-09,Man City,Burnley,3,3,D,1,2,A,S Attwell,13,6,8,4,10,11,8,3,1,3,0,0,None,None
+390,8-Nov-09,Chelsea,Man United,1,0,H,0,0,D,Mn Atkinson,12,21,9,10,13,15,0,7,3,3,0,0,Chelsea,Man United
+391,8-Nov-09,West Ham,Everton,1,2,A,0,1,A,A Wiley,16,9,7,6,12,18,5,4,0,5,0,0,Everton,West Ham
+392,21-Nov-09,Liverpool,Man City,2,2,D,0,0,D,P Dowd,10,9,6,6,9,13,7,3,2,0,0,0,None,None
+393,21-Nov-09,Man United,Everton,3,0,H,1,0,H,S Bennett,18,11,11,5,4,6,13,4,2,2,0,0,Man United,Everton
+394,28-Nov-09,West Ham,Burnley,5,3,H,3,0,H,C Foy,9,16,5,10,10,15,1,7,2,1,0,1,West Ham,Burnley
+395,29-Nov-09,Arsenal,Chelsea,0,3,A,0,2,A,A Marriner,5,7,3,5,17,12,4,3,2,2,0,0,Chelsea,Arsenal
+396,29-Nov-09,Everton,Liverpool,0,2,A,0,1,A,A Wiley,12,9,8,7,15,12,6,4,1,0,0,0,Liverpool,Everton
+397,5-Dec-09,Arsenal,Stoke,2,0,H,1,0,H,M Clattenburg,12,5,8,4,3,7,10,2,0,0,0,0,Arsenal,Stoke
+398,5-Dec-09,Man City,Chelsea,2,1,H,1,1,D,H Webb,13,10,8,6,12,17,9,6,1,6,0,0,Man City,Chelsea
+399,5-Dec-09,West Ham,Man United,0,4,A,0,1,A,P Walton,11,18,7,11,8,16,2,8,0,1,0,0,Man United,West Ham
+400,6-Dec-09,Everton,Tottenham,2,2,D,0,0,D,A Marriner,15,19,6,11,11,18,1,6,4,4,0,0,None,None
+401,12-Dec-09,Chelsea,Everton,3,3,D,2,2,D,P Dowd,25,10,13,7,13,17,7,1,0,1,0,0,None,None
+402,13-Dec-09,Liverpool,Arsenal,1,2,A,1,0,H,H Webb,6,7,3,5,19,16,3,4,3,3,0,0,Arsenal,Liverpool
+403,16-Dec-09,Burnley,Arsenal,1,1,D,1,1,D,M Dean,8,17,3,9,11,11,3,6,2,0,0,0,None,None
+404,16-Dec-09,Tottenham,Man City,3,0,H,1,0,H,A Wiley,19,9,7,5,10,8,5,6,2,3,0,0,Tottenham,Man City
+405,20-Dec-09,West Ham,Chelsea,1,1,D,1,0,H,M Dean,6,20,5,6,17,16,5,5,4,3,0,0,None,None
+406,26-Dec-09,Man City,Stoke,2,0,H,2,0,H,L Mason,12,7,6,3,13,10,7,6,0,2,0,0,Man City,Stoke
+407,28-Dec-09,Everton,Burnley,2,0,H,0,0,D,H Webb,24,12,16,9,7,18,10,6,1,5,0,1,Everton,Burnley
+408,28-Dec-09,Tottenham,West Ham,2,0,H,1,0,H,C Foy,21,3,9,2,9,14,9,3,2,3,0,0,Tottenham,West Ham
+409,9-Jan-10,Arsenal,Everton,2,2,D,1,1,D,P Walton,6,9,5,5,10,11,6,8,1,1,0,0,None,None
+410,16-Jan-10,Everton,Man City,2,0,H,2,0,H,A Marriner,13,8,6,4,14,14,11,3,0,0,0,0,Everton,Man City
+411,16-Jan-10,Man United,Burnley,3,0,H,0,0,D,L Probert,24,11,11,5,12,7,7,1,0,0,0,0,Man United,Burnley
+412,16-Jan-10,Stoke,Liverpool,1,1,D,0,0,D,L Mason,6,4,5,3,14,10,10,0,1,2,0,0,None,None
+413,20-Jan-10,Liverpool,Tottenham,2,0,H,1,0,H,H Webb,13,7,5,5,11,17,2,3,2,3,0,0,Liverpool,Tottenham
+414,30-Jan-10,Burnley,Chelsea,1,2,A,0,1,A,P Dowd,5,16,3,9,12,12,2,9,1,1,0,0,Chelsea,Burnley
+415,31-Jan-10,Arsenal,Man United,1,3,A,0,2,A,C Foy,18,11,7,5,9,12,8,5,1,0,0,0,Man United,Arsenal
+416,6-Feb-10,Burnley,West Ham,2,1,H,1,0,H,H Webb,8,20,4,11,15,13,3,5,2,1,0,0,Burnley,West Ham
+417,6-Feb-10,Liverpool,Everton,1,0,H,0,0,D,M Atkinson,9,6,4,3,11,23,8,8,3,3,1,1,Liverpool,Everton
+418,7-Feb-10,Chelsea,Arsenal,2,0,H,2,0,H,M Dean,9,14,3,6,11,14,4,8,2,2,0,0,Chelsea,Arsenal
+419,10-Feb-10,Arsenal,Liverpool,1,0,H,0,0,D,H Webb,11,9,6,7,19,13,3,6,3,2,0,0,Arsenal,Liverpool
+420,10-Feb-10,Everton,Chelsea,2,1,H,1,1,D,A Wiley,7,14,5,5,13,15,5,6,1,2,0,0,Everton,Chelsea
+421,16-Feb-10,Stoke,Man City,1,1,D,0,0,D,A Wiley,8,9,5,3,21,14,3,3,3,3,1,0,None,None
+422,20-Feb-10,Everton,Man United,3,1,H,1,1,D,H Webb,11,11,7,5,12,10,4,12,5,1,0,0,Everton,Man United
+423,21-Feb-10,Man City,Liverpool,0,0,D,0,0,D,P Walton,4,6,1,2,7,15,8,5,1,6,0,0,None,None
+424,23-Feb-10,Man United,West Ham,3,0,H,1,0,H,A Wiley,12,10,9,4,10,12,6,7,0,1,0,0,Man United,West Ham
+425,27-Feb-10,Chelsea,Man City,2,4,A,1,1,D,M Dean,23,8,13,6,21,12,3,2,3,1,2,0,Man City,Chelsea
+426,27-Feb-10,Stoke,Arsenal,1,3,A,1,1,D,P Walton,4,17,3,11,12,7,3,6,0,1,1,0,Arsenal,Stoke
+427,28-Feb-10,Tottenham,Everton,2,1,H,2,0,H,S Bennett,13,14,9,10,9,18,6,9,1,4,0,0,Tottenham,Everton
+428,6-Mar-10,Arsenal,Burnley,3,1,H,1,0,H,C Foy,20,8,11,5,5,12,8,2,0,4,0,0,Arsenal,Burnley
+429,10-Mar-10,Burnley,Stoke,1,1,D,0,1,A,H Webb,10,8,3,3,12,10,4,4,2,0,0,0,None,None
+430,13-Mar-10,Chelsea,West Ham,4,1,H,1,1,D,M Clattenburg,22,4,15,2,13,10,11,1,0,1,0,0,Chelsea,West Ham
+431,20-Mar-10,Arsenal,West Ham,2,0,H,1,0,H,M Atkinson,9,8,5,4,7,24,4,2,1,4,1,0,Arsenal,West Ham
+432,20-Mar-10,Stoke,Tottenham,1,2,A,0,0,D,M Dean,8,16,4,9,7,9,6,7,2,2,1,0,Tottenham,Stoke
+433,21-Mar-10,Man United,Liverpool,2,1,H,1,1,D,H Webb,10,4,5,2,10,15,1,2,2,3,0,0,Man United,Liverpool
+434,24-Mar-10,Man City,Everton,0,2,A,0,1,A,P Walton,12,10,5,7,11,10,7,4,3,2,0,0,Everton,Man City
+435,27-Mar-10,West Ham,Stoke,0,1,A,0,0,D,A Marriner,17,12,7,7,14,17,6,7,0,2,0,0,Stoke,West Ham
+436,3-Apr-10,Burnley,Man City,1,6,A,0,5,A,A Wiley,14,20,7,14,5,8,6,7,0,0,0,0,Man City,Burnley
+437,3-Apr-10,Man United,Chelsea,1,2,A,0,1,A,M Dean,9,11,3,5,14,11,3,3,3,1,0,0,Chelsea,Man United
+438,4-Apr-10,Everton,West Ham,2,2,D,1,0,H,H Webb,10,10,5,5,7,17,2,8,2,3,0,0,None,None
+439,14-Apr-10,Tottenham,Arsenal,2,1,H,1,0,H,M Clattenburg,13,19,10,11,13,10,4,6,3,1,0,0,Tottenham,Arsenal
+440,17-Apr-10,Man City,Man United,0,1,A,0,0,D,M Atkinson,8,13,5,3,8,12,7,5,2,1,0,0,Man United,Man City
+441,17-Apr-10,Tottenham,Chelsea,2,1,H,2,0,H,P Dowd,20,9,10,6,7,14,13,4,2,4,0,1,Tottenham,Chelsea
+442,19-Apr-10,Liverpool,West Ham,3,0,H,2,0,H,P Walton,17,6,8,2,8,12,9,2,0,2,0,0,Liverpool,West Ham
+443,24-Apr-10,Arsenal,Man City,0,0,D,0,0,D,M Dean,9,3,4,2,13,14,5,1,4,2,0,0,None,None
+444,24-Apr-10,Man United,Tottenham,3,1,H,0,0,D,A Marriner,15,9,8,3,13,10,4,4,1,0,0,0,Man United,Tottenham
+445,25-Apr-10,Burnley,Liverpool,0,4,A,0,0,D,P Dowd,12,12,6,10,13,11,4,5,2,1,0,0,Liverpool,Burnley
+446,25-Apr-10,Chelsea,Stoke,7,0,H,3,0,H,S Bennett,29,3,18,2,14,12,7,0,0,3,0,0,Chelsea,Stoke
+447,1-May-10,Stoke,Everton,0,0,D,0,0,D,H Webb,12,11,6,9,10,10,6,5,0,0,0,0,None,None
+448,2-May-10,Liverpool,Chelsea,0,2,A,0,1,A,A Wiley,7,15,2,11,7,7,9,5,1,2,0,0,Chelsea,Liverpool
+449,5-May-10,Man City,Tottenham,0,1,A,0,0,D,S Bennett,10,10,5,6,12,14,9,7,0,3,0,0,Tottenham,Man City
+450,9-May-10,Burnley,Tottenham,4,2,H,1,2,A,M Dean,16,16,12,11,9,8,5,6,0,0,0,0,Burnley,Tottenham
+451,9-May-10,Man United,Stoke,4,0,H,2,0,H,M Clattenburg,18,4,13,4,10,4,10,2,2,0,0,0,Man United,Stoke
+452,9-May-10,West Ham,Man City,1,1,D,1,1,D,H Webb,12,17,8,6,12,7,4,3,2,0,0,0,None,None
+453,14-Aug-10,Chelsea,West Brom,6,0,H,2,0,H,M Clattenburg,18,10,13,4,10,10,3,1,1,0,0,0,Chelsea,West Brom
+454,14-Aug-10,Tottenham,Man City,0,0,D,0,0,D,A Marriner,22,11,18,7,13,16,10,3,0,2,0,0,None,None
+455,15-Aug-10,Liverpool,Arsenal,1,1,D,0,0,D,M Atkinson,7,14,4,7,13,15,9,11,1,3,1,1,None,None
+456,16-Aug-10,Man United,Newcastle,3,0,H,2,0,H,C Foy,18,7,10,3,9,5,5,3,2,2,0,0,Man United,Newcastle
+457,21-Aug-10,Stoke,Tottenham,1,2,A,1,2,A,C Foy,15,7,10,6,15,4,6,2,3,1,0,0,Tottenham,Stoke
+458,23-Aug-10,Man City,Liverpool,3,0,H,1,0,H,P Dowd,8,13,3,7,13,12,5,4,1,1,0,0,Man City,Liverpool
+459,28-Aug-10,Chelsea,Stoke,2,0,H,1,0,H,M Atkinson,15,9,6,3,5,10,6,1,0,2,0,0,Chelsea,Stoke
+460,28-Aug-10,Man United,West Ham,3,0,H,1,0,H,M Clattenburg,18,7,11,2,6,11,9,3,1,2,0,0,Man United,West Ham
+461,29-Aug-10,Liverpool,West Brom,1,0,H,0,0,D,L Probert,11,14,7,5,9,8,7,6,0,0,0,1,Liverpool,West Brom
+462,11-Sep-10,Everton,Man United,3,3,D,1,1,D,M Atkinson,23,13,14,8,11,18,7,5,1,1,0,0,None,None
+463,11-Sep-10,West Brom,Tottenham,1,1,D,1,1,D,H Webb,15,16,8,9,12,9,9,4,2,1,0,0,None,None
+464,11-Sep-10,West Ham,Chelsea,1,3,A,0,2,A,C Foy,13,17,7,9,13,10,1,5,2,2,0,0,Chelsea,West Ham
+465,18-Sep-10,Everton,Newcastle,0,1,A,0,1,A,A Marriner,6,9,3,4,15,21,3,6,2,3,0,0,Newcastle,Everton
+466,18-Sep-10,Stoke,West Ham,1,1,D,0,1,A,L Mason,9,13,3,6,14,8,6,3,3,2,0,0,None,None
+467,19-Sep-10,Man United,Liverpool,3,2,H,1,0,H,H Webb,16,7,7,1,15,10,6,1,4,1,0,0,Man United,Liverpool
+468,25-Sep-10,Arsenal,West Brom,2,3,A,0,0,D,M Oliver,24,7,12,5,15,14,16,4,4,3,0,0,West Brom,Arsenal
+469,25-Sep-10,Man City,Chelsea,1,0,H,0,0,D,A Marriner,8,15,6,4,10,12,3,4,2,3,0,0,Man City,Chelsea
+470,25-Sep-10,West Ham,Tottenham,1,0,H,1,0,H,M Atkinson,22,17,15,11,10,11,14,7,2,0,0,0,West Ham,Tottenham
+471,26-Sep-10,Newcastle,Stoke,1,2,A,1,0,H,M Jones,11,8,7,2,8,11,3,4,0,1,0,0,Stoke,Newcastle
+472,3-Oct-10,Chelsea,Arsenal,2,0,H,1,0,H,M Dean,11,13,6,5,7,12,10,10,1,1,0,0,Chelsea,Arsenal
+473,3-Oct-10,Man City,Newcastle,2,1,H,1,1,D,M Atkinson,9,8,5,4,11,13,4,4,3,2,0,0,Man City,Newcastle
+474,16-Oct-10,Man United,West Brom,2,2,D,2,0,H,M Jones,16,7,9,2,10,7,3,2,1,2,0,0,None,None
+475,17-Oct-10,Everton,Liverpool,2,0,H,1,0,H,H Webb,9,15,6,9,10,9,8,7,2,2,0,0,Everton,Liverpool
+476,23-Oct-10,Tottenham,Everton,1,1,D,1,1,D,M Jones,13,7,8,3,15,14,4,4,3,1,0,0,None,None
+477,23-Oct-10,West Ham,Newcastle,1,2,A,1,1,D,C Foy,5,13,1,8,12,6,2,6,0,0,0,0,Newcastle,West Ham
+478,24-Oct-10,Man City,Arsenal,0,3,A,0,1,A,M Clattenburg,9,12,6,8,11,10,6,7,2,4,1,0,Arsenal,Man City
+479,24-Oct-10,Stoke,Man United,1,2,A,0,1,A,A Marriner,6,12,2,5,6,13,5,6,2,2,0,0,Man United,Stoke
+480,30-Oct-10,Arsenal,West Ham,1,0,H,0,0,D,M Jones,20,6,13,3,14,18,7,4,2,2,0,0,Arsenal,West Ham
+481,30-Oct-10,Everton,Stoke,1,0,H,0,0,D,L Probert,18,9,10,1,16,14,6,2,1,1,0,0,Everton,Stoke
+482,30-Oct-10,Man United,Tottenham,2,0,H,1,0,H,M Clattenburg,18,11,10,5,12,10,1,4,0,3,0,0,Man United,Tottenham
+483,7-Nov-10,Arsenal,Newcastle,0,1,A,0,1,A,M Dean,11,7,8,2,16,12,12,2,3,1,1,0,Newcastle,Arsenal
+484,7-Nov-10,Liverpool,Chelsea,2,0,H,2,0,H,H Webb,9,11,7,7,15,17,2,5,0,2,0,0,Liverpool,Chelsea
+485,7-Nov-10,West Brom,Man City,0,2,A,0,2,A,L Probert,13,9,7,5,15,16,6,1,3,4,1,1,Man City,West Brom
+486,10-Nov-10,Man City,Man United,0,0,D,0,0,D,C Foy,6,7,4,4,10,12,8,5,0,2,0,0,None,None
+487,10-Nov-10,West Ham,West Brom,2,2,D,1,1,D,M Dean,8,14,5,6,13,5,6,7,3,0,0,0,None,None
+488,13-Nov-10,Stoke,Liverpool,2,0,H,0,0,D,M Halsey,14,10,7,6,14,10,4,3,2,3,0,1,Stoke,Liverpool
+489,14-Nov-10,Everton,Arsenal,1,2,A,0,1,A,H Webb,14,13,7,8,15,14,9,2,2,2,0,0,Arsenal,Everton
+490,20-Nov-10,Arsenal,Tottenham,2,3,A,2,0,H,P Dowd,12,10,7,6,17,16,2,6,3,1,0,0,Tottenham,Arsenal
+491,20-Nov-10,Liverpool,West Ham,3,0,H,3,0,H,L Probert,19,6,11,1,8,8,10,2,0,1,0,0,Liverpool,West Ham
+492,20-Nov-10,West Brom,Stoke,0,3,A,0,0,D,C Foy,15,6,8,4,10,9,8,3,0,0,0,0,Stoke,West Brom
+493,27-Nov-10,Everton,West Brom,1,4,A,1,2,A,L Mason,12,7,4,3,11,18,2,2,1,3,1,1,West Brom,Everton
+494,27-Nov-10,Stoke,Man City,1,1,D,0,0,D,P Walton,16,9,9,4,8,10,6,2,2,2,0,0,None,None
+495,28-Nov-10,Newcastle,Chelsea,1,1,D,1,1,D,A Marriner,5,17,3,13,9,11,6,7,2,1,0,0,None,None
+496,28-Nov-10,Tottenham,Liverpool,2,1,H,0,1,A,M Atkinson,20,12,13,8,6,16,5,8,0,5,0,0,Tottenham,Liverpool
+497,4-Dec-10,Chelsea,Everton,1,1,D,1,0,H,L Probert,12,16,5,7,7,11,7,2,1,4,0,0,None,None
+498,5-Dec-10,West Brom,Newcastle,3,1,H,1,0,H,M Dean,20,11,12,7,11,9,7,3,0,5,0,0,West Brom,Newcastle
+499,11-Dec-10,Newcastle,Liverpool,3,1,H,1,0,H,L Mason,8,16,5,7,19,13,2,5,2,1,0,0,Newcastle,Liverpool
+500,11-Dec-10,West Ham,Man City,1,3,A,0,1,A,P Dowd,13,12,3,7,10,13,2,6,1,3,0,0,Man City,West Ham
+501,12-Dec-10,Tottenham,Chelsea,1,1,D,1,0,H,M Dean,10,13,3,7,9,13,1,7,2,2,0,0,None,None
+502,13-Dec-10,Man United,Arsenal,1,0,H,1,0,H,H Webb,14,11,10,6,7,16,5,4,0,4,0,0,Man United,Arsenal
+503,20-Dec-10,Man City,Everton,1,2,A,0,2,A,P Walton,25,4,15,3,8,13,11,0,3,2,1,1,Everton,Man City
+504,26-Dec-10,Newcastle,Man City,1,3,A,0,2,A,C Foy,20,9,10,6,7,15,6,3,1,5,0,0,Man City,Newcastle
+505,27-Dec-10,Arsenal,Chelsea,3,1,H,1,0,H,M Clattenburg,10,10,8,4,12,16,4,6,2,3,0,0,Arsenal,Chelsea
+506,28-Dec-10,Tottenham,Newcastle,2,0,H,0,0,D,A Taylor,13,12,8,8,9,16,9,7,2,4,1,0,Tottenham,Newcastle
+507,28-Dec-10,West Ham,Everton,1,1,D,1,1,D,H Webb,11,13,2,5,12,15,4,7,1,0,0,0,None,None
+508,1-Jan-11,Stoke,Everton,2,0,H,1,0,H,A Marriner,7,15,3,10,14,8,1,5,4,1,0,0,Stoke,Everton
+509,1-Jan-11,West Brom,Man United,1,2,A,1,1,D,C Foy,17,5,8,3,8,13,4,5,1,3,0,0,Man United,West Brom
+510,4-Jan-11,Man United,Stoke,2,1,H,1,0,H,M Clattenburg,18,5,7,1,6,11,6,1,0,0,0,0,Man United,Stoke
+511,5-Jan-11,Arsenal,Man City,0,0,D,0,0,D,M Jones,13,5,8,0,6,12,7,2,0,2,1,1,None,None
+512,5-Jan-11,Everton,Tottenham,2,1,H,1,1,D,L Probert,19,13,12,5,16,12,4,3,1,0,0,0,Everton,Tottenham
+513,5-Jan-11,Newcastle,West Ham,5,0,H,3,0,H,M Dean,11,13,7,6,10,10,4,3,0,4,0,0,Newcastle,West Ham
+514,15-Jan-11,West Ham,Arsenal,0,3,A,0,2,A,A Marriner,7,19,6,13,8,7,4,10,1,0,0,0,Arsenal,West Ham
+515,16-Jan-11,Liverpool,Everton,2,2,D,1,0,H,P Dowd,19,10,14,5,16,17,10,6,3,0,0,0,None,None
+516,16-Jan-11,Tottenham,Man United,0,0,D,0,0,D,M Dean,16,7,6,4,9,18,8,2,2,4,0,1,None,None
+517,22-Jan-11,Everton,West Ham,2,2,D,0,1,A,P Walton,11,13,6,5,8,12,12,2,1,2,0,1,None,None
+518,22-Jan-11,Newcastle,Tottenham,1,1,D,0,0,D,M Halsey,13,14,6,9,13,7,1,4,0,0,0,0,None,None
+519,1-Feb-11,Arsenal,Everton,2,1,H,0,1,A,L Mason,19,4,10,4,12,14,5,7,3,5,0,0,Arsenal,Everton
+520,2-Feb-11,Liverpool,Stoke,2,0,H,0,0,D,A Taylor,13,6,9,1,6,8,7,0,1,4,0,0,Liverpool,Stoke
+521,5-Feb-11,Man City,West Brom,3,0,H,3,0,H,M Atkinson,13,17,9,9,13,10,8,8,1,2,0,0,Man City,West Brom
+522,5-Feb-11,Newcastle,Arsenal,4,4,D,0,4,A,P Dowd,16,13,8,10,13,15,12,6,2,3,0,1,None,None
+523,6-Feb-11,Chelsea,Liverpool,0,1,A,0,0,D,A Marriner,14,7,4,4,9,9,4,3,1,1,0,0,Liverpool,Chelsea
+524,12-Feb-11,Man United,Man City,2,1,H,1,0,H,A Marriner,11,13,6,8,15,13,4,7,2,2,0,0,Man United,Man City
+525,12-Feb-11,West Brom,West Ham,3,3,D,3,0,H,L Mason,15,18,11,11,12,13,4,9,2,3,0,0,None,None
+526,23-Feb-11,Arsenal,Stoke,1,0,H,1,0,H,P Walton,9,7,4,4,8,9,5,3,1,2,0,0,Arsenal,Stoke
+527,27-Feb-11,West Ham,Liverpool,3,1,H,2,0,H,M Halsey,17,12,11,8,10,8,6,8,0,1,0,0,West Ham,Liverpool
+528,28-Feb-11,Stoke,West Brom,1,1,D,0,0,D,M Oliver,6,16,3,11,17,14,4,0,2,2,0,0,None,None
+529,1-Mar-11,Chelsea,Man United,2,1,H,0,1,A,M Atkinson,17,12,11,7,11,14,10,2,3,2,0,1,Chelsea,Man United
+530,5-Mar-11,Newcastle,Everton,1,2,A,1,2,A,H Webb,10,13,8,8,12,14,5,4,2,4,0,0,Everton,Newcastle
+531,5-Mar-11,West Ham,Stoke,3,0,H,2,0,H,A Marriner,15,7,10,5,9,10,7,3,0,3,0,0,West Ham,Stoke
+532,6-Mar-11,Liverpool,Man United,3,1,H,2,0,H,P Dowd,17,12,10,7,12,12,6,4,2,3,0,0,Liverpool,Man United
+533,19-Mar-11,Stoke,Newcastle,4,0,H,1,0,H,L Mason,8,14,6,9,16,9,3,7,1,1,0,0,Stoke,Newcastle
+534,19-Mar-11,Tottenham,West Ham,0,0,D,0,0,D,M Dean,26,11,14,5,6,13,6,2,0,4,0,0,None,None
+535,19-Mar-11,West Brom,Arsenal,2,2,D,1,0,H,S Attwell,4,18,3,11,9,7,2,7,1,3,0,0,None,None
+536,20-Mar-11,Chelsea,Man City,2,0,H,0,0,D,C Foy,16,5,11,2,16,13,5,1,2,5,0,0,Chelsea,Man City
+537,2-Apr-11,Stoke,Chelsea,1,1,D,1,1,D,P Walton,13,20,6,10,9,10,5,12,1,2,0,0,None,None
+538,2-Apr-11,West Brom,Liverpool,2,1,H,0,0,D,M Atkinson,17,13,14,9,10,15,0,5,2,3,0,0,West Brom,Liverpool
+539,2-Apr-11,West Ham,Man United,2,4,A,2,0,H,L Mason,6,18,2,9,10,9,0,16,1,2,0,0,Man United,West Ham
+540,9-Apr-11,Tottenham,Stoke,3,2,H,3,2,H,K Friend,9,10,8,5,11,16,10,5,1,3,0,0,Tottenham,Stoke
+541,11-Apr-11,Liverpool,Man City,3,0,H,3,0,H,M Halsey,15,13,7,4,6,3,6,2,1,0,0,0,Liverpool,Man City
+542,16-Apr-11,West Brom,Chelsea,1,3,A,1,3,A,L Probert,12,19,6,11,7,10,3,5,1,0,0,0,Chelsea,West Brom
+543,17-Apr-11,Arsenal,Liverpool,1,1,D,0,0,D,A Marriner,12,9,6,5,13,13,10,3,2,4,0,0,None,None
+544,19-Apr-11,Newcastle,Man United,0,0,D,0,0,D,L Probert,12,18,5,8,9,10,6,7,2,2,0,0,None,None
+545,20-Apr-11,Tottenham,Arsenal,3,3,D,2,3,A,M Atkinson,16,13,9,9,8,13,7,6,0,3,0,0,None,None
+546,23-Apr-11,Chelsea,West Ham,3,0,H,1,0,H,P Dowd,16,12,11,7,7,13,5,7,1,2,0,0,Chelsea,West Ham
+547,23-Apr-11,Man United,Everton,1,0,H,0,0,D,P Walton,21,5,12,3,10,9,13,1,1,2,0,0,Man United,Everton
+548,23-Apr-11,Tottenham,West Brom,2,2,D,1,1,D,S Attwell,19,10,9,4,8,9,11,1,1,1,0,0,None,None
+549,30-Apr-11,Chelsea,Tottenham,2,1,H,1,1,D,A Marriner,16,12,10,7,11,11,6,5,3,1,0,0,Chelsea,Tottenham
+550,1-May-11,Arsenal,Man United,1,0,H,0,0,D,C Foy,9,11,2,7,15,7,3,6,2,3,0,0,Arsenal,Man United
+551,1-May-11,Liverpool,Newcastle,3,0,H,1,0,H,P Walton,9,7,5,3,15,10,3,12,1,2,0,0,Liverpool,Newcastle
+552,1-May-11,Man City,West Ham,2,1,H,2,1,H,H Webb,19,7,12,4,13,8,8,5,3,1,0,0,Man City,West Ham
+553,7-May-11,Everton,Man City,2,1,H,0,1,A,P Dowd,10,12,6,7,13,15,11,6,4,2,0,0,Everton,Man City
+554,8-May-11,Man United,Chelsea,2,1,H,2,0,H,H Webb,13,19,8,11,12,14,7,2,2,4,0,0,Man United,Chelsea
+555,8-May-11,Stoke,Arsenal,3,1,H,2,0,H,M Halsey,12,14,7,5,7,10,2,5,1,2,0,0,Stoke,Arsenal
+556,10-May-11,Man City,Tottenham,1,0,H,1,0,H,M Dean,7,14,4,7,7,8,2,8,1,1,0,0,Man City,Tottenham
+557,14-May-11,West Brom,Everton,1,0,H,1,0,H,A Taylor,14,23,9,10,15,9,2,12,2,2,0,1,West Brom,Everton
+558,15-May-11,Chelsea,Newcastle,2,2,D,1,1,D,L Mason,15,13,7,9,17,13,7,4,4,2,0,0,None,None
+559,15-May-11,Liverpool,Tottenham,0,2,A,0,1,A,H Webb,10,8,2,4,13,7,11,5,2,1,0,0,Tottenham,Liverpool
+560,17-May-11,Man City,Stoke,3,0,H,1,0,H,L Probert,16,4,9,2,6,9,4,3,0,3,0,0,Man City,Stoke
+561,22-May-11,Everton,Chelsea,1,0,H,0,0,D,P Walton,11,19,3,9,12,14,6,5,3,2,1,0,Everton,Chelsea
+562,22-May-11,Newcastle,West Brom,3,3,D,2,0,H,M Halsey,15,13,10,7,5,8,7,6,0,0,0,0,None,None
+563,13-Aug-11,Newcastle,Arsenal,0,0,D,0,0,D,P Walton,6,9,1,4,9,11,2,5,3,5,0,1,None,None
+564,14-Aug-11,Stoke,Chelsea,0,0,D,0,0,D,M Halsey,6,20,3,11,12,12,4,6,2,2,0,0,None,None
+565,14-Aug-11,West Brom,Man United,1,2,A,1,1,D,M Jones,14,11,8,5,16,9,6,5,3,2,0,0,Man United,West Brom
+566,15-Aug-11,Man City,Swansea,4,0,H,0,0,D,M Dean,26,8,19,5,9,2,7,4,0,0,0,0,Man City,Swansea
+567,20-Aug-11,Arsenal,Liverpool,0,2,A,0,0,D,M Atkinson,10,13,6,8,11,6,9,5,2,2,1,0,Liverpool,Arsenal
+568,20-Aug-11,Chelsea,West Brom,2,1,H,0,1,A,L Mason,22,6,12,4,12,8,7,4,2,4,0,0,Chelsea,West Brom
+569,22-Aug-11,Man United,Tottenham,3,0,H,0,0,D,L Probert,27,20,21,12,12,9,11,3,1,2,0,0,Man United,Tottenham
+570,28-Aug-11,Man United,Arsenal,8,2,H,3,1,H,H Webb,25,19,15,13,9,7,3,5,2,3,0,1,Man United,Arsenal
+571,28-Aug-11,Tottenham,Man City,1,5,A,0,2,A,P Dowd,15,22,10,12,11,9,10,5,2,4,0,0,Man City,Tottenham
+572,28-Aug-11,West Brom,Stoke,0,1,A,0,0,D,M Dean,16,7,7,1,9,12,5,1,0,0,0,0,Stoke,West Brom
+573,10-Sep-11,Arsenal,Swansea,1,0,H,1,0,H,S Attwell,18,10,8,5,10,7,4,5,3,2,0,0,Arsenal,Swansea
+574,10-Sep-11,Stoke,Liverpool,1,0,H,1,0,H,M Clattenburg,3,20,1,11,12,13,2,12,0,1,0,0,Stoke,Liverpool
+575,17-Sep-11,Swansea,West Brom,3,0,H,2,0,H,M Atkinson,7,13,5,8,4,9,2,8,1,2,0,0,Swansea,West Brom
+576,18-Sep-11,Man United,Chelsea,3,1,H,3,0,H,P Dowd,12,20,7,9,11,12,4,10,2,3,0,0,Man United,Chelsea
+577,18-Sep-11,Tottenham,Liverpool,4,0,H,1,0,H,M Jones,24,5,16,2,10,9,4,1,1,4,0,2,Tottenham,Liverpool
+578,24-Sep-11,Chelsea,Swansea,4,1,H,2,0,H,M Dean,15,5,7,4,15,11,1,6,3,3,1,0,Chelsea,Swansea
+579,24-Sep-11,Man City,Everton,2,0,H,0,0,D,H Webb,18,7,8,3,9,13,7,5,1,5,0,0,Man City,Everton
+580,24-Sep-11,Stoke,Man United,1,1,D,0,1,A,P Walton,14,13,8,9,10,3,8,8,1,0,0,0,None,None
+581,1-Oct-11,Everton,Liverpool,0,2,A,0,0,D,M Atkinson,12,15,4,9,15,9,5,9,1,1,1,0,Liverpool,Everton
+582,2-Oct-11,Swansea,Stoke,2,0,H,1,0,H,M Jones,9,11,5,6,14,18,6,5,3,5,0,0,Swansea,Stoke
+583,2-Oct-11,Tottenham,Arsenal,2,1,H,1,0,H,M Dean,16,13,8,7,11,8,9,7,2,1,0,0,Tottenham,Arsenal
+584,15-Oct-11,Chelsea,Everton,3,1,H,2,0,H,M Jones,7,9,5,5,13,11,2,2,2,2,0,0,Chelsea,Everton
+585,15-Oct-11,Liverpool,Man United,1,1,D,0,0,D,A Marriner,14,10,8,3,8,11,8,3,1,3,0,0,None,None
+586,16-Oct-11,Newcastle,Tottenham,2,2,D,0,1,A,L Probert,12,11,7,8,11,15,5,2,1,2,0,0,None,None
+587,23-Oct-11,Arsenal,Stoke,3,1,H,1,1,D,L Mason,9,5,5,2,9,13,10,1,0,2,0,0,Arsenal,Stoke
+588,23-Oct-11,Man United,Man City,1,6,A,0,1,A,M Clattenburg,12,19,8,12,15,11,7,4,4,4,1,0,Man City,Man United
+589,29-Oct-11,Chelsea,Arsenal,3,5,A,2,1,H,A Marriner,12,13,10,8,7,18,3,2,2,3,0,0,Arsenal,Chelsea
+590,29-Oct-11,Everton,Man United,0,1,A,0,1,A,M Halsey,18,7,11,6,12,8,4,1,3,0,0,0,Man United,Everton
+591,29-Oct-11,West Brom,Liverpool,0,2,A,0,2,A,L Mason,10,17,6,7,12,9,3,10,1,0,0,0,Liverpool,West Brom
+592,31-Oct-11,Stoke,Newcastle,1,3,A,0,2,A,M Dean,10,6,4,2,8,14,8,2,0,1,0,0,Newcastle,Stoke
+593,5-Nov-11,Arsenal,West Brom,3,0,H,2,0,H,M Oliver,12,9,7,4,12,12,4,1,0,0,0,0,Arsenal,West Brom
+594,5-Nov-11,Liverpool,Swansea,0,0,D,0,0,D,P Dowd,18,9,10,3,13,5,11,4,2,1,0,0,None,None
+595,5-Nov-11,Newcastle,Everton,2,1,H,2,1,H,A Marriner,10,14,6,6,12,15,5,3,2,3,0,0,Newcastle,Everton
+596,19-Nov-11,Man City,Newcastle,3,1,H,2,0,H,C Foy,12,10,9,7,10,7,4,5,0,0,0,0,Man City,Newcastle
+597,19-Nov-11,Swansea,Man United,0,1,A,0,1,A,M Dean,9,13,6,7,6,9,6,2,0,1,0,0,Man United,Swansea
+598,20-Nov-11,Chelsea,Liverpool,1,2,A,0,1,A,L Probert,18,9,5,3,13,11,6,5,3,2,0,0,Liverpool,Chelsea
+599,26-Nov-11,Man United,Newcastle,1,1,D,0,0,D,M Jones,23,8,13,6,12,15,11,3,1,4,0,1,None,None
+600,26-Nov-11,West Brom,Tottenham,1,3,A,1,1,D,L Probert,9,23,5,14,11,13,1,10,2,1,0,0,Tottenham,West Brom
+601,27-Nov-11,Liverpool,Man City,1,1,D,1,1,D,M Atkinson,17,7,9,3,11,13,8,5,1,4,0,1,None,None
+602,3-Dec-11,Newcastle,Chelsea,0,3,A,0,1,A,M Dean,16,21,9,13,7,6,6,5,2,3,0,0,Chelsea,Newcastle
+603,4-Dec-11,Everton,Stoke,0,1,A,0,1,A,L Mason,11,7,4,4,14,13,10,6,0,1,0,0,Stoke,Everton
+604,10-Dec-11,Arsenal,Everton,1,0,H,0,0,D,H Webb,12,7,7,1,7,14,7,4,2,2,0,0,Arsenal,Everton
+605,11-Dec-11,Stoke,Tottenham,2,1,H,2,0,H,C Foy,10,15,7,12,8,7,7,12,2,2,0,1,Stoke,Tottenham
+606,12-Dec-11,Chelsea,Man City,2,1,H,1,1,D,M Clattenburg,13,7,7,4,11,18,5,1,4,2,0,1,Chelsea,Man City
+607,17-Dec-11,Newcastle,Swansea,0,0,D,0,0,D,L Mason,17,3,6,0,11,11,9,1,1,1,0,0,None,None
+608,18-Dec-11,Man City,Arsenal,1,0,H,0,0,D,P Dowd,15,12,9,8,13,10,4,6,2,3,0,0,Man City,Arsenal
+609,21-Dec-11,Everton,Swansea,1,0,H,0,0,D,K Friend,13,4,6,4,8,13,9,2,1,2,0,0,Everton,Swansea
+610,21-Dec-11,Man City,Stoke,3,0,H,2,0,H,M Dean,20,2,16,0,7,5,5,2,2,1,0,0,Man City,Stoke
+611,21-Dec-11,Newcastle,West Brom,2,3,A,1,2,A,A Taylor,21,14,11,8,9,10,10,1,1,0,0,0,West Brom,Newcastle
+612,22-Dec-11,Tottenham,Chelsea,1,1,D,1,1,D,H Webb,16,20,10,10,14,8,7,4,2,2,0,0,None,None
+613,26-Dec-11,West Brom,Man City,0,0,D,0,0,D,L Mason,7,18,3,9,8,8,5,9,0,1,0,0,None,None
+614,30-Dec-11,Liverpool,Newcastle,3,1,H,1,1,D,L Probert,15,5,7,2,7,11,7,0,0,2,0,0,Liverpool,Newcastle
+615,31-Dec-11,Swansea,Tottenham,1,1,D,0,1,A,P Dowd,14,12,8,7,8,4,10,5,1,2,0,0,None,None
+616,1-Jan-12,West Brom,Everton,0,1,A,0,0,D,S Attwell,10,13,2,8,10,8,2,7,0,2,0,0,Everton,West Brom
+617,3-Jan-12,Man City,Liverpool,3,0,H,2,0,H,M Jones,10,18,8,10,13,7,5,6,1,2,1,0,Man City,Liverpool
+618,3-Jan-12,Tottenham,West Brom,1,0,H,0,0,D,M Halsey,20,8,14,2,3,14,14,7,0,5,0,0,Tottenham,West Brom
+619,4-Jan-12,Newcastle,Man United,3,0,H,1,0,H,H Webb,10,6,6,6,16,15,4,4,1,2,0,0,Newcastle,Man United
+620,11-Jan-12,Tottenham,Everton,2,0,H,1,0,H,M Atkinson,14,11,7,4,5,15,6,4,1,3,0,0,Tottenham,Everton
+621,14-Jan-12,Liverpool,Stoke,0,0,D,0,0,D,H Webb,13,3,5,1,6,11,11,1,0,3,0,0,None,None
+622,15-Jan-12,Swansea,Arsenal,3,2,H,1,1,D,M Oliver,9,14,5,9,9,9,9,2,0,0,0,0,Swansea,Arsenal
+623,21-Jan-12,Stoke,West Brom,1,2,A,0,1,A,A Taylor,10,15,3,6,10,10,5,1,0,0,0,0,West Brom,Stoke
+624,22-Jan-12,Arsenal,Man United,1,2,A,0,1,A,M Dean,12,9,6,5,15,6,0,5,5,2,0,0,Man United,Arsenal
+625,22-Jan-12,Man City,Tottenham,3,2,H,0,0,D,H Webb,13,12,7,7,7,10,9,4,2,1,0,0,Man City,Tottenham
+626,31-Jan-12,Everton,Man City,1,0,H,0,0,D,P Walton,9,17,4,11,12,9,3,9,1,2,0,0,Everton,Man City
+627,31-Jan-12,Man United,Stoke,2,0,H,1,0,H,M Jones,11,8,7,3,9,14,9,2,1,3,0,0,Man United,Stoke
+628,31-Jan-12,Swansea,Chelsea,1,1,D,1,0,H,A Marriner,7,20,5,10,10,19,1,11,2,3,0,1,None,None
+629,4-Feb-12,West Brom,Swansea,1,2,A,0,0,D,J Moss,18,15,11,8,11,6,8,7,2,1,0,0,Swansea,West Brom
+630,5-Feb-12,Chelsea,Man United,3,3,D,1,0,H,H Webb,19,14,10,10,14,13,6,6,2,1,0,0,None,None
+631,6-Feb-12,Liverpool,Tottenham,0,0,D,0,0,D,M Oliver,15,9,10,6,6,11,7,4,2,2,0,0,None,None
+632,11-Feb-12,Everton,Chelsea,2,0,H,1,0,H,M Jones,10,8,7,7,13,12,2,4,0,3,0,0,Everton,Chelsea
+633,11-Feb-12,Man United,Liverpool,2,1,H,0,0,D,P Dowd,11,9,6,6,10,11,4,3,1,1,0,0,Man United,Liverpool
+634,11-Feb-12,Tottenham,Newcastle,5,0,H,4,0,H,A Marriner,18,7,9,3,7,9,4,3,2,1,0,0,Tottenham,Newcastle
+635,26-Feb-12,Arsenal,Tottenham,5,2,H,2,2,D,M Dean,21,8,13,4,15,12,7,5,3,3,0,1,Arsenal,Tottenham
+636,26-Feb-12,Stoke,Swansea,2,0,H,2,0,H,H Webb,9,11,6,6,13,7,8,4,1,0,0,0,Stoke,Swansea
+637,3-Mar-12,Liverpool,Arsenal,1,2,A,1,1,D,M Halsey,12,10,4,7,11,9,12,0,0,1,0,0,Arsenal,Liverpool
+638,3-Mar-12,West Brom,Chelsea,1,0,H,0,0,D,P Dowd,19,13,11,6,9,10,14,5,3,1,0,0,West Brom,Chelsea
+639,4-Mar-12,Tottenham,Man United,1,3,A,0,1,A,M Atkinson,18,6,9,5,8,10,7,3,1,2,0,0,Man United,Tottenham
+640,10-Mar-12,Chelsea,Stoke,1,0,H,0,0,D,A Marriner,21,8,11,3,12,15,14,1,1,2,0,1,Chelsea,Stoke
+641,10-Mar-12,Everton,Tottenham,1,0,H,1,0,H,M Halsey,9,21,5,9,13,11,0,8,2,2,0,0,Everton,Tottenham
+642,11-Mar-12,Man United,West Brom,2,0,H,1,0,H,L Probert,20,6,9,3,5,13,8,5,0,1,0,1,Man United,West Brom
+643,11-Mar-12,Swansea,Man City,1,0,H,0,0,D,L Mason,8,18,5,13,9,14,7,9,0,2,0,0,Swansea,Man City
+644,12-Mar-12,Arsenal,Newcastle,2,1,H,1,1,D,H Webb,21,5,13,3,11,12,6,3,2,3,0,0,Arsenal,Newcastle
+645,13-Mar-12,Liverpool,Everton,3,0,H,1,0,H,P Dowd,15,5,10,3,6,7,4,4,1,4,0,0,Liverpool,Everton
+646,21-Mar-12,Everton,Arsenal,0,1,A,0,1,A,L Mason,7,12,2,8,11,11,4,6,2,1,0,0,Arsenal,Everton
+647,21-Mar-12,Man City,Chelsea,2,1,H,0,0,D,M Dean,20,6,10,5,8,7,11,4,1,2,0,0,Man City,Chelsea
+648,21-Mar-12,Tottenham,Stoke,1,1,D,0,0,D,M Jones,24,8,18,2,10,10,13,1,1,1,0,0,None,None
+649,24-Mar-12,Chelsea,Tottenham,0,0,D,0,0,D,M Atkinson,10,19,5,7,9,11,6,5,1,2,0,0,None,None
+650,24-Mar-12,Stoke,Man City,1,1,D,0,0,D,H Webb,10,16,3,11,15,12,5,7,1,2,0,0,None,None
+651,24-Mar-12,Swansea,Everton,0,2,A,0,0,D,N Swarbrick,10,15,3,8,10,10,3,3,1,2,0,0,Everton,Swansea
+652,25-Mar-12,West Brom,Newcastle,1,3,A,0,3,A,C Foy,14,10,6,7,10,4,10,4,0,1,0,0,Newcastle,West Brom
+653,31-Mar-12,Everton,West Brom,2,0,H,1,0,H,P Walton,16,9,9,5,8,12,5,2,2,1,0,0,Everton,West Brom
+654,1-Apr-12,Newcastle,Liverpool,2,0,H,1,0,H,M Atkinson,11,9,7,6,10,11,3,6,3,3,0,1,Newcastle,Liverpool
+655,1-Apr-12,Tottenham,Swansea,3,1,H,1,0,H,A Marriner,15,11,10,7,11,12,7,7,0,0,0,0,Tottenham,Swansea
+656,6-Apr-12,Swansea,Newcastle,0,2,A,0,1,A,H Webb,19,5,13,4,10,7,7,0,1,1,0,0,Newcastle,Swansea
+657,8-Apr-12,Arsenal,Man City,1,0,H,0,0,D,M Atkinson,12,7,7,2,13,14,7,6,2,4,0,1,Arsenal,Man City
+658,11-Apr-12,Man City,West Brom,4,0,H,1,0,H,K Friend,17,4,12,1,7,9,6,2,0,0,0,0,Man City,West Brom
+659,21-Apr-12,Arsenal,Chelsea,0,0,D,0,0,D,M Dean,13,13,8,7,11,11,7,7,3,4,0,0,None,None
+660,21-Apr-12,Newcastle,Stoke,3,0,H,2,0,H,A Marriner,16,7,11,2,8,10,4,5,0,2,0,0,Newcastle,Stoke
+661,22-Apr-12,Liverpool,West Brom,0,1,A,0,0,D,N Swarbrick,28,9,12,4,10,8,15,3,2,0,0,0,West Brom,Liverpool
+662,22-Apr-12,Man United,Everton,4,4,D,1,1,D,M Jones,20,17,11,10,8,11,5,2,1,2,0,0,None,None
+663,28-Apr-12,Stoke,Arsenal,1,1,D,1,1,D,C Foy,6,17,4,10,8,10,2,6,1,2,0,0,None,None
+664,30-Apr-12,Man City,Man United,1,0,H,1,0,H,A Marriner,12,4,5,2,11,14,8,8,3,2,0,0,Man City,Man United
+665,1-May-12,Stoke,Everton,1,1,D,0,1,A,A Taylor,10,11,5,4,6,14,4,6,2,1,0,0,None,None
+666,2-May-12,Chelsea,Newcastle,0,2,A,0,1,A,M Halsey,17,12,6,6,9,5,4,4,0,3,0,0,Newcastle,Chelsea
+667,6-May-12,Man United,Swansea,2,0,H,2,0,H,C Foy,26,13,18,9,12,6,16,3,1,0,0,0,Man United,Swansea
+668,6-May-12,Newcastle,Man City,0,2,A,0,0,D,H Webb,14,19,9,12,12,7,2,6,4,3,0,0,Man City,Newcastle
+669,8-May-12,Liverpool,Chelsea,4,1,H,3,0,H,K Friend,23,9,13,5,15,13,7,4,2,4,0,0,Liverpool,Chelsea
+670,13-May-12,Everton,Newcastle,3,1,H,2,0,H,A Marriner,17,11,11,5,15,16,4,3,2,1,0,0,Everton,Newcastle
+671,13-May-12,Swansea,Liverpool,1,0,H,0,0,D,M Halsey,13,14,8,9,5,5,6,5,1,1,0,0,Swansea,Liverpool
+672,13-May-12,West Brom,Arsenal,2,3,A,2,2,D,M Jones,12,12,8,8,12,10,9,5,0,1,0,0,Arsenal,West Brom
+673,18-Aug-12,Newcastle,Tottenham,2,1,H,0,0,D,M Atkinson,6,12,4,6,12,8,3,5,2,2,0,0,Newcastle,Tottenham
+674,18-Aug-12,West Brom,Liverpool,3,0,H,1,0,H,P Dowd,15,14,10,7,10,11,7,3,1,4,0,1,West Brom,Liverpool
+675,19-Aug-12,Man City,Southampton,3,2,H,1,0,H,H Webb,20,9,15,6,4,6,7,3,1,2,0,0,Man City,Southampton
+676,20-Aug-12,Everton,Man United,1,0,H,0,0,D,A Marriner,16,12,7,7,12,11,6,8,1,2,0,0,Everton,Man United
+677,25-Aug-12,Chelsea,Newcastle,2,0,H,2,0,H,P Dowd,11,11,6,5,8,10,2,3,1,0,0,0,Chelsea,Newcastle
+678,25-Aug-12,Swansea,West Ham,3,0,H,2,0,H,M Atkinson,10,7,7,6,13,17,5,4,2,4,0,0,Swansea,West Ham
+679,25-Aug-12,Tottenham,West Brom,1,1,D,0,0,D,M Dean,18,10,10,5,8,7,7,5,1,2,0,0,None,None
+680,26-Aug-12,Liverpool,Man City,2,2,D,1,0,H,A Marriner,15,11,8,5,10,7,4,4,1,0,0,0,None,None
+681,26-Aug-12,Stoke,Arsenal,0,0,D,0,0,D,L Mason,7,16,4,6,9,9,0,11,2,0,0,0,None,None
+682,1-Sep-12,West Brom,Everton,2,0,H,0,0,D,J Moss,14,12,8,5,11,15,6,3,1,4,0,0,West Brom,Everton
+683,2-Sep-12,Liverpool,Arsenal,0,2,A,0,1,A,H Webb,17,11,8,7,12,7,10,2,2,2,0,0,Arsenal,Liverpool
+684,2-Sep-12,Southampton,Man United,2,3,A,1,1,D,M Dean,15,18,8,9,9,4,4,7,1,0,0,0,Man United,Southampton
+685,15-Sep-12,Arsenal,Southampton,6,1,H,4,1,H,K Friend,20,9,12,4,4,7,8,3,0,0,0,0,Arsenal,Southampton
+686,15-Sep-12,Stoke,Man City,1,1,D,1,1,D,M Clattenburg,4,15,3,11,12,12,6,5,0,1,0,0,None,None
+687,17-Sep-12,Everton,Newcastle,2,2,D,1,0,H,M Jones,17,11,10,7,16,12,3,3,3,3,0,0,None,None
+688,22-Sep-12,Chelsea,Stoke,1,0,H,0,0,D,M Oliver,17,13,9,6,12,15,13,3,2,1,0,0,Chelsea,Stoke
+689,22-Sep-12,Swansea,Everton,0,3,A,0,2,A,A Taylor,18,30,11,19,23,7,8,3,4,1,1,0,Everton,Swansea
+690,23-Sep-12,Liverpool,Man United,1,2,A,0,0,D,M Halsey,13,8,8,4,14,7,7,3,1,2,1,0,Man United,Liverpool
+691,23-Sep-12,Man City,Arsenal,1,1,D,1,0,H,M Dean,14,10,10,4,11,7,9,4,1,0,0,0,None,None
+692,29-Sep-12,Arsenal,Chelsea,1,2,A,1,1,D,M Atkinson,14,10,5,5,14,13,6,5,2,3,0,0,Chelsea,Arsenal
+693,29-Sep-12,Everton,Southampton,3,1,H,3,1,H,L Probert,17,8,9,2,2,3,10,3,0,0,0,0,Everton,Southampton
+694,29-Sep-12,Man United,Tottenham,2,3,A,0,2,A,C Foy,15,10,8,6,5,7,9,5,0,0,0,0,Tottenham,Man United
+695,29-Sep-12,Stoke,Swansea,2,0,H,2,0,H,J Moss,10,8,5,0,10,8,6,8,1,1,0,0,Stoke,Swansea
+696,6-Oct-12,West Ham,Arsenal,1,3,A,1,1,D,P Dowd,7,20,3,14,12,7,4,16,3,2,0,0,Arsenal,West Ham
+697,7-Oct-12,Liverpool,Stoke,0,0,D,0,0,D,L Mason,16,5,5,3,9,16,5,5,0,6,0,0,None,None
+698,7-Oct-12,Newcastle,Man United,0,3,A,0,2,A,H Webb,13,12,3,9,15,12,8,6,4,4,0,0,Man United,Newcastle
+699,20-Oct-12,Man United,Stoke,4,2,H,2,1,H,A Taylor,13,8,8,6,9,10,3,3,1,1,0,0,Man United,Stoke
+700,20-Oct-12,Tottenham,Chelsea,2,4,A,0,1,A,M Dean,23,11,16,7,7,8,7,4,3,2,0,0,Chelsea,Tottenham
+701,20-Oct-12,West Brom,Man City,1,2,A,0,0,D,M Clattenburg,16,21,8,13,11,15,6,9,4,3,0,1,Man City,West Brom
+702,20-Oct-12,West Ham,Southampton,4,1,H,0,0,D,N Swarbrick,9,11,8,4,10,12,6,3,0,2,0,0,West Ham,Southampton
+703,27-Oct-12,Man City,Swansea,1,0,H,0,0,D,M Atkinson,10,9,5,5,8,10,3,0,1,2,0,0,Man City,Swansea
+704,28-Oct-12,Chelsea,Man United,2,3,A,1,2,A,M Clattenburg,14,15,11,7,13,11,8,6,2,2,2,0,Man United,Chelsea
+705,28-Oct-12,Everton,Liverpool,2,2,D,2,2,D,A Marriner,17,12,8,5,16,18,9,5,4,3,0,0,None,None
+706,28-Oct-12,Newcastle,West Brom,2,1,H,1,0,H,C Foy,10,8,6,4,13,7,6,4,3,2,0,0,Newcastle,West Brom
+707,28-Oct-12,Southampton,Tottenham,1,2,A,0,2,A,L Mason,11,11,6,4,14,8,2,3,0,3,0,0,Tottenham,Southampton
+708,3-Nov-12,Man United,Arsenal,2,1,H,1,0,H,M Dean,11,7,7,3,13,13,6,1,5,3,0,1,Man United,Arsenal
+709,3-Nov-12,Swansea,Chelsea,1,1,D,0,0,D,K Friend,9,11,7,7,12,9,8,6,4,1,0,0,None,None
+710,3-Nov-12,West Ham,Man City,0,0,D,0,0,D,H Webb,6,18,1,8,11,12,3,7,3,0,0,0,None,None
+711,4-Nov-12,Liverpool,Newcastle,1,1,D,0,1,A,A Taylor,20,10,12,3,10,13,14,3,0,1,0,1,None,None
+712,5-Nov-12,West Brom,Southampton,2,0,H,1,0,H,M Halsey,16,9,6,5,6,12,8,6,1,0,0,0,West Brom,Southampton
+713,10-Nov-12,Southampton,Swansea,1,1,D,0,0,D,A Marriner,11,5,5,3,11,10,10,6,2,2,0,0,None,None
+714,11-Nov-12,Chelsea,Liverpool,1,1,D,1,0,H,H Webb,12,9,3,5,12,13,4,7,1,3,0,0,None,None
+715,11-Nov-12,Man City,Tottenham,2,1,H,0,1,A,M Oliver,16,6,8,2,16,7,8,2,1,2,0,0,Man City,Tottenham
+716,11-Nov-12,Newcastle,West Ham,0,1,A,0,1,A,M Dean,14,10,9,5,8,14,11,4,1,2,0,0,West Ham,Newcastle
+717,17-Nov-12,Arsenal,Tottenham,5,2,H,3,1,H,H Webb,13,6,10,4,13,12,6,6,1,2,0,1,Arsenal,Tottenham
+718,17-Nov-12,Newcastle,Swansea,1,2,A,0,0,D,P Dowd,27,15,10,9,7,7,5,4,1,3,0,0,Swansea,Newcastle
+719,17-Nov-12,West Brom,Chelsea,2,1,H,1,1,D,M Oliver,8,19,6,12,7,13,0,12,0,0,0,0,West Brom,Chelsea
+720,19-Nov-12,West Ham,Stoke,1,1,D,0,1,A,C Foy,16,12,11,6,8,9,12,4,1,0,0,0,None,None
+721,25-Nov-12,Chelsea,Man City,0,0,D,0,0,D,C Foy,5,11,1,7,9,16,6,11,0,3,0,0,None,None
+722,25-Nov-12,Southampton,Newcastle,2,0,H,1,0,H,M Atkinson,17,8,10,3,12,14,4,3,2,2,0,0,Southampton,Newcastle
+723,25-Nov-12,Swansea,Liverpool,0,0,D,0,0,D,J Moss,17,21,8,14,6,10,7,6,1,0,0,0,None,None
+724,25-Nov-12,Tottenham,West Ham,3,1,H,1,0,H,A Marriner,25,10,13,6,9,10,4,2,1,2,0,0,Tottenham,West Ham
+725,28-Nov-12,Everton,Arsenal,1,1,D,1,1,D,M Oliver,14,12,10,9,15,9,6,6,2,1,0,0,None,None
+726,28-Nov-12,Man United,West Ham,1,0,H,1,0,H,M Jones,23,9,13,3,7,9,5,5,1,1,0,0,Man United,West Ham
+727,28-Nov-12,Stoke,Newcastle,2,1,H,0,0,D,H Webb,11,7,5,6,12,12,7,2,2,2,0,0,Stoke,Newcastle
+728,28-Nov-12,Swansea,West Brom,3,1,H,3,1,H,L Mason,13,6,8,2,10,16,5,2,0,4,0,0,Swansea,West Brom
+729,28-Nov-12,Tottenham,Liverpool,2,1,H,2,0,H,P Dowd,14,14,7,9,4,14,1,12,1,2,0,0,Tottenham,Liverpool
+730,1-Dec-12,Arsenal,Swansea,0,2,A,0,0,D,M Clattenburg,10,12,8,10,11,9,8,5,1,0,0,0,Swansea,Arsenal
+731,1-Dec-12,Liverpool,Southampton,1,0,H,1,0,H,M Oliver,24,8,11,4,10,8,10,4,2,0,0,0,Liverpool,Southampton
+732,1-Dec-12,Man City,Everton,1,1,D,1,1,D,L Probert,9,8,6,5,16,12,5,2,2,1,0,0,None,None
+733,1-Dec-12,West Brom,Stoke,0,1,A,0,0,D,K Friend,14,6,11,4,8,15,5,5,0,3,0,0,Stoke,West Brom
+734,1-Dec-12,West Ham,Chelsea,3,1,H,0,1,A,M Atkinson,16,16,13,9,15,6,14,5,1,2,0,0,West Ham,Chelsea
+735,8-Dec-12,Arsenal,West Brom,2,0,H,1,0,H,M Jones,16,7,7,2,11,12,7,4,2,3,0,0,Arsenal,West Brom
+736,9-Dec-12,Everton,Tottenham,2,1,H,0,0,D,K Friend,17,8,11,6,10,9,4,4,2,2,0,0,Everton,Tottenham
+737,9-Dec-12,Man City,Man United,2,3,A,0,2,A,M Atkinson,16,8,11,3,11,9,8,2,4,3,0,0,Man United,Man City
+738,9-Dec-12,West Ham,Liverpool,2,3,A,2,1,H,L Probert,9,16,6,8,12,10,2,5,1,2,0,0,Liverpool,West Ham
+739,15-Dec-12,Newcastle,Man City,1,3,A,0,2,A,A Marriner,17,16,8,10,9,16,12,7,3,2,0,0,Man City,Newcastle
+740,15-Dec-12,Stoke,Everton,1,1,D,0,1,A,M Halsey,14,9,8,5,11,13,4,8,1,0,0,0,None,None
+741,16-Dec-12,Tottenham,Swansea,1,0,H,0,0,D,M Dean,24,4,16,0,12,8,9,3,2,3,0,0,Tottenham,Swansea
+742,16-Dec-12,West Brom,West Ham,0,0,D,0,0,D,P Dowd,19,10,10,2,12,9,8,2,3,3,0,0,None,None
+743,22-Dec-12,Tottenham,Stoke,0,0,D,0,0,D,L Mason,21,4,14,2,8,11,11,4,2,5,0,0,None,None
+744,22-Dec-12,West Ham,Everton,1,2,A,1,0,H,A Taylor,6,15,5,8,12,8,3,5,1,0,1,1,Everton,West Ham
+745,23-Dec-12,Swansea,Man United,1,1,D,1,1,D,M Oliver,14,19,10,16,11,16,3,6,2,4,0,0,None,None
+746,26-Dec-12,Man United,Newcastle,4,3,H,1,2,A,M Dean,16,16,10,11,12,16,2,2,3,3,0,0,Man United,Newcastle
+747,26-Dec-12,Stoke,Liverpool,3,1,H,2,1,H,H Webb,7,12,6,6,11,5,6,8,3,1,0,0,Stoke,Liverpool
+748,29-Dec-12,Arsenal,Newcastle,7,3,H,1,1,D,C Foy,16,10,12,8,8,10,5,6,0,1,0,0,Arsenal,Newcastle
+749,29-Dec-12,Man United,West Brom,2,0,H,1,0,H,J Moss,17,13,14,9,9,7,9,6,1,0,0,0,Man United,West Brom
+750,29-Dec-12,Stoke,Southampton,3,3,D,1,3,A,M Clattenburg,10,8,8,7,6,9,7,4,1,2,1,0,None,None
+751,30-Dec-12,Everton,Chelsea,1,2,A,1,1,D,H Webb,12,15,6,10,14,12,7,7,2,3,0,0,Chelsea,Everton
+752,1-Jan-13,Man City,Stoke,3,0,H,1,0,H,M Oliver,17,4,9,3,6,9,7,2,2,2,0,0,Man City,Stoke
+753,1-Jan-13,Southampton,Arsenal,1,1,D,1,1,D,L Probert,9,6,6,4,9,6,3,3,2,0,0,0,None,None
+754,2-Jan-13,Newcastle,Everton,1,2,A,1,1,D,M Atkinson,14,7,11,6,21,7,4,6,3,2,0,0,Everton,Newcastle
+755,12-Jan-13,Everton,Swansea,0,0,D,0,0,D,P Dowd,16,4,8,2,13,9,7,1,1,4,0,0,None,None
+756,12-Jan-13,Stoke,Chelsea,0,4,A,0,1,A,A Marriner,11,11,5,9,13,9,6,7,1,0,0,0,Chelsea,Stoke
+757,13-Jan-13,Arsenal,Man City,0,2,A,0,2,A,M Dean,9,16,4,9,11,18,2,7,2,4,1,1,Man City,Arsenal
+758,13-Jan-13,Man United,Liverpool,2,1,H,1,0,H,H Webb,15,12,10,5,14,16,3,1,1,4,0,0,Man United,Liverpool
+759,16-Jan-13,Chelsea,Southampton,2,2,D,2,0,H,M Oliver,19,7,10,3,10,11,4,3,1,0,0,0,None,None
+760,19-Jan-13,Swansea,Stoke,3,1,H,0,0,D,M Dean,12,7,6,2,11,9,7,6,0,0,0,0,Swansea,Stoke
+761,20-Jan-13,Chelsea,Arsenal,2,1,H,2,0,H,M Atkinson,13,12,8,8,10,11,3,9,2,1,0,0,Chelsea,Arsenal
+762,20-Jan-13,Tottenham,Man United,1,1,D,0,1,A,C Foy,23,6,18,4,7,14,9,4,1,4,0,0,None,None
+763,21-Jan-13,Southampton,Everton,0,0,D,0,0,D,N Swarbrick,14,10,11,7,14,11,10,6,2,1,0,0,None,None
+764,23-Jan-13,Arsenal,West Ham,5,1,H,1,1,D,A Marriner,23,7,17,5,9,10,13,5,0,1,0,0,Arsenal,West Ham
+765,30-Jan-13,Arsenal,Liverpool,2,2,D,0,1,A,K Friend,14,10,6,5,9,11,8,6,3,1,0,0,None,None
+766,30-Jan-13,Everton,West Brom,2,1,H,2,0,H,M Oliver,11,7,4,4,9,14,5,2,0,2,0,0,Everton,West Brom
+767,30-Jan-13,Man United,Southampton,2,1,H,2,1,H,L Mason,11,21,7,10,10,10,4,8,2,1,0,0,Man United,Southampton
+768,2-Feb-13,Arsenal,Stoke,1,0,H,0,0,D,C Foy,15,6,9,2,3,13,11,1,0,3,0,0,Arsenal,Stoke
+769,2-Feb-13,Newcastle,Chelsea,3,2,H,1,0,H,H Webb,19,12,13,6,11,5,5,4,2,3,0,0,Newcastle,Chelsea
+770,2-Feb-13,West Ham,Swansea,1,0,H,0,0,D,L Probert,18,11,9,7,7,9,5,3,1,1,0,0,West Ham,Swansea
+771,3-Feb-13,Man City,Liverpool,2,2,D,1,1,D,A Taylor,9,21,5,12,14,7,9,10,2,4,0,0,None,None
+772,3-Feb-13,West Brom,Tottenham,0,1,A,0,0,D,M Clattenburg,4,21,3,13,9,9,2,17,1,0,1,0,Tottenham,West Brom
+773,9-Feb-13,Southampton,Man City,3,1,H,2,1,H,M Atkinson,13,7,7,4,9,13,6,6,1,2,0,0,Southampton,Man City
+774,9-Feb-13,Tottenham,Newcastle,2,1,H,1,1,D,P Dowd,16,9,9,7,5,11,11,5,0,2,0,0,Tottenham,Newcastle
+775,10-Feb-13,Man United,Everton,2,0,H,2,0,H,M Halsey,10,9,6,8,12,9,7,6,0,2,0,0,Man United,Everton
+776,11-Feb-13,Liverpool,West Brom,0,2,A,0,0,D,J Moss,23,4,14,3,9,9,13,5,1,4,0,0,West Brom,Liverpool
+777,17-Feb-13,Liverpool,Swansea,5,0,H,1,0,H,H Webb,33,4,18,3,6,9,10,1,0,1,0,0,Liverpool,Swansea
+778,24-Feb-13,Man City,Chelsea,2,0,H,0,0,D,A Marriner,15,4,11,1,19,5,6,6,3,1,0,0,Man City,Chelsea
+779,24-Feb-13,Newcastle,Southampton,4,2,H,2,1,H,C Foy,11,11,5,7,12,12,7,3,0,4,0,0,Newcastle,Southampton
+780,25-Feb-13,West Ham,Tottenham,2,3,A,1,1,D,H Webb,8,25,6,16,12,7,6,12,4,1,0,0,Tottenham,West Ham
+781,2-Mar-13,Chelsea,West Brom,1,0,H,1,0,H,K Friend,25,8,19,4,12,16,9,7,1,2,0,0,Chelsea,West Brom
+782,2-Mar-13,Stoke,West Ham,0,1,A,0,1,A,J Moss,10,10,2,7,12,12,4,2,1,2,0,0,West Ham,Stoke
+783,2-Mar-13,Swansea,Newcastle,1,0,H,0,0,D,C Pawson,10,14,7,7,9,17,7,7,0,2,0,0,Swansea,Newcastle
+784,3-Mar-13,Tottenham,Arsenal,2,1,H,2,0,H,M Clattenburg,11,10,5,6,17,13,4,6,3,1,0,0,Tottenham,Arsenal
+785,9-Mar-13,West Brom,Swansea,2,1,H,1,1,D,L Mason,12,9,6,4,9,10,3,3,1,1,0,0,West Brom,Swansea
+786,10-Mar-13,Liverpool,Tottenham,3,2,H,1,1,D,M Oliver,10,15,4,9,9,8,1,4,1,1,0,0,Liverpool,Tottenham
+787,10-Mar-13,Newcastle,Stoke,2,1,H,0,0,D,A Marriner,14,7,6,4,10,12,14,4,1,1,0,0,Newcastle,Stoke
+788,16-Mar-13,Everton,Man City,2,0,H,1,0,H,L Probert,11,17,5,11,15,10,13,6,4,3,1,0,Everton,Man City
+789,16-Mar-13,Southampton,Liverpool,3,1,H,2,1,H,P Dowd,17,8,12,6,10,10,7,5,0,1,0,0,Southampton,Liverpool
+790,16-Mar-13,Stoke,West Brom,0,0,D,0,0,D,M Dean,13,9,5,5,15,11,7,1,2,2,0,0,None,None
+791,16-Mar-13,Swansea,Arsenal,0,2,A,0,0,D,J Moss,9,15,2,11,2,7,3,7,1,1,0,0,Arsenal,Swansea
+792,17-Mar-13,Chelsea,West Ham,2,0,H,1,0,H,M Oliver,24,15,14,9,5,14,5,5,0,2,0,0,Chelsea,West Ham
+793,30-Mar-13,Everton,Stoke,1,0,H,1,0,H,M Jones,15,10,9,5,13,18,4,3,1,3,0,0,Everton,Stoke
+794,30-Mar-13,Man City,Newcastle,4,0,H,2,0,H,N Swarbrick,19,5,11,1,6,8,9,2,0,2,0,0,Man City,Newcastle
+795,30-Mar-13,Southampton,Chelsea,2,1,H,2,1,H,J Moss,13,7,8,4,12,6,7,7,2,1,0,0,Southampton,Chelsea
+796,30-Mar-13,Swansea,Tottenham,1,2,A,0,2,A,A Taylor,11,9,3,7,5,10,5,2,2,4,0,0,Tottenham,Swansea
+797,30-Mar-13,West Ham,West Brom,3,1,H,2,0,H,A Marriner,14,17,8,11,10,13,5,3,1,1,0,1,West Ham,West Brom
+798,6-Apr-13,West Brom,Arsenal,1,2,A,0,1,A,H Webb,16,11,5,6,7,15,6,4,2,4,0,1,Arsenal,West Brom
+799,7-Apr-13,Liverpool,West Ham,0,0,D,0,0,D,A Taylor,19,10,12,4,8,4,12,2,0,1,0,0,None,None
+800,7-Apr-13,Tottenham,Everton,2,2,D,1,1,D,A Marriner,19,9,10,5,14,8,7,6,1,1,0,0,None,None
+801,8-Apr-13,Man United,Man City,1,2,A,0,0,D,M Dean,16,9,7,5,13,18,9,4,3,5,0,0,Man City,Man United
+802,13-Apr-13,Southampton,West Ham,1,1,D,0,0,D,M Dean,15,6,11,4,9,18,7,4,2,3,0,0,None,None
+803,14-Apr-13,Stoke,Man United,0,2,A,0,1,A,J Moss,13,9,4,3,9,9,3,7,1,1,0,0,Man United,Stoke
+804,16-Apr-13,Arsenal,Everton,0,0,D,0,0,D,N Swarbrick,10,10,6,5,11,12,8,1,2,3,0,0,None,None
+805,17-Apr-13,West Ham,Man United,2,2,D,1,1,D,L Probert,10,15,4,9,9,7,2,5,1,0,0,0,None,None
+806,20-Apr-13,Swansea,Southampton,0,0,D,0,0,D,M Halsey,14,9,7,5,11,13,7,2,0,0,0,0,None,None
+807,20-Apr-13,West Brom,Newcastle,1,1,D,0,1,A,M Jones,8,10,4,6,9,10,15,2,0,2,0,0,None,None
+808,21-Apr-13,Liverpool,Chelsea,2,2,D,0,1,A,K Friend,23,9,12,6,8,11,8,5,5,2,0,0,None,None
+809,21-Apr-13,Tottenham,Man City,3,1,H,0,1,A,L Mason,11,11,8,7,11,10,4,5,3,3,0,0,Tottenham,Man City
+810,27-Apr-13,Man City,West Ham,2,1,H,1,0,H,H Webb,16,9,10,6,9,7,9,4,1,3,0,0,Man City,West Ham
+811,27-Apr-13,Newcastle,Liverpool,0,6,A,0,2,A,A Marriner,5,11,1,10,14,7,5,7,3,2,1,0,Liverpool,Newcastle
+812,27-Apr-13,Southampton,West Brom,0,3,A,0,1,A,R Madley,16,11,4,9,9,11,7,6,2,2,2,1,West Brom,Southampton
+813,28-Apr-13,Arsenal,Man United,1,1,D,1,1,D,P Dowd,19,10,13,5,12,10,7,2,3,5,0,0,None,None
+814,28-Apr-13,Chelsea,Swansea,2,0,H,2,0,H,M Clattenburg,21,11,14,8,9,10,6,3,1,3,0,0,Chelsea,Swansea
+815,4-May-13,Swansea,Man City,0,0,D,0,0,D,M Jones,7,12,1,8,9,10,4,4,0,0,0,0,None,None
+816,4-May-13,Tottenham,Southampton,1,0,H,0,0,D,M Clattenburg,7,10,4,6,8,9,5,5,1,1,0,0,Tottenham,Southampton
+817,4-May-13,West Ham,Newcastle,0,0,D,0,0,D,P Dowd,9,11,3,6,12,12,7,3,1,1,0,0,None,None
+818,5-May-13,Liverpool,Everton,0,0,D,0,0,D,M Oliver,16,11,8,4,10,10,3,5,1,2,0,0,None,None
+819,5-May-13,Man United,Chelsea,0,1,A,0,0,D,H Webb,10,15,4,6,14,9,2,7,2,1,1,0,Chelsea,Man United
+820,7-May-13,Man City,West Brom,1,0,H,1,0,H,P Dowd,21,20,9,11,10,9,6,8,2,1,0,0,Man City,West Brom
+821,8-May-13,Chelsea,Tottenham,2,2,D,2,1,H,M Dean,15,13,8,6,6,16,6,5,1,2,0,0,None,None
+822,12-May-13,Everton,West Ham,2,0,H,1,0,H,P Dowd,23,7,13,2,8,11,7,1,1,2,0,0,Everton,West Ham
+823,12-May-13,Man United,Swansea,2,1,H,1,0,H,J Moss,16,5,9,2,5,6,7,5,0,0,0,0,Man United,Swansea
+824,12-May-13,Stoke,Tottenham,1,2,A,1,1,D,K Friend,6,23,3,15,11,5,2,11,4,1,1,0,Tottenham,Stoke
+825,19-May-13,Chelsea,Everton,2,1,H,1,1,D,A Taylor,20,16,10,9,7,8,7,4,2,2,0,0,Chelsea,Everton
+826,19-May-13,Newcastle,Arsenal,0,1,A,0,0,D,H Webb,7,9,2,3,17,10,4,4,1,2,0,0,Arsenal,Newcastle
+827,19-May-13,Southampton,Stoke,1,1,D,0,0,D,L Probert,11,7,7,3,9,7,3,4,0,2,0,0,None,None
+828,19-May-13,West Brom,Man United,5,5,D,1,3,A,M Oliver,15,12,8,8,10,6,3,5,0,1,0,0,None,None
+829,17-Aug-13,Liverpool,Stoke,1,0,H,1,0,H,M Atkinson,26,10,11,4,11,11,12,6,1,1,0,0,Liverpool,Stoke
+830,17-Aug-13,Swansea,Man United,1,4,A,0,2,A,P Dowd,17,15,6,7,13,10,7,4,1,3,0,0,Man United,Swansea
+831,17-Aug-13,West Brom,Southampton,0,1,A,0,0,D,K Friend,11,7,1,2,14,24,4,8,4,0,0,0,Southampton,West Brom
+832,18-Aug-13,Crystal Palace,Tottenham,0,1,A,0,0,D,M Clattenburg,5,17,3,2,6,9,3,7,1,0,0,0,Tottenham,Crystal Palace
+833,19-Aug-13,Man City,Newcastle,4,0,H,2,0,H,A Marriner,20,5,11,1,9,7,8,1,2,3,0,1,Man City,Newcastle
+834,24-Aug-13,Everton,West Brom,0,0,D,0,0,D,R East,22,7,8,2,14,15,11,1,1,1,0,0,None,None
+835,24-Aug-13,Newcastle,West Ham,0,0,D,0,0,D,P Dowd,16,6,0,1,12,14,5,4,0,1,0,0,None,None
+836,24-Aug-13,Stoke,Crystal Palace,2,1,H,0,1,A,A Marriner,14,14,5,5,13,6,7,0,3,0,0,0,Stoke,Crystal Palace
+837,25-Aug-13,Tottenham,Swansea,1,0,H,0,0,D,N Swarbrick,19,7,5,5,10,15,8,3,1,4,0,0,Tottenham,Swansea
+838,26-Aug-13,Man United,Chelsea,0,0,D,0,0,D,M Atkinson,13,8,3,4,9,9,4,1,0,2,0,0,None,None
+839,31-Aug-13,West Ham,Stoke,0,1,A,0,0,D,J Moss,9,15,0,5,10,12,3,4,2,1,0,0,Stoke,West Ham
+840,1-Sep-13,Arsenal,Tottenham,1,0,H,1,0,H,M Oliver,12,14,5,4,15,14,3,6,2,2,0,0,Arsenal,Tottenham
+841,1-Sep-13,Liverpool,Man United,1,0,H,1,0,H,A Marriner,10,10,5,4,15,15,2,7,2,4,0,0,Liverpool,Man United
+842,1-Sep-13,West Brom,Swansea,0,2,A,0,1,A,M Dean,10,12,1,4,10,14,2,3,4,3,0,0,Swansea,West Brom
+843,14-Sep-13,Everton,Chelsea,1,0,H,1,0,H,H Webb,11,22,5,5,10,12,5,7,0,4,0,0,Everton,Chelsea
+844,14-Sep-13,Man United,Crystal Palace,2,0,H,1,0,H,J Moss,19,4,7,0,8,11,10,1,1,2,0,1,Man United,Crystal Palace
+845,14-Sep-13,Stoke,Man City,0,0,D,0,0,D,M Clattenburg,11,10,3,3,13,11,2,4,1,1,0,0,None,None
+846,15-Sep-13,Southampton,West Ham,0,0,D,0,0,D,A Marriner,15,6,5,1,12,10,10,4,1,3,0,0,None,None
+847,16-Sep-13,Swansea,Liverpool,2,2,D,1,2,A,M Oliver,17,12,8,5,7,10,3,7,2,3,0,0,None,None
+848,21-Sep-13,Liverpool,Southampton,0,1,A,0,0,D,N Swarbrick,10,12,5,7,6,9,6,6,0,1,0,0,Southampton,Liverpool
+849,21-Sep-13,West Ham,Everton,2,3,A,1,0,H,L Mason,9,10,1,4,16,12,5,5,2,1,1,0,Everton,West Ham
+850,22-Sep-13,Arsenal,Stoke,3,1,H,2,1,H,M Dean,16,9,8,3,8,15,6,7,0,2,0,0,Arsenal,Stoke
+851,22-Sep-13,Crystal Palace,Swansea,0,2,A,0,1,A,K Friend,9,15,1,7,13,9,6,7,2,2,0,0,Swansea,Crystal Palace
+852,22-Sep-13,Man City,Man United,4,1,H,2,0,H,H Webb,18,14,5,3,8,12,8,4,1,2,0,0,Man City,Man United
+853,28-Sep-13,Man United,West Brom,1,2,A,0,0,D,M Oliver,14,12,6,4,10,14,5,8,3,2,0,0,West Brom,Man United
+854,28-Sep-13,Southampton,Crystal Palace,2,0,H,0,0,D,M Atkinson,12,8,3,0,11,12,8,2,1,2,0,0,Southampton,Crystal Palace
+855,28-Sep-13,Swansea,Arsenal,1,2,A,0,0,D,M Clattenburg,10,10,3,4,5,11,4,3,3,2,0,0,Arsenal,Swansea
+856,28-Sep-13,Tottenham,Chelsea,1,1,D,1,0,H,M Dean,12,11,4,5,14,14,4,5,5,1,0,1,None,None
+857,30-Sep-13,Everton,Newcastle,3,2,H,3,0,H,P Dowd,18,15,7,6,5,15,1,1,3,1,0,0,Everton,Newcastle
+858,5-Oct-13,Liverpool,Crystal Palace,3,1,H,3,0,H,A Taylor,13,11,7,2,11,6,11,3,2,1,0,0,Liverpool,Crystal Palace
+859,5-Oct-13,Man City,Everton,3,1,H,2,1,H,J Moss,12,6,6,4,15,10,8,1,5,4,0,0,Man City,Everton
+860,6-Oct-13,Southampton,Swansea,2,0,H,1,0,H,M Dean,12,17,4,7,13,8,7,4,3,1,0,0,Southampton,Swansea
+861,6-Oct-13,Tottenham,West Ham,0,3,A,0,0,D,L Probert,14,16,4,5,5,9,6,7,0,0,0,0,West Ham,Tottenham
+862,6-Oct-13,West Brom,Arsenal,1,1,D,1,0,H,L Mason,12,14,4,5,6,11,6,2,1,2,0,0,None,None
+863,19-Oct-13,Man United,Southampton,1,1,D,1,0,H,M Jones,12,18,5,7,10,19,4,4,2,3,0,0,None,None
+864,19-Oct-13,Newcastle,Liverpool,2,2,D,1,1,D,A Marriner,14,23,4,7,8,10,3,13,2,3,1,0,None,None
+865,19-Oct-13,Stoke,West Brom,0,0,D,0,0,D,H Webb,9,12,3,5,12,10,6,6,1,0,0,0,None,None
+866,19-Oct-13,West Ham,Man City,1,3,A,0,1,A,M Oliver,11,16,2,9,7,12,5,5,1,2,0,0,Man City,West Ham
+867,26-Oct-13,Crystal Palace,Arsenal,0,2,A,0,0,D,C Foy,13,10,4,4,12,8,4,3,0,0,0,1,Arsenal,Crystal Palace
+868,26-Oct-13,Liverpool,West Brom,4,1,H,2,0,H,J Moss,18,15,7,3,14,11,3,9,0,2,0,0,Liverpool,West Brom
+869,26-Oct-13,Man United,Stoke,3,2,H,1,2,A,L Mason,19,10,5,5,8,18,12,2,2,6,0,0,Man United,Stoke
+870,27-Oct-13,Chelsea,Man City,2,1,H,1,0,H,H Webb,12,15,4,6,11,15,3,6,2,3,0,0,Chelsea,Man City
+871,27-Oct-13,Swansea,West Ham,0,0,D,0,0,D,P Dowd,10,15,5,4,12,14,9,6,1,3,0,0,None,None
+872,2-Nov-13,Arsenal,Liverpool,2,0,H,1,0,H,M Atkinson,12,12,7,4,11,7,3,5,2,1,0,0,Arsenal,Liverpool
+873,2-Nov-13,Newcastle,Chelsea,2,0,H,0,0,D,L Mason,15,13,8,2,13,11,3,8,2,2,0,0,Newcastle,Chelsea
+874,2-Nov-13,Stoke,Southampton,1,1,D,1,1,D,C Foy,9,10,3,2,13,13,5,5,3,1,0,0,None,None
+875,2-Nov-13,West Brom,Crystal Palace,2,0,H,1,0,H,N Swarbrick,9,12,4,4,11,9,10,3,0,1,0,0,West Brom,Crystal Palace
+876,3-Nov-13,Everton,Tottenham,0,0,D,0,0,D,K Friend,8,16,1,6,11,9,7,4,4,1,0,0,None,None
+877,9-Nov-13,Chelsea,West Brom,2,2,D,1,0,H,L Probert,17,11,7,3,11,15,9,4,3,7,0,0,None,None
+878,9-Nov-13,Crystal Palace,Everton,0,0,D,0,0,D,C Pawson,9,15,2,2,16,8,4,7,1,0,0,0,None,None
+879,10-Nov-13,Man United,Arsenal,1,0,H,1,0,H,M Oliver,5,10,2,2,12,11,5,6,2,3,0,0,Man United,Arsenal
+880,10-Nov-13,Swansea,Stoke,3,3,D,0,2,A,R Madley,17,6,6,3,12,15,14,3,5,3,0,0,None,None
+881,10-Nov-13,Tottenham,Newcastle,0,1,A,0,1,A,C Foy,31,8,14,4,5,15,11,4,1,2,0,0,Newcastle,Tottenham
+882,23-Nov-13,Arsenal,Southampton,2,0,H,1,0,H,M Clattenburg,9,10,4,4,10,14,5,6,0,3,0,0,Arsenal,Southampton
+883,23-Nov-13,Everton,Liverpool,3,3,D,1,2,A,P Dowd,18,11,12,5,16,15,6,7,4,3,0,0,None,None
+884,23-Nov-13,West Ham,Chelsea,0,3,A,0,2,A,C Foy,8,20,1,8,12,10,8,4,0,0,0,0,Chelsea,West Ham
+885,24-Nov-13,Man City,Tottenham,6,0,H,3,0,H,M Atkinson,15,13,10,5,7,11,4,7,1,3,0,0,Man City,Tottenham
+886,30-Nov-13,Everton,Stoke,4,0,H,1,0,H,M Jones,22,4,12,3,9,16,9,3,0,3,0,0,Everton,Stoke
+887,30-Nov-13,Newcastle,West Brom,2,1,H,1,0,H,P Dowd,14,14,6,1,15,15,3,3,1,2,0,0,Newcastle,West Brom
+888,1-Dec-13,Chelsea,Southampton,3,1,H,0,1,A,M Oliver,16,9,7,1,15,14,8,4,1,4,0,0,Chelsea,Southampton
+889,1-Dec-13,Man City,Swansea,3,0,H,1,0,H,M Clattenburg,22,9,7,4,7,8,5,4,1,0,0,0,Man City,Swansea
+890,1-Dec-13,Tottenham,Man United,2,2,D,1,1,D,M Dean,10,8,4,3,9,15,7,7,1,3,0,0,None,None
+891,3-Dec-13,Crystal Palace,West Ham,1,0,H,1,0,H,L Mason,10,11,5,2,10,9,3,4,1,2,0,0,Crystal Palace,West Ham
+892,4-Dec-13,Man United,Everton,0,1,A,0,0,D,M Atkinson,18,15,6,4,12,12,7,4,2,0,0,0,Everton,Man United
+893,4-Dec-13,Swansea,Newcastle,3,0,H,1,0,H,H Webb,13,14,5,3,4,8,5,1,0,2,0,0,Swansea,Newcastle
+894,4-Dec-13,West Brom,Man City,2,3,A,0,2,A,C Foy,12,15,1,5,8,10,3,3,1,1,0,0,Man City,West Brom
+895,7-Dec-13,Liverpool,West Ham,4,1,H,1,0,H,M Oliver,32,8,9,1,9,12,8,4,0,3,0,1,Liverpool,West Ham
+896,7-Dec-13,Man United,Newcastle,0,1,A,0,0,D,A Marriner,8,9,4,3,11,18,4,4,0,2,0,0,Newcastle,Man United
+897,7-Dec-13,Southampton,Man City,1,1,D,1,1,D,A Taylor,15,13,4,3,6,9,5,4,0,2,0,0,None,None
+898,7-Dec-13,Stoke,Chelsea,3,2,H,1,1,D,J Moss,9,15,3,6,14,8,5,2,4,1,0,0,Stoke,Chelsea
+899,8-Dec-13,Arsenal,Everton,1,1,D,0,0,D,H Webb,11,12,5,4,13,11,3,2,0,4,0,0,None,None
+900,14-Dec-13,Chelsea,Crystal Palace,2,1,H,2,1,H,M Clattenburg,16,10,7,5,13,7,3,1,2,1,0,0,Chelsea,Crystal Palace
+901,14-Dec-13,Man City,Arsenal,6,3,H,2,1,H,M Atkinson,22,12,7,6,12,6,8,8,2,1,0,0,Man City,Arsenal
+902,14-Dec-13,Newcastle,Southampton,1,1,D,1,0,H,M Jones,16,8,5,3,10,16,11,3,1,2,0,0,None,None
+903,15-Dec-13,Tottenham,Liverpool,0,5,A,0,2,A,J Moss,9,21,0,10,17,15,2,9,3,0,1,0,Liverpool,Tottenham
+904,21-Dec-13,Crystal Palace,Newcastle,0,3,A,0,2,A,N Swarbrick,9,13,4,6,11,14,3,7,1,2,0,0,Newcastle,Crystal Palace
+905,21-Dec-13,Man United,West Ham,3,1,H,2,0,H,M Jones,21,4,8,1,7,16,8,2,1,4,0,0,Man United,West Ham
+906,22-Dec-13,Southampton,Tottenham,2,3,A,1,1,D,C Foy,12,13,5,3,10,18,2,5,1,1,0,0,Tottenham,Southampton
+907,22-Dec-13,Swansea,Everton,1,2,A,0,0,D,L Mason,13,14,3,6,11,10,4,8,1,0,0,0,Everton,Swansea
+908,23-Dec-13,Arsenal,Chelsea,0,0,D,0,0,D,M Dean,7,13,2,4,7,11,8,6,2,1,0,0,None,None
+909,26-Dec-13,Chelsea,Swansea,1,0,H,1,0,H,M Jones,19,8,7,1,14,9,13,7,1,0,0,0,Chelsea,Swansea
+910,26-Dec-13,Man City,Liverpool,2,1,H,2,1,H,L Mason,20,12,6,5,10,9,7,6,1,3,0,0,Man City,Liverpool
+911,26-Dec-13,Newcastle,Stoke,5,1,H,1,1,D,M Atkinson,27,11,8,3,10,8,8,2,1,1,0,2,Newcastle,Stoke
+912,26-Dec-13,Tottenham,West Brom,1,1,D,1,1,D,A Taylor,20,7,3,4,8,12,12,2,3,2,0,0,None,None
+913,26-Dec-13,West Ham,Arsenal,1,3,A,0,0,D,P Dowd,12,29,5,8,11,6,0,10,1,1,0,0,Arsenal,West Ham
+914,28-Dec-13,Man City,Crystal Palace,1,0,H,0,0,D,A Marriner,23,9,4,4,12,7,12,5,1,1,0,0,Man City,Crystal Palace
+915,28-Dec-13,West Ham,West Brom,3,3,D,1,2,A,M Dean,16,22,6,7,10,13,6,5,3,2,0,0,None,None
+916,29-Dec-13,Chelsea,Liverpool,2,1,H,2,1,H,H Webb,11,8,5,4,17,17,4,2,4,1,0,0,Chelsea,Liverpool
+917,29-Dec-13,Everton,Southampton,2,1,H,1,0,H,M Clattenburg,9,12,4,2,9,14,2,3,2,4,0,0,Everton,Southampton
+918,29-Dec-13,Newcastle,Arsenal,0,1,A,0,0,D,L Probert,11,11,3,5,10,8,4,1,0,3,0,0,Arsenal,Newcastle
+919,29-Dec-13,Tottenham,Stoke,3,0,H,1,0,H,K Friend,20,2,7,1,6,14,6,1,2,2,0,0,Tottenham,Stoke
+920,1-Jan-14,Man United,Tottenham,1,2,A,0,1,A,H Webb,16,9,6,4,7,7,13,2,2,1,0,0,Tottenham,Man United
+921,1-Jan-14,Southampton,Chelsea,0,3,A,0,0,D,M Atkinson,12,11,2,5,13,10,6,8,4,1,0,0,Chelsea,Southampton
+922,1-Jan-14,Stoke,Everton,1,1,D,0,0,D,A Marriner,10,16,4,4,16,11,2,5,4,1,0,0,None,None
+923,1-Jan-14,Swansea,Man City,2,3,A,1,1,D,P Dowd,15,14,4,4,5,10,8,6,2,5,0,0,Man City,Swansea
+924,1-Jan-14,West Brom,Newcastle,1,0,H,0,0,D,L Mason,13,9,4,3,7,15,3,4,0,0,0,1,West Brom,Newcastle
+925,11-Jan-14,Man United,Swansea,2,0,H,0,0,D,C Foy,16,13,5,2,9,10,3,5,0,2,0,0,Man United,Swansea
+926,11-Jan-14,Southampton,West Brom,1,0,H,0,0,D,H Webb,18,4,5,2,11,17,4,4,1,2,0,0,Southampton,West Brom
+927,11-Jan-14,Tottenham,Crystal Palace,2,0,H,0,0,D,M Oliver,10,14,4,2,12,12,5,11,1,2,0,0,Tottenham,Crystal Palace
+928,12-Jan-14,Newcastle,Man City,0,2,A,0,1,A,M Jones,13,14,5,6,18,15,5,6,4,2,0,0,Man City,Newcastle
+929,12-Jan-14,Stoke,Liverpool,3,5,A,2,2,D,A Taylor,13,13,4,9,10,8,11,2,1,1,0,0,Liverpool,Stoke
+930,18-Jan-14,Crystal Palace,Stoke,1,0,H,0,0,D,M Clattenburg,12,17,6,2,9,13,4,3,0,2,0,0,Crystal Palace,Stoke
+931,18-Jan-14,West Ham,Newcastle,1,3,A,1,2,A,A Marriner,11,19,2,9,9,6,4,3,0,0,0,0,Newcastle,West Ham
+932,19-Jan-14,Chelsea,Man United,3,1,H,2,0,H,P Dowd,13,10,6,4,15,21,5,4,1,3,0,1,Chelsea,Man United
+933,19-Jan-14,Swansea,Tottenham,1,3,A,0,1,A,M Atkinson,13,11,3,5,6,9,8,2,2,1,0,0,Tottenham,Swansea
+934,20-Jan-14,West Brom,Everton,1,1,D,0,1,A,M Oliver,14,13,6,4,16,12,4,2,3,2,0,0,None,None
+935,28-Jan-14,Liverpool,Everton,4,0,H,3,0,H,M Atkinson,20,18,9,4,11,13,5,8,0,3,0,0,Liverpool,Everton
+936,28-Jan-14,Southampton,Arsenal,2,2,D,1,0,H,L Mason,13,7,5,4,11,4,7,5,1,1,0,1,None,None
+937,29-Jan-14,Chelsea,West Ham,0,0,D,0,0,D,N Swarbrick,39,1,9,1,12,11,13,3,1,3,0,0,None,None
+938,29-Jan-14,Tottenham,Man City,1,5,A,0,1,A,A Marriner,4,24,2,10,11,10,3,5,1,4,1,0,Man City,Tottenham
+939,1-Feb-14,Stoke,Man United,2,1,H,1,0,H,N Swarbrick,13,19,6,4,18,7,7,10,2,2,0,0,Stoke,Man United
+940,1-Feb-14,West Ham,Swansea,2,0,H,2,0,H,H Webb,11,20,4,0,7,7,8,11,1,0,1,0,West Ham,Swansea
+941,2-Feb-14,Arsenal,Crystal Palace,2,0,H,0,0,D,J Moss,11,10,6,2,9,14,6,5,1,2,0,0,Arsenal,Crystal Palace
+942,2-Feb-14,West Brom,Liverpool,1,1,D,0,1,A,K Friend,12,12,4,3,13,15,3,4,4,2,0,0,None,None
+943,3-Feb-14,Man City,Chelsea,0,1,A,0,1,A,M Dean,25,18,3,6,11,13,12,6,3,3,0,0,Chelsea,Man City
+944,8-Feb-14,Chelsea,Newcastle,3,0,H,2,0,H,H Webb,18,12,8,6,7,10,6,5,0,3,0,0,Chelsea,Newcastle
+945,8-Feb-14,Crystal Palace,West Brom,3,1,H,2,0,H,C Foy,10,16,6,6,13,13,4,7,0,3,0,0,Crystal Palace,West Brom
+946,8-Feb-14,Liverpool,Arsenal,5,1,H,4,0,H,M Oliver,22,11,12,6,14,14,6,6,1,2,0,0,Liverpool,Arsenal
+947,8-Feb-14,Southampton,Stoke,2,2,D,2,2,D,C Pawson,17,5,5,4,7,14,7,4,0,4,0,0,None,None
+948,9-Feb-14,Tottenham,Everton,1,0,H,0,0,D,M Clattenburg,8,11,2,3,9,13,9,7,1,0,0,0,Tottenham,Everton
+949,11-Feb-14,West Brom,Chelsea,1,1,D,0,1,A,A Taylor,12,15,1,4,9,13,5,8,3,4,0,0,None,None
+950,12-Feb-14,Arsenal,Man United,0,0,D,0,0,D,M Clattenburg,17,6,5,2,10,14,5,5,1,2,0,0,None,None
+951,12-Feb-14,Newcastle,Tottenham,0,4,A,0,1,A,N Swarbrick,13,15,5,8,6,11,8,6,0,0,0,0,Tottenham,Newcastle
+952,12-Feb-14,Stoke,Swansea,1,1,D,1,0,H,J Moss,7,13,4,3,11,12,2,5,2,2,0,0,None,None
+953,22-Feb-14,Chelsea,Everton,1,0,H,0,0,D,L Probert,25,8,8,2,15,12,8,8,1,2,0,0,Chelsea,Everton
+954,22-Feb-14,Crystal Palace,Man United,0,2,A,0,0,D,M Oliver,15,14,6,5,12,10,6,4,0,2,0,0,Man United,Crystal Palace
+955,22-Feb-14,Man City,Stoke,1,0,H,0,0,D,C Foy,19,7,7,2,16,13,8,3,3,1,0,0,Man City,Stoke
+956,22-Feb-14,West Ham,Southampton,3,1,H,2,1,H,M Clattenburg,10,25,5,5,10,8,5,11,0,1,0,0,West Ham,Southampton
+957,23-Feb-14,Liverpool,Swansea,4,3,H,3,2,H,M Jones,21,14,10,5,9,11,3,5,1,0,0,0,Liverpool,Swansea
+958,1-Mar-14,Everton,West Ham,1,0,H,0,0,D,J Moss,22,6,3,1,9,8,11,5,1,1,0,0,Everton,West Ham
+959,1-Mar-14,Southampton,Liverpool,0,3,A,0,1,A,L Probert,13,12,2,5,10,6,3,6,1,2,0,0,Liverpool,Southampton
+960,1-Mar-14,Stoke,Arsenal,1,0,H,0,0,D,M Jones,8,10,4,2,13,11,3,4,3,1,0,0,Stoke,Arsenal
+961,2-Mar-14,Swansea,Crystal Palace,1,1,D,1,0,H,M Dean,7,7,5,4,8,11,1,4,1,4,1,0,None,None
+962,8-Mar-14,Chelsea,Tottenham,4,0,H,0,0,D,M Oliver,12,6,4,2,11,18,5,4,2,3,0,1,Chelsea,Tottenham
+963,8-Mar-14,Crystal Palace,Southampton,0,1,A,0,1,A,H Webb,6,11,1,3,14,18,8,3,1,5,0,0,Southampton,Crystal Palace
+964,8-Mar-14,West Brom,Man United,0,3,A,0,1,A,J Moss,14,14,3,5,11,10,3,5,1,2,0,0,Man United,West Brom
+965,15-Mar-14,Stoke,West Ham,3,1,H,1,1,D,C Pawson,17,8,9,2,13,13,6,4,1,1,0,0,Stoke,West Ham
+966,15-Mar-14,Swansea,West Brom,1,2,A,1,0,H,M Atkinson,15,13,4,4,7,13,4,1,1,3,0,0,West Brom,Swansea
+967,16-Mar-14,Man United,Liverpool,0,3,A,0,1,A,M Clattenburg,13,17,1,7,13,12,3,4,1,4,1,0,Liverpool,Man United
+968,16-Mar-14,Tottenham,Arsenal,0,1,A,0,1,A,M Dean,17,7,2,3,18,11,5,2,5,3,0,0,Arsenal,Tottenham
+969,22-Mar-14,Chelsea,Arsenal,6,0,H,4,0,H,A Marriner,21,12,11,5,14,8,7,1,0,1,0,1,Chelsea,Arsenal
+970,22-Mar-14,Everton,Swansea,3,2,H,1,1,D,M Oliver,9,21,6,7,9,6,5,12,0,0,0,0,Everton,Swansea
+971,22-Mar-14,Newcastle,Crystal Palace,1,0,H,0,0,D,L Probert,21,8,8,1,4,8,9,5,0,1,0,0,Newcastle,Crystal Palace
+972,22-Mar-14,West Ham,Man United,0,2,A,0,2,A,L Mason,10,16,1,7,8,8,12,7,2,1,0,0,Man United,West Ham
+973,23-Mar-14,Tottenham,Southampton,3,2,H,1,2,A,A Taylor,15,12,6,4,9,9,7,3,1,2,0,0,Tottenham,Southampton
+974,25-Mar-14,Arsenal,Swansea,2,2,D,0,1,A,L Probert,13,8,4,2,11,12,7,0,0,1,0,0,None,None
+975,25-Mar-14,Man United,Man City,0,3,A,0,1,A,M Oliver,10,13,4,4,12,8,5,8,2,2,0,0,Man City,Man United
+976,25-Mar-14,Newcastle,Everton,0,3,A,0,1,A,L Mason,16,8,3,6,8,10,9,8,0,1,0,0,Everton,Newcastle
+977,29-Mar-14,Arsenal,Man City,1,1,D,0,1,A,M Dean,10,15,3,4,8,11,6,6,1,4,0,0,None,None
+978,29-Mar-14,Crystal Palace,Chelsea,1,0,H,0,0,D,L Mason,14,21,4,2,10,4,2,13,4,1,0,0,Crystal Palace,Chelsea
+979,29-Mar-14,Southampton,Newcastle,4,0,H,1,0,H,A Marriner,23,5,11,2,5,6,7,5,0,1,0,0,Southampton,Newcastle
+980,30-Mar-14,Liverpool,Tottenham,4,0,H,2,0,H,P Dowd,11,15,5,4,9,9,5,7,0,2,0,0,Liverpool,Tottenham
+981,5-Apr-14,Chelsea,Stoke,3,0,H,1,0,H,L Probert,18,4,8,2,8,18,7,3,0,0,0,0,Chelsea,Stoke
+982,5-Apr-14,Man City,Southampton,4,1,H,3,1,H,C Foy,15,5,8,1,9,15,5,9,3,0,0,0,Man City,Southampton
+983,5-Apr-14,Newcastle,Man United,0,4,A,0,1,A,K Friend,14,8,4,4,16,6,4,5,1,0,0,0,Man United,Newcastle
+984,6-Apr-14,Everton,Arsenal,3,0,H,2,0,H,M Atkinson,14,15,8,5,6,5,3,6,1,2,0,0,Everton,Arsenal
+985,6-Apr-14,West Ham,Liverpool,1,2,A,1,1,D,A Taylor,11,17,1,8,10,9,4,4,4,0,0,0,Liverpool,West Ham
+986,12-Apr-14,Stoke,Newcastle,1,0,H,1,0,H,M Jones,10,13,3,1,12,11,4,5,1,1,0,0,Stoke,Newcastle
+987,12-Apr-14,West Brom,Tottenham,3,3,D,3,1,H,N Swarbrick,6,20,5,8,11,8,2,2,4,2,0,0,None,None
+988,13-Apr-14,Liverpool,Man City,3,2,H,2,0,H,M Clattenburg,10,13,4,5,7,9,7,7,1,3,1,0,Liverpool,Man City
+989,13-Apr-14,Swansea,Chelsea,0,1,A,0,0,D,P Dowd,7,26,4,3,8,13,5,12,0,2,1,0,Chelsea,Swansea
+990,15-Apr-14,Arsenal,West Ham,3,1,H,1,1,D,K Friend,14,12,8,2,14,12,4,3,2,2,0,0,Arsenal,West Ham
+991,16-Apr-14,Everton,Crystal Palace,2,3,A,0,1,A,A Marriner,17,7,5,4,6,10,13,3,1,2,0,0,Crystal Palace,Everton
+992,19-Apr-14,Newcastle,Swansea,1,2,A,1,1,D,C Foy,14,10,4,2,6,9,2,8,2,0,0,0,Swansea,Newcastle
+993,19-Apr-14,West Ham,Crystal Palace,0,1,A,0,0,D,M Atkinson,13,11,4,3,7,16,3,11,1,1,0,0,Crystal Palace,West Ham
+994,20-Apr-14,Everton,Man United,2,0,H,2,0,H,M Clattenburg,17,9,5,2,9,8,6,5,2,2,0,0,Everton,Man United
+995,21-Apr-14,Man City,West Brom,3,1,H,3,1,H,P Dowd,19,10,6,3,9,7,8,2,1,1,0,0,Man City,West Brom
+996,26-Apr-14,Southampton,Everton,2,0,H,2,0,H,M Oliver,14,9,4,2,13,12,4,7,0,2,0,0,Southampton,Everton
+997,26-Apr-14,Stoke,Tottenham,0,1,A,0,1,A,A Marriner,17,16,3,4,11,6,4,3,1,2,1,0,Tottenham,Stoke
+998,26-Apr-14,West Brom,West Ham,1,0,H,1,0,H,M Dean,19,9,6,3,14,8,7,6,0,1,0,0,West Brom,West Ham
+999,27-Apr-14,Crystal Palace,Man City,0,2,A,0,2,A,H Webb,3,16,2,6,9,10,4,8,3,1,0,0,Man City,Crystal Palace
+1000,27-Apr-14,Liverpool,Chelsea,0,2,A,0,1,A,M Atkinson,26,11,8,4,9,7,14,3,0,4,0,0,Chelsea,Liverpool
+1001,28-Apr-14,Arsenal,Newcastle,3,0,H,2,0,H,N Swarbrick,20,8,8,3,9,8,14,0,3,2,0,0,Arsenal,Newcastle
+1002,3-May-14,Everton,Man City,2,3,A,1,2,A,L Probert,9,18,4,6,3,9,4,3,0,3,0,0,Man City,Everton
+1003,3-May-14,Swansea,Southampton,0,1,A,0,0,D,A Taylor,12,18,3,4,11,5,3,5,1,1,0,0,Southampton,Swansea
+1004,3-May-14,West Ham,Tottenham,2,0,H,2,0,H,P Dowd,20,12,8,3,10,16,10,6,0,4,0,1,West Ham,Tottenham
+1005,4-May-14,Arsenal,West Brom,1,0,H,1,0,H,M Jones,15,11,4,1,9,6,9,10,2,2,0,0,Arsenal,West Brom
+1006,5-May-14,Crystal Palace,Liverpool,3,3,D,0,1,A,M Clattenburg,10,26,6,9,7,12,7,7,2,3,0,0,None,None
+1007,11-May-14,Liverpool,Newcastle,2,1,H,0,1,A,P Dowd,13,8,5,2,8,16,6,2,1,3,0,2,Liverpool,Newcastle
+1008,11-May-14,Man City,West Ham,2,0,H,1,0,H,M Atkinson,28,3,7,0,7,9,12,1,2,2,0,0,Man City,West Ham
+1009,11-May-14,Southampton,Man United,1,1,D,1,0,H,M Dean,15,8,6,2,16,5,6,2,3,2,0,0,None,None
+1010,11-May-14,West Brom,Stoke,1,2,A,0,1,A,L Probert,17,15,4,4,4,7,11,6,0,0,0,0,Stoke,West Brom
+1011,16-Aug-14,Arsenal,Crystal Palace,2,1,H,1,1,D,J Moss,14,4,6,2,13,19,9,3,2,2,0,1,Arsenal,Crystal Palace
+1012,16-Aug-14,Leicester,Everton,2,2,D,1,2,A,M Jones,11,13,3,3,16,10,3,6,1,1,0,0,None,None
+1013,16-Aug-14,Man United,Swansea,1,2,A,0,1,A,M Dean,14,5,5,4,14,20,4,0,2,4,0,0,Swansea,Man United
+1014,16-Aug-14,West Ham,Tottenham,0,1,A,0,0,D,C Foy,18,10,4,4,12,10,8,5,1,0,1,1,Tottenham,West Ham
+1015,17-Aug-14,Liverpool,Southampton,2,1,H,1,0,H,M Clattenburg,12,12,5,6,8,11,2,6,1,2,0,0,Liverpool,Southampton
+1016,17-Aug-14,Newcastle,Man City,0,2,A,0,1,A,M Atkinson,12,13,0,5,8,11,3,3,1,5,0,0,Man City,Newcastle
+1017,18-Aug-14,Burnley,Chelsea,1,3,A,1,3,A,M Oliver,9,11,2,3,6,7,4,3,1,1,0,0,Chelsea,Burnley
+1018,23-Aug-14,Chelsea,Leicester,2,0,H,0,0,D,L Mason,27,6,10,4,11,11,8,7,0,1,0,0,Chelsea,Leicester
+1019,23-Aug-14,Crystal Palace,West Ham,1,3,A,0,2,A,M Clattenburg,9,17,4,8,14,11,6,9,1,3,0,0,West Ham,Crystal Palace
+1020,23-Aug-14,Everton,Arsenal,2,2,D,2,0,H,K Friend,8,13,2,3,10,18,3,3,1,4,0,0,None,None
+1021,23-Aug-14,Southampton,West Brom,0,0,D,0,0,D,R East,8,8,2,2,14,15,1,5,1,2,0,0,None,None
+1022,23-Aug-14,Swansea,Burnley,1,0,H,1,0,H,C Pawson,10,12,5,1,14,13,2,3,2,1,0,0,Swansea,Burnley
+1023,25-Aug-14,Man City,Liverpool,3,1,H,1,0,H,M Oliver,9,11,4,3,13,7,6,7,1,1,0,0,Man City,Liverpool
+1024,30-Aug-14,Burnley,Man United,0,0,D,0,0,D,C Foy,9,7,3,2,10,14,3,6,2,2,0,0,None,None
+1025,30-Aug-14,Everton,Chelsea,3,6,A,1,2,A,J Moss,17,12,7,8,7,16,8,2,1,3,0,0,Chelsea,Everton
+1026,30-Aug-14,Man City,Stoke,0,1,A,0,0,D,L Mason,16,7,2,2,14,5,11,4,2,1,0,0,Stoke,Man City
+1027,30-Aug-14,Newcastle,Crystal Palace,3,3,D,1,1,D,M Jones,18,12,4,7,12,19,11,4,1,3,0,0,None,None
+1028,30-Aug-14,Swansea,West Brom,3,0,H,2,0,H,P Tierney,15,16,8,2,10,8,0,7,1,2,0,0,Swansea,West Brom
+1029,30-Aug-14,West Ham,Southampton,1,3,A,1,1,D,M Dean,4,18,2,8,11,13,2,9,2,1,0,0,Southampton,West Ham
+1030,31-Aug-14,Leicester,Arsenal,1,1,D,1,1,D,A Taylor,9,24,3,6,14,6,5,10,3,1,0,0,None,None
+1031,31-Aug-14,Tottenham,Liverpool,0,3,A,0,1,A,P Dowd,7,17,1,8,14,11,7,3,0,4,0,0,Liverpool,Tottenham
+1032,13-Sep-14,Arsenal,Man City,2,2,D,0,1,A,M Clattenburg,15,15,6,8,11,15,0,3,3,4,0,0,None,None
+1033,13-Sep-14,Chelsea,Swansea,4,2,H,1,1,D,K Friend,29,11,9,2,12,11,7,4,0,3,0,0,Chelsea,Swansea
+1034,13-Sep-14,Crystal Palace,Burnley,0,0,D,0,0,D,M Dean,14,11,3,3,12,10,5,5,2,3,0,0,None,None
+1035,13-Sep-14,Southampton,Newcastle,4,0,H,2,0,H,C Foy,10,9,7,4,15,7,5,5,0,2,0,0,Southampton,Newcastle
+1036,13-Sep-14,Stoke,Leicester,0,1,A,0,0,D,M Oliver,24,8,4,1,8,15,13,3,3,0,0,0,Leicester,Stoke
+1037,13-Sep-14,West Brom,Everton,0,2,A,0,1,A,A Taylor,11,11,1,4,12,8,9,1,2,3,0,0,Everton,West Brom
+1038,20-Sep-14,Swansea,Southampton,0,1,A,0,0,D,J Moss,5,11,2,4,11,15,2,4,0,4,1,0,Southampton,Swansea
+1039,20-Sep-14,West Ham,Liverpool,3,1,H,2,1,H,C Pawson,13,11,7,5,16,11,7,5,4,1,0,0,West Ham,Liverpool
+1040,21-Sep-14,Everton,Crystal Palace,2,3,A,1,1,D,M Oliver,17,10,6,3,8,13,7,1,2,2,0,0,Crystal Palace,Everton
+1041,21-Sep-14,Leicester,Man United,5,3,H,1,2,A,M Clattenburg,15,16,5,5,11,9,2,4,1,1,0,1,Leicester,Man United
+1042,21-Sep-14,Man City,Chelsea,1,1,D,0,0,D,M Dean,16,6,4,2,16,12,14,2,3,4,1,0,None,None
+1043,21-Sep-14,Tottenham,West Brom,0,1,A,0,0,D,K Friend,7,10,1,4,12,7,9,7,2,2,0,0,West Brom,Tottenham
+1044,27-Sep-14,Arsenal,Tottenham,1,1,D,0,0,D,M Oliver,16,6,6,4,7,16,15,5,3,6,0,0,None,None
+1045,27-Sep-14,Crystal Palace,Leicester,2,0,H,0,0,D,K Stroud,16,7,6,1,14,9,6,6,0,2,0,0,Crystal Palace,Leicester
+1046,27-Sep-14,Liverpool,Everton,1,1,D,0,0,D,M Atkinson,24,11,8,5,8,9,8,2,2,1,0,0,None,None
+1047,27-Sep-14,Man United,West Ham,2,1,H,2,1,H,L Mason,8,13,3,4,10,12,7,10,1,3,1,0,Man United,West Ham
+1048,28-Sep-14,West Brom,Burnley,4,0,H,2,0,H,J Moss,20,10,6,2,7,9,10,2,1,2,0,0,West Brom,Burnley
+1049,29-Sep-14,Stoke,Newcastle,1,0,H,1,0,H,C Pawson,12,16,3,1,20,15,2,10,1,2,0,0,Stoke,Newcastle
+1050,4-Oct-14,Leicester,Burnley,2,2,D,2,1,H,P Dowd,15,10,6,4,16,12,9,3,2,2,0,0,None,None
+1051,4-Oct-14,Liverpool,West Brom,2,1,H,1,0,H,M Oliver,19,8,7,4,12,15,5,5,2,2,0,0,Liverpool,West Brom
+1052,4-Oct-14,Swansea,Newcastle,2,2,D,1,1,D,L Mason,11,9,5,4,11,15,3,1,1,3,0,0,None,None
+1053,5-Oct-14,Chelsea,Arsenal,2,0,H,1,0,H,M Atkinson,5,10,3,0,14,10,2,2,4,3,0,0,Chelsea,Arsenal
+1054,5-Oct-14,Man United,Everton,2,1,H,1,0,H,K Friend,15,10,4,6,18,11,11,6,4,3,0,0,Man United,Everton
+1055,5-Oct-14,Tottenham,Southampton,1,0,H,1,0,H,M Jones,9,7,4,3,15,9,10,5,2,1,0,0,Tottenham,Southampton
+1056,18-Oct-14,Burnley,West Ham,1,3,A,0,0,D,K Friend,17,22,3,6,3,10,5,7,0,1,0,0,West Ham,Burnley
+1057,18-Oct-14,Crystal Palace,Chelsea,1,2,A,0,1,A,C Pawson,7,14,4,5,13,7,3,2,1,1,1,1,Chelsea,Crystal Palace
+1058,18-Oct-14,Man City,Tottenham,4,1,H,2,1,H,J Moss,20,19,12,7,11,9,3,4,1,2,0,1,Man City,Tottenham
+1059,18-Oct-14,Newcastle,Leicester,1,0,H,0,0,D,M Atkinson,19,7,6,2,13,15,10,7,0,3,0,0,Newcastle,Leicester
+1060,19-Oct-14,Stoke,Swansea,2,1,H,1,1,D,M Oliver,17,13,3,5,17,7,3,5,4,1,0,0,Stoke,Swansea
+1061,20-Oct-14,West Brom,Man United,2,2,D,1,0,H,M Dean,8,22,2,7,6,8,0,11,1,2,0,0,None,None
+1062,25-Oct-14,Southampton,Stoke,1,0,H,1,0,H,J Moss,20,8,2,1,10,12,6,3,0,2,0,0,Southampton,Stoke
+1063,25-Oct-14,Swansea,Leicester,2,0,H,1,0,H,M Jones,7,9,3,4,7,10,2,2,0,0,0,0,Swansea,Leicester
+1064,25-Oct-14,West Brom,Crystal Palace,2,2,D,0,2,A,M Clattenburg,17,8,4,6,14,8,6,3,3,1,0,0,None,None
+1065,25-Oct-14,West Ham,Man City,2,1,H,1,0,H,M Atkinson,12,21,4,5,12,14,4,8,2,1,0,0,West Ham,Man City
+1066,26-Oct-14,Burnley,Everton,1,3,A,1,2,A,A Marriner,14,15,3,6,12,7,5,4,4,2,0,0,Everton,Burnley
+1067,26-Oct-14,Man United,Chelsea,1,1,D,0,0,D,P Dowd,19,9,7,4,13,14,4,7,3,5,0,1,None,None
+1068,26-Oct-14,Tottenham,Newcastle,1,2,A,1,0,H,A Taylor,17,8,2,2,9,12,10,2,2,4,0,0,Newcastle,Tottenham
+1069,1-Nov-14,Arsenal,Burnley,3,0,H,0,0,D,C Pawson,32,6,13,2,5,9,18,1,0,1,0,0,Arsenal,Burnley
+1070,1-Nov-14,Everton,Swansea,0,0,D,0,0,D,K Friend,17,8,3,0,10,15,11,0,2,3,0,1,None,None
+1071,1-Nov-14,Leicester,West Brom,0,1,A,0,0,D,S Attwell,14,8,5,3,5,12,8,3,0,1,0,0,West Brom,Leicester
+1072,1-Nov-14,Newcastle,Liverpool,1,0,H,0,0,D,A Marriner,14,6,3,3,13,8,7,2,4,3,0,0,Newcastle,Liverpool
+1073,1-Nov-14,Stoke,West Ham,2,2,D,1,0,H,C Foy,21,10,6,2,14,13,9,2,1,1,0,0,None,None
+1074,2-Nov-14,Man City,Man United,1,0,H,0,0,D,M Oliver,16,9,6,2,15,9,7,4,3,1,0,1,Man City,Man United
+1075,8-Nov-14,Liverpool,Chelsea,1,2,A,1,1,D,A Taylor,12,15,4,5,9,12,5,7,2,5,0,0,Chelsea,Liverpool
+1076,8-Nov-14,Man United,Crystal Palace,1,0,H,0,0,D,C Foy,23,6,5,1,8,12,11,4,1,3,0,0,Man United,Crystal Palace
+1077,8-Nov-14,Southampton,Leicester,2,0,H,0,0,D,M Oliver,18,5,6,0,10,12,13,4,2,2,0,0,Southampton,Leicester
+1078,9-Nov-14,Swansea,Arsenal,2,1,H,0,0,D,P Dowd,11,12,5,4,10,16,6,10,5,5,0,0,Swansea,Arsenal
+1079,9-Nov-14,Tottenham,Stoke,1,2,A,0,2,A,M Jones,14,11,4,4,20,13,5,5,3,2,1,0,Stoke,Tottenham
+1080,9-Nov-14,West Brom,Newcastle,0,2,A,0,1,A,C Pawson,10,8,2,3,12,6,7,4,0,0,0,0,Newcastle,West Brom
+1081,22-Nov-14,Arsenal,Man United,1,2,A,0,0,D,M Dean,23,12,9,2,12,8,11,5,2,1,0,0,Man United,Arsenal
+1082,22-Nov-14,Chelsea,West Brom,2,0,H,2,0,H,L Mason,21,5,8,1,7,9,15,0,1,0,0,1,Chelsea,West Brom
+1083,22-Nov-14,Everton,West Ham,2,1,H,1,0,H,M Clattenburg,14,14,4,3,10,13,1,5,2,3,0,0,Everton,West Ham
+1084,22-Nov-14,Man City,Swansea,2,1,H,1,1,D,N Swarbrick,23,8,10,3,13,9,7,3,2,1,0,0,Man City,Swansea
+1085,22-Nov-14,Stoke,Burnley,1,2,A,1,2,A,M Atkinson,25,5,4,4,10,9,14,0,2,2,0,0,Burnley,Stoke
+1086,23-Nov-14,Crystal Palace,Liverpool,3,1,H,1,1,D,J Moss,15,12,5,1,21,10,4,3,1,2,0,0,Crystal Palace,Liverpool
+1087,29-Nov-14,Liverpool,Stoke,1,0,H,0,0,D,C Pawson,16,13,3,4,11,9,5,5,0,3,0,0,Liverpool,Stoke
+1088,29-Nov-14,Swansea,Crystal Palace,1,1,D,1,1,D,M Atkinson,18,11,4,5,6,12,4,6,0,2,0,0,None,None
+1089,29-Nov-14,West Brom,Arsenal,0,1,A,0,0,D,C Foy,9,17,1,5,9,10,4,4,2,1,0,0,Arsenal,West Brom
+1090,29-Nov-14,West Ham,Newcastle,1,0,H,0,0,D,M Dean,12,7,3,1,9,16,6,2,3,2,0,1,West Ham,Newcastle
+1091,30-Nov-14,Southampton,Man City,0,3,A,0,0,D,M Jones,13,15,4,6,10,13,8,6,1,2,0,1,Man City,Southampton
+1092,30-Nov-14,Tottenham,Everton,2,1,H,2,1,H,M Oliver,13,10,6,5,15,5,3,4,5,1,0,0,Tottenham,Everton
+1093,2-Dec-14,Burnley,Newcastle,1,1,D,1,0,H,P Dowd,12,11,2,4,12,12,2,5,2,2,0,0,None,None
+1094,2-Dec-14,Leicester,Liverpool,1,3,A,1,1,D,L Mason,20,11,4,3,11,10,7,4,1,2,1,0,Liverpool,Leicester
+1095,2-Dec-14,Man United,Stoke,2,1,H,1,1,D,J Moss,10,5,3,4,8,13,2,2,2,4,0,0,Man United,Stoke
+1096,2-Dec-14,West Brom,West Ham,1,2,A,1,2,A,M Jones,23,11,5,6,11,17,7,3,2,1,0,0,West Ham,West Brom
+1097,3-Dec-14,Arsenal,Southampton,1,0,H,0,0,D,A Marriner,19,6,8,1,7,14,9,4,0,2,0,0,Arsenal,Southampton
+1098,3-Dec-14,Chelsea,Tottenham,3,0,H,2,0,H,M Dean,12,10,8,2,9,9,1,6,1,1,0,0,Chelsea,Tottenham
+1099,6-Dec-14,Man City,Everton,1,0,H,1,0,H,A Marriner,19,9,3,2,8,11,11,7,3,3,0,0,Man City,Everton
+1100,6-Dec-14,Newcastle,Chelsea,2,1,H,0,0,D,M Atkinson,9,26,3,8,8,6,1,10,2,3,1,0,Newcastle,Chelsea
+1101,6-Dec-14,Stoke,Arsenal,3,2,H,3,0,H,A Taylor,13,15,4,6,17,14,3,9,3,2,0,1,Stoke,Arsenal
+1102,6-Dec-14,Tottenham,Crystal Palace,0,0,D,0,0,D,L Mason,14,16,3,4,11,10,2,12,1,0,0,0,None,None
+1103,7-Dec-14,West Ham,Swansea,3,1,H,1,1,D,C Foy,15,11,7,2,11,18,7,4,0,1,0,1,West Ham,Swansea
+1104,8-Dec-14,Southampton,Man United,1,2,A,1,1,D,K Friend,15,3,4,2,12,9,5,1,2,1,0,0,Man United,Southampton
+1105,13-Dec-14,Arsenal,Newcastle,4,1,H,1,0,H,L Mason,17,10,4,4,14,15,9,6,2,2,0,0,Arsenal,Newcastle
+1106,13-Dec-14,Burnley,Southampton,1,0,H,0,0,D,M Clattenburg,7,15,2,4,15,11,2,5,1,3,0,0,Burnley,Southampton
+1107,13-Dec-14,Crystal Palace,Stoke,1,1,D,1,1,D,K Friend,10,7,3,3,12,11,9,8,2,0,0,0,None,None
+1108,13-Dec-14,Leicester,Man City,0,1,A,0,1,A,J Moss,7,9,1,4,15,13,8,2,0,2,0,0,Man City,Leicester
+1109,14-Dec-14,Man United,Liverpool,3,0,H,2,0,H,M Atkinson,11,19,6,9,13,14,2,7,4,3,0,0,Man United,Liverpool
+1110,14-Dec-14,Swansea,Tottenham,1,2,A,0,1,A,R Madley,15,10,3,4,7,17,7,9,3,4,0,0,Tottenham,Swansea
+1111,20-Dec-14,Man City,Crystal Palace,3,0,H,0,0,D,P Dowd,15,6,3,1,17,5,8,6,2,1,0,0,Man City,Crystal Palace
+1112,20-Dec-14,Southampton,Everton,3,0,H,1,0,H,J Moss,11,13,3,4,11,10,4,6,1,1,0,0,Southampton,Everton
+1113,20-Dec-14,Tottenham,Burnley,2,1,H,2,1,H,M Jones,23,9,6,5,9,8,9,6,1,0,0,0,Tottenham,Burnley
+1114,20-Dec-14,West Ham,Leicester,2,0,H,1,0,H,M Atkinson,10,10,2,4,8,17,9,4,0,3,0,0,West Ham,Leicester
+1115,21-Dec-14,Liverpool,Arsenal,2,2,D,1,1,D,M Oliver,27,7,10,3,6,14,10,6,0,3,1,0,None,None
+1116,22-Dec-14,Stoke,Chelsea,0,2,A,0,1,A,N Swarbrick,13,15,2,6,11,4,6,5,3,0,0,0,Chelsea,Stoke
+1117,26-Dec-14,Burnley,Liverpool,0,1,A,0,0,D,A Taylor,16,10,0,3,7,5,8,2,0,1,0,0,Liverpool,Burnley
+1118,26-Dec-14,Chelsea,West Ham,2,0,H,1,0,H,M Oliver,28,6,9,0,8,14,8,6,0,3,0,0,Chelsea,West Ham
+1119,26-Dec-14,Crystal Palace,Southampton,1,3,A,0,1,A,M Dean,11,13,4,6,15,10,8,4,1,0,0,0,Southampton,Crystal Palace
+1120,26-Dec-14,Everton,Stoke,0,1,A,0,1,A,L Mason,16,12,5,2,9,15,9,3,2,3,0,0,Stoke,Everton
+1121,26-Dec-14,Leicester,Tottenham,1,2,A,0,1,A,N Swarbrick,22,8,6,3,10,14,11,1,1,2,0,0,Tottenham,Leicester
+1122,26-Dec-14,Man United,Newcastle,3,1,H,2,0,H,M Jones,9,8,4,4,16,9,4,5,1,2,0,0,Man United,Newcastle
+1123,26-Dec-14,West Brom,Man City,1,3,A,0,3,A,M Clattenburg,18,9,6,5,5,9,10,6,0,1,0,0,Man City,West Brom
+1124,28-Dec-14,Man City,Burnley,2,2,D,2,0,H,K Friend,17,12,6,3,18,9,10,3,4,1,0,0,None,None
+1125,28-Dec-14,Newcastle,Everton,3,2,H,1,1,D,C Pawson,13,9,6,2,13,8,8,3,2,2,0,0,Newcastle,Everton
+1126,28-Dec-14,Southampton,Chelsea,1,1,D,1,1,D,A Taylor,9,7,1,1,23,14,4,6,2,2,1,0,None,None
+1127,28-Dec-14,Stoke,West Brom,2,0,H,0,0,D,R East,13,15,3,4,11,14,5,3,0,2,0,0,Stoke,West Brom
+1128,28-Dec-14,Tottenham,Man United,0,0,D,0,0,D,J Moss,9,9,4,5,11,19,3,6,2,4,0,0,None,None
+1129,28-Dec-14,West Ham,Arsenal,1,2,A,0,2,A,N Swarbrick,14,21,4,7,12,13,7,8,3,3,0,0,Arsenal,West Ham
+1130,29-Dec-14,Liverpool,Swansea,4,1,H,1,0,H,A Marriner,21,11,11,4,8,5,6,3,1,0,0,0,Liverpool,Swansea
+1131,1-Jan-15,Liverpool,Leicester,2,2,D,2,0,H,M Jones,18,16,6,3,13,10,4,5,2,2,0,0,None,None
+1132,1-Jan-15,Newcastle,Burnley,3,3,D,2,1,H,M Dean,10,15,4,4,12,13,5,5,2,4,0,0,None,None
+1133,1-Jan-15,Southampton,Arsenal,2,0,H,1,0,H,C Pawson,13,11,6,6,14,7,2,7,2,1,0,0,Southampton,Arsenal
+1134,1-Jan-15,Stoke,Man United,1,1,D,1,1,D,M Oliver,11,6,2,2,8,12,11,7,0,0,0,0,None,None
+1135,1-Jan-15,Tottenham,Chelsea,5,3,H,3,1,H,P Dowd,11,19,8,7,14,10,5,3,3,1,0,0,Tottenham,Chelsea
+1136,1-Jan-15,West Ham,West Brom,1,1,D,1,1,D,J Moss,8,14,3,3,6,13,0,1,1,0,0,0,None,None
+1137,10-Jan-15,Chelsea,Newcastle,2,0,H,1,0,H,R East,9,11,5,5,13,13,7,4,2,3,0,0,Chelsea,Newcastle
+1138,10-Jan-15,Crystal Palace,Tottenham,2,1,H,0,0,D,A Taylor,21,9,7,5,9,14,4,6,5,3,0,0,Crystal Palace,Tottenham
+1139,10-Jan-15,Everton,Man City,1,1,D,0,0,D,M Atkinson,11,18,4,2,9,10,4,9,1,2,0,0,None,None
+1140,10-Jan-15,Swansea,West Ham,1,1,D,0,1,A,M Dean,19,11,3,5,9,7,4,5,0,1,0,0,None,None
+1141,11-Jan-15,Arsenal,Stoke,3,0,H,2,0,H,J Moss,14,7,6,2,11,11,9,1,0,3,0,0,Arsenal,Stoke
+1142,11-Jan-15,Man United,Southampton,0,1,A,0,0,D,P Dowd,10,9,0,1,9,10,3,5,2,3,0,0,Southampton,Man United
+1143,17-Jan-15,Burnley,Crystal Palace,2,3,A,2,1,H,P Dowd,7,11,4,4,10,20,5,7,1,3,0,0,Crystal Palace,Burnley
+1144,17-Jan-15,Leicester,Stoke,0,1,A,0,0,D,A Marriner,7,13,3,3,9,6,6,5,1,0,0,0,Stoke,Leicester
+1145,17-Jan-15,Newcastle,Southampton,1,2,A,1,1,D,R Madley,16,5,3,3,9,8,9,0,0,2,0,0,Southampton,Newcastle
+1146,17-Jan-15,Swansea,Chelsea,0,5,A,0,4,A,J Moss,11,21,0,11,9,13,1,2,0,0,0,0,Chelsea,Swansea
+1147,18-Jan-15,Man City,Arsenal,0,2,A,0,1,A,M Dean,12,9,4,3,12,5,16,3,3,3,0,0,Arsenal,Man City
+1148,19-Jan-15,Everton,West Brom,0,0,D,0,0,D,M Oliver,17,5,4,0,11,12,8,1,3,2,0,0,None,None
+1149,31-Jan-15,Chelsea,Man City,1,1,D,1,1,D,M Clattenburg,3,10,2,5,12,14,1,4,0,2,0,0,None,None
+1150,31-Jan-15,Crystal Palace,Everton,0,1,A,0,1,A,R East,13,14,3,2,12,14,6,1,0,3,0,0,Everton,Crystal Palace
+1151,31-Jan-15,Liverpool,West Ham,2,0,H,0,0,D,A Marriner,21,7,7,2,12,12,5,7,1,1,0,0,Liverpool,West Ham
+1152,31-Jan-15,Man United,Leicester,3,1,H,3,0,H,M Atkinson,12,4,5,1,8,12,4,3,0,1,0,0,Man United,Leicester
+1153,31-Jan-15,West Brom,Tottenham,0,3,A,0,2,A,K Friend,13,14,4,4,8,13,6,3,2,1,0,0,Tottenham,West Brom
+1154,1-Feb-15,Southampton,Swansea,0,1,A,0,0,D,M Oliver,15,6,6,1,11,9,9,0,1,1,1,0,Swansea,Southampton
+1155,7-Feb-15,Everton,Liverpool,0,0,D,0,0,D,A Taylor,6,17,1,6,11,7,3,6,4,1,0,0,None,None
+1156,7-Feb-15,Leicester,Crystal Palace,0,1,A,0,0,D,L Mason,19,14,5,2,15,6,8,6,4,1,0,0,Crystal Palace,Leicester
+1157,7-Feb-15,Tottenham,Arsenal,2,1,H,0,1,A,M Atkinson,23,7,8,3,8,12,10,3,3,5,0,0,Tottenham,Arsenal
+1158,8-Feb-15,Burnley,West Brom,2,2,D,2,1,H,M Dean,12,12,5,5,10,15,5,6,0,4,0,0,None,None
+1159,8-Feb-15,Newcastle,Stoke,1,1,D,0,0,D,K Friend,9,7,3,3,14,17,5,8,2,4,0,0,None,None
+1160,8-Feb-15,West Ham,Man United,1,1,D,0,0,D,M Clattenburg,13,18,6,6,7,13,9,9,2,2,0,1,None,None
+1161,10-Feb-15,Arsenal,Leicester,2,1,H,2,0,H,M Jones,17,11,7,4,13,14,6,6,2,2,0,0,Arsenal,Leicester
+1162,10-Feb-15,Liverpool,Tottenham,3,2,H,1,1,D,P Dowd,16,14,7,5,13,17,5,7,3,6,0,0,Liverpool,Tottenham
+1163,11-Feb-15,Chelsea,Everton,1,0,H,0,0,D,J Moss,21,7,7,4,8,13,10,2,3,3,0,1,Chelsea,Everton
+1164,11-Feb-15,Crystal Palace,Newcastle,1,1,D,0,1,A,A Marriner,7,5,3,1,10,11,5,2,1,2,0,0,None,None
+1165,11-Feb-15,Man United,Burnley,3,1,H,2,1,H,K Friend,11,13,7,3,15,8,5,8,4,3,0,0,Man United,Burnley
+1166,11-Feb-15,Southampton,West Ham,0,0,D,0,0,D,C Pawson,21,4,7,1,12,11,8,2,2,1,0,1,None,None
+1167,11-Feb-15,Stoke,Man City,1,4,A,1,1,D,L Mason,17,14,5,8,6,11,3,2,1,2,0,0,Man City,Stoke
+1168,11-Feb-15,West Brom,Swansea,2,0,H,0,0,D,R Madley,11,10,4,3,11,12,5,4,2,1,0,0,West Brom,Swansea
+1169,21-Feb-15,Chelsea,Burnley,1,1,D,1,0,H,M Atkinson,14,10,5,5,9,9,7,7,1,2,1,0,None,None
+1170,21-Feb-15,Crystal Palace,Arsenal,1,2,A,0,2,A,M Clattenburg,22,12,3,4,15,14,10,1,1,3,0,0,Arsenal,Crystal Palace
+1171,21-Feb-15,Man City,Newcastle,5,0,H,3,0,H,C Foy,16,8,9,1,9,8,7,3,3,2,0,0,Man City,Newcastle
+1172,21-Feb-15,Swansea,Man United,2,1,H,1,1,D,N Swarbrick,11,18,6,3,6,15,4,10,2,4,0,0,Swansea,Man United
+1173,22-Feb-15,Everton,Leicester,2,2,D,0,0,D,P Dowd,18,15,3,4,7,6,4,7,0,1,0,0,None,None
+1174,22-Feb-15,Southampton,Liverpool,0,2,A,0,1,A,K Friend,13,6,5,4,11,14,6,1,2,3,0,0,Liverpool,Southampton
+1175,22-Feb-15,Tottenham,West Ham,2,2,D,0,1,A,J Moss,27,12,8,5,6,12,7,9,0,2,0,0,None,None
+1176,28-Feb-15,Burnley,Swansea,0,1,A,0,0,D,J Moss,13,8,6,2,14,8,6,4,0,0,0,0,Swansea,Burnley
+1177,28-Feb-15,West Brom,Southampton,1,0,H,1,0,H,P Dowd,7,12,3,2,10,17,2,3,2,1,0,0,West Brom,Southampton
+1178,28-Feb-15,West Ham,Crystal Palace,1,3,A,0,1,A,M Dean,22,12,5,5,12,19,11,7,2,2,0,1,Crystal Palace,West Ham
+1179,1-Mar-15,Arsenal,Everton,2,0,H,1,0,H,A Marriner,17,8,4,2,12,5,8,9,2,0,0,0,Arsenal,Everton
+1180,1-Mar-15,Liverpool,Man City,2,1,H,1,1,D,M Clattenburg,11,8,5,1,8,16,3,0,1,3,0,0,Liverpool,Man City
+1181,3-Mar-15,Southampton,Crystal Palace,1,0,H,0,0,D,M Atkinson,23,9,3,3,11,10,10,2,0,2,0,0,Southampton,Crystal Palace
+1182,4-Mar-15,Liverpool,Burnley,2,0,H,1,0,H,L Mason,20,9,8,1,8,14,6,5,0,1,0,0,Liverpool,Burnley
+1183,4-Mar-15,Man City,Leicester,2,0,H,1,0,H,R Madley,22,6,9,2,11,3,10,3,0,1,0,0,Man City,Leicester
+1184,4-Mar-15,Newcastle,Man United,0,1,A,0,0,D,A Taylor,9,11,2,5,6,14,4,1,1,2,0,0,Man United,Newcastle
+1185,4-Mar-15,Stoke,Everton,2,0,H,1,0,H,M Clattenburg,11,10,3,5,11,14,5,6,2,2,0,0,Stoke,Everton
+1186,4-Mar-15,Tottenham,Swansea,3,2,H,1,1,D,M Oliver,20,10,7,5,14,7,6,4,1,0,0,0,Tottenham,Swansea
+1187,4-Mar-15,West Ham,Chelsea,0,1,A,0,1,A,A Marriner,18,12,5,3,10,10,5,4,3,4,0,0,Chelsea,West Ham
+1188,14-Mar-15,Arsenal,West Ham,3,0,H,1,0,H,A Taylor,19,7,9,1,10,9,7,5,1,1,0,0,Arsenal,West Ham
+1189,14-Mar-15,Burnley,Man City,1,0,H,0,0,D,A Marriner,10,21,4,5,6,9,2,6,2,1,0,0,Burnley,Man City
+1190,14-Mar-15,West Brom,Stoke,1,0,H,1,0,H,M Oliver,14,9,5,2,7,16,7,5,1,2,0,0,West Brom,Stoke
+1191,15-Mar-15,Chelsea,Southampton,1,1,D,1,1,D,M Dean,22,12,7,5,10,11,9,2,3,3,0,0,None,None
+1192,15-Mar-15,Everton,Newcastle,3,0,H,1,0,H,M Atkinson,15,12,9,4,11,9,3,4,1,2,0,1,Everton,Newcastle
+1193,15-Mar-15,Man United,Tottenham,3,0,H,3,0,H,M Clattenburg,11,5,3,1,12,10,4,2,1,1,0,0,Man United,Tottenham
+1194,16-Mar-15,Swansea,Liverpool,0,1,A,0,0,D,R East,10,16,3,5,13,16,4,5,0,3,0,0,Liverpool,Swansea
+1195,21-Mar-15,Man City,West Brom,3,0,H,2,0,H,N Swarbrick,43,3,16,0,6,5,9,2,0,0,0,1,Man City,West Brom
+1196,21-Mar-15,Newcastle,Arsenal,1,2,A,0,2,A,M Jones,16,7,4,3,11,7,9,4,0,0,0,0,Arsenal,Newcastle
+1197,21-Mar-15,Southampton,Burnley,2,0,H,1,0,H,R East,20,15,3,3,10,7,10,5,0,0,0,0,Southampton,Burnley
+1198,21-Mar-15,Stoke,Crystal Palace,1,2,A,1,2,A,A Marriner,17,12,4,3,15,14,8,4,3,4,0,0,Crystal Palace,Stoke
+1199,21-Mar-15,Tottenham,Leicester,4,3,H,2,1,H,M Dean,10,14,4,5,8,9,4,4,2,1,0,0,Tottenham,Leicester
+1200,22-Mar-15,Liverpool,Man United,1,2,A,0,1,A,M Atkinson,7,6,1,4,14,17,2,3,2,2,1,0,Man United,Liverpool
+1201,4-Apr-15,Arsenal,Liverpool,4,1,H,3,0,H,A Taylor,16,13,10,2,7,9,6,5,1,0,0,1,Arsenal,Liverpool
+1202,4-Apr-15,Chelsea,Stoke,2,1,H,1,1,D,J Moss,19,7,10,2,5,22,9,0,1,6,0,0,Chelsea,Stoke
+1203,4-Apr-15,Everton,Southampton,1,0,H,1,0,H,L Mason,11,11,1,2,12,17,4,10,0,1,0,0,Everton,Southampton
+1204,4-Apr-15,Leicester,West Ham,2,1,H,1,1,D,M Clattenburg,20,14,7,7,12,10,7,6,0,3,0,0,Leicester,West Ham
+1205,5-Apr-15,Burnley,Tottenham,0,0,D,0,0,D,M Atkinson,15,12,4,2,9,5,5,3,2,0,0,0,None,None
+1206,6-Apr-15,Crystal Palace,Man City,2,1,H,1,0,H,M Oliver,5,22,3,4,11,11,4,13,2,1,0,0,Crystal Palace,Man City
+1207,11-Apr-15,Burnley,Arsenal,0,1,A,0,1,A,M Dean,8,17,4,5,15,7,1,6,2,0,0,0,Arsenal,Burnley
+1208,11-Apr-15,Swansea,Everton,1,1,D,0,1,A,M Oliver,11,12,3,8,18,12,3,6,3,3,0,0,None,None
+1209,11-Apr-15,West Brom,Leicester,2,3,A,2,1,H,M Atkinson,8,12,5,4,15,15,4,6,2,2,0,0,Leicester,West Brom
+1210,11-Apr-15,West Ham,Stoke,1,1,D,1,0,H,R East,11,18,3,2,17,13,4,10,3,1,0,0,None,None
+1211,12-Apr-15,Man United,Man City,4,2,H,2,1,H,M Clattenburg,11,10,7,3,9,16,1,5,0,3,0,0,Man United,Man City
+1212,13-Apr-15,Liverpool,Newcastle,2,0,H,1,0,H,L Mason,14,10,6,3,8,17,6,6,2,0,0,1,Liverpool,Newcastle
+1213,18-Apr-15,Chelsea,Man United,1,0,H,1,0,H,M Dean,7,15,2,2,13,11,3,7,7,1,0,0,Chelsea,Man United
+1214,18-Apr-15,Crystal Palace,West Brom,0,2,A,0,1,A,J Moss,19,8,4,4,17,17,7,6,3,3,0,0,West Brom,Crystal Palace
+1215,18-Apr-15,Everton,Burnley,1,0,H,1,0,H,M Jones,21,10,8,1,12,15,5,6,1,2,0,1,Everton,Burnley
+1216,18-Apr-15,Leicester,Swansea,2,0,H,1,0,H,L Probert,18,10,6,6,6,5,6,3,0,2,0,0,Leicester,Swansea
+1217,18-Apr-15,Stoke,Southampton,2,1,H,0,1,A,M Clattenburg,15,12,2,6,17,17,2,5,0,4,0,0,Stoke,Southampton
+1218,19-Apr-15,Man City,West Ham,2,0,H,2,0,H,A Taylor,18,9,3,3,10,6,6,3,2,2,0,0,Man City,West Ham
+1219,19-Apr-15,Newcastle,Tottenham,1,3,A,0,1,A,K Friend,11,14,5,8,11,13,4,3,2,4,0,0,Tottenham,Newcastle
+1220,25-Apr-15,Burnley,Leicester,0,1,A,0,0,D,A Taylor,12,8,4,4,16,16,6,4,3,0,0,0,Leicester,Burnley
+1221,25-Apr-15,Newcastle,Swansea,2,3,A,1,1,D,N Swarbrick,12,11,4,6,14,9,9,6,1,2,0,0,Swansea,Newcastle
+1222,25-Apr-15,Southampton,Tottenham,2,2,D,1,1,D,J Moss,13,7,4,2,9,10,8,3,1,3,0,0,None,None
+1223,25-Apr-15,West Brom,Liverpool,0,0,D,0,0,D,R East,10,22,4,5,12,11,2,4,1,0,0,0,None,None
+1224,26-Apr-15,Arsenal,Chelsea,0,0,D,0,0,D,M Oliver,12,7,1,3,17,11,6,2,4,3,0,0,None,None
+1225,26-Apr-15,Everton,Man United,3,0,H,2,0,H,A Marriner,9,17,7,4,6,10,7,7,0,2,0,0,Everton,Man United
+1226,29-Apr-15,Leicester,Chelsea,1,3,A,1,0,H,M Clattenburg,8,11,2,4,10,1,2,6,1,0,0,0,Chelsea,Leicester
+1227,2-May-15,Leicester,Newcastle,3,0,H,2,0,H,M Dean,19,12,7,3,10,13,10,7,1,2,0,2,Leicester,Newcastle
+1228,2-May-15,Man United,West Brom,0,1,A,0,0,D,A Taylor,26,6,9,3,10,11,9,3,1,0,0,0,West Brom,Man United
+1229,2-May-15,Swansea,Stoke,2,0,H,0,0,D,C Pawson,16,9,4,3,9,18,6,2,1,2,0,1,Swansea,Stoke
+1230,2-May-15,West Ham,Burnley,1,0,H,1,0,H,J Moss,29,8,7,2,11,7,13,3,3,2,0,1,West Ham,Burnley
+1231,3-May-15,Chelsea,Crystal Palace,1,0,H,1,0,H,K Friend,17,8,7,1,12,13,3,6,2,2,0,0,Chelsea,Crystal Palace
+1232,3-May-15,Tottenham,Man City,0,1,A,0,1,A,A Marriner,21,15,5,4,6,11,8,7,3,4,0,0,Man City,Tottenham
+1233,9-May-15,Crystal Palace,Man United,1,2,A,0,1,A,M Oliver,13,13,4,4,13,12,7,6,0,1,0,0,Man United,Crystal Palace
+1234,9-May-15,Leicester,Southampton,2,0,H,2,0,H,R East,10,10,3,3,12,10,4,8,1,0,0,0,Leicester,Southampton
+1235,9-May-15,Newcastle,West Brom,1,1,D,1,1,D,C Foy,15,8,5,3,11,17,7,2,2,3,0,0,None,None
+1236,9-May-15,Stoke,Tottenham,3,0,H,2,0,H,M Clattenburg,17,9,9,3,14,12,6,8,0,0,0,1,Stoke,Tottenham
+1237,10-May-15,Chelsea,Liverpool,1,1,D,1,1,D,A Marriner,8,15,3,4,13,11,6,4,4,3,0,0,None,None
+1238,11-May-15,Arsenal,Swansea,0,1,A,0,0,D,K Friend,23,8,9,3,7,10,6,1,0,1,0,0,Swansea,Arsenal
+1239,16-May-15,Burnley,Stoke,0,0,D,0,0,D,M Oliver,11,11,4,3,14,9,7,6,1,2,0,0,None,None
+1240,16-May-15,Liverpool,Crystal Palace,1,3,A,1,1,D,J Moss,18,15,3,6,10,17,4,5,2,3,0,0,Crystal Palace,Liverpool
+1241,16-May-15,West Ham,Everton,1,2,A,0,0,D,K Friend,13,21,3,5,12,14,7,8,1,4,0,0,Everton,West Ham
+1242,17-May-15,Man United,Arsenal,1,1,D,1,0,H,M Dean,12,5,4,3,16,8,5,5,1,0,0,0,None,None
+1243,17-May-15,Swansea,Man City,2,4,A,1,2,A,M Clattenburg,13,22,9,11,8,8,11,7,0,3,0,0,Man City,Swansea
+1244,18-May-15,West Brom,Chelsea,3,0,H,1,0,H,M Jones,9,12,5,3,12,11,3,4,3,2,0,1,West Brom,Chelsea
+1245,24-May-15,Arsenal,West Brom,4,1,H,4,0,H,R Madley,24,14,13,5,6,7,7,3,1,0,0,0,Arsenal,West Brom
+1246,24-May-15,Crystal Palace,Swansea,1,0,H,0,0,D,C Pawson,13,5,7,2,22,13,7,3,3,0,0,0,Crystal Palace,Swansea
+1247,24-May-15,Everton,Tottenham,0,1,A,0,1,A,J Moss,9,16,1,3,12,8,3,5,1,2,0,0,Tottenham,Everton
+1248,24-May-15,Man City,Southampton,2,0,H,1,0,H,C Foy,15,13,6,4,13,8,8,4,1,1,0,0,Man City,Southampton
+1249,24-May-15,Newcastle,West Ham,2,0,H,0,0,D,M Atkinson,17,4,4,1,9,9,2,3,2,1,0,0,Newcastle,West Ham
+1250,24-May-15,Stoke,Liverpool,6,1,H,5,0,H,A Taylor,15,13,9,4,13,4,3,9,4,2,0,0,Stoke,Liverpool
+1251,8-Aug-15,Chelsea,Swansea,2,2,D,2,1,H,M Oliver,11,18,3,10,15,16,4,8,1,3,1,0,None,None
+1252,8-Aug-15,Everton,Watford,2,2,D,0,1,A,M Jones,10,11,5,5,7,13,8,2,1,2,0,0,None,None
+1253,8-Aug-15,Man United,Tottenham,1,0,H,1,0,H,J Moss,9,9,1,4,12,12,1,2,2,3,0,0,Man United,Tottenham
+1254,9-Aug-15,Arsenal,West Ham,0,2,A,0,1,A,M Atkinson,22,8,6,4,12,9,5,4,1,3,0,0,West Ham,Arsenal
+1255,9-Aug-15,Newcastle,Southampton,2,2,D,1,1,D,C Pawson,9,15,4,5,9,12,6,6,2,4,0,0,None,None
+1256,9-Aug-15,Stoke,Liverpool,0,1,A,0,0,D,A Taylor,7,8,1,3,9,16,3,5,2,4,0,0,Liverpool,Stoke
+1257,10-Aug-15,West Brom,Man City,0,3,A,0,2,A,M Dean,9,19,2,7,12,9,6,6,4,1,0,0,Man City,West Brom
+1258,15-Aug-15,Southampton,Everton,0,3,A,0,2,A,M Oliver,17,10,4,4,11,10,9,9,4,2,0,0,Everton,Southampton
+1259,15-Aug-15,Swansea,Newcastle,2,0,H,1,0,H,M Jones,19,4,6,2,11,8,4,4,2,1,0,1,Swansea,Newcastle
+1260,15-Aug-15,Tottenham,Stoke,2,2,D,2,0,H,R Madley,13,16,7,7,15,11,4,3,2,2,0,0,None,None
+1261,15-Aug-15,Watford,West Brom,0,0,D,0,0,D,P Tierney,16,6,5,0,13,10,2,4,1,2,0,0,None,None
+1262,15-Aug-15,West Ham,Leicester,1,2,A,0,2,A,A Taylor,10,11,3,6,11,12,8,4,1,3,1,0,Leicester,West Ham
+1263,16-Aug-15,Crystal Palace,Arsenal,1,2,A,1,1,D,L Mason,11,20,4,7,14,12,6,6,1,1,0,0,Arsenal,Crystal Palace
+1264,16-Aug-15,Man City,Chelsea,3,0,H,1,0,H,M Atkinson,18,10,8,3,19,13,5,1,4,2,0,0,Man City,Chelsea
+1265,17-Aug-15,Liverpool,Bournemouth,1,0,H,1,0,H,C Pawson,18,13,2,2,11,18,6,8,1,4,0,0,Liverpool,Bournemouth
+1266,22-Aug-15,Leicester,Tottenham,1,1,D,0,0,D,M Atkinson,13,19,2,6,7,14,2,7,1,4,0,0,None,None
+1267,22-Aug-15,Man United,Newcastle,0,0,D,0,0,D,C Pawson,20,7,8,0,15,11,11,5,2,2,0,0,None,None
+1268,22-Aug-15,West Ham,Bournemouth,3,4,A,0,2,A,J Moss,10,15,4,7,8,11,5,4,0,0,1,0,Bournemouth,West Ham
+1269,23-Aug-15,Everton,Man City,0,2,A,0,0,D,A Taylor,10,16,1,9,5,7,8,7,0,3,0,0,Man City,Everton
+1270,23-Aug-15,Watford,Southampton,0,0,D,0,0,D,A Marriner,13,14,0,5,10,11,5,2,0,2,0,0,None,None
+1271,23-Aug-15,West Brom,Chelsea,2,3,A,1,3,A,M Clattenburg,15,15,6,5,9,12,8,7,2,1,0,1,Chelsea,West Brom
+1272,24-Aug-15,Arsenal,Liverpool,0,0,D,0,0,D,M Oliver,19,15,5,8,2,13,7,8,1,4,0,0,None,None
+1273,29-Aug-15,Bournemouth,Leicester,1,1,D,1,0,H,N Swarbrick,5,4,2,2,9,19,4,4,2,4,0,0,None,None
+1274,29-Aug-15,Chelsea,Crystal Palace,1,2,A,0,0,D,C Pawson,26,13,9,6,9,15,7,7,1,1,0,0,Crystal Palace,Chelsea
+1275,29-Aug-15,Liverpool,West Ham,0,3,A,0,2,A,K Friend,13,12,1,5,17,11,5,7,3,1,1,1,West Ham,Liverpool
+1276,29-Aug-15,Man City,Watford,2,0,H,0,0,D,M Clattenburg,18,7,5,0,9,12,9,3,1,2,0,0,Man City,Watford
+1277,29-Aug-15,Newcastle,Arsenal,0,1,A,0,0,D,A Marriner,1,22,0,9,15,8,0,9,6,1,1,0,Arsenal,Newcastle
+1278,29-Aug-15,Stoke,West Brom,0,1,A,0,1,A,M Oliver,13,15,5,5,4,9,6,5,1,4,2,0,West Brom,Stoke
+1279,29-Aug-15,Tottenham,Everton,0,0,D,0,0,D,M Jones,20,8,6,3,20,9,6,2,4,1,0,0,None,None
+1280,30-Aug-15,Swansea,Man United,2,1,H,0,0,D,M Atkinson,9,11,4,4,6,15,0,1,2,2,0,0,Swansea,Man United
+1281,12-Sep-15,Arsenal,Stoke,2,0,H,1,0,H,J Moss,29,9,12,4,6,13,13,1,1,1,0,0,Arsenal,Stoke
+1282,12-Sep-15,Crystal Palace,Man City,0,1,A,0,0,D,M Jones,10,21,2,7,13,13,4,4,2,3,0,0,Man City,Crystal Palace
+1283,12-Sep-15,Everton,Chelsea,3,1,H,2,1,H,A Marriner,14,15,9,2,12,12,7,14,2,2,0,0,Everton,Chelsea
+1284,12-Sep-15,Man United,Liverpool,3,1,H,0,0,D,M Oliver,9,8,3,4,6,11,4,4,1,2,0,0,Man United,Liverpool
+1285,12-Sep-15,Watford,Swansea,1,0,H,0,0,D,R Madley,17,8,6,3,11,14,1,3,1,1,1,0,Watford,Swansea
+1286,12-Sep-15,West Brom,Southampton,0,0,D,0,0,D,S Attwell,8,14,1,4,5,5,4,5,1,0,0,0,None,None
+1287,14-Sep-15,West Ham,Newcastle,2,0,H,1,0,H,A Taylor,17,14,3,4,8,11,6,7,0,2,0,0,West Ham,Newcastle
+1288,19-Sep-15,Chelsea,Arsenal,2,0,H,0,0,D,M Dean,22,9,7,2,12,11,5,5,3,1,0,2,Chelsea,Arsenal
+1289,19-Sep-15,Man City,West Ham,1,2,A,1,2,A,R Madley,27,6,8,3,10,7,16,3,1,2,0,0,West Ham,Man City
+1290,19-Sep-15,Newcastle,Watford,1,2,A,0,2,A,R East,15,13,5,4,8,12,5,5,1,2,0,0,Watford,Newcastle
+1291,19-Sep-15,Stoke,Leicester,2,2,D,2,0,H,A Marriner,11,12,4,5,7,12,3,4,1,4,0,0,None,None
+1292,19-Sep-15,Swansea,Everton,0,0,D,0,0,D,S Attwell,12,17,3,2,12,11,2,4,2,2,0,1,None,None
+1293,20-Sep-15,Southampton,Man United,2,3,A,1,1,D,M Clattenburg,15,10,8,3,6,13,5,5,2,0,0,0,Man United,Southampton
+1294,20-Sep-15,Tottenham,Crystal Palace,1,0,H,0,0,D,M Oliver,22,12,6,4,9,11,6,5,1,2,0,0,Tottenham,Crystal Palace
+1295,26-Sep-15,Leicester,Arsenal,2,5,A,1,2,A,C Pawson,16,26,7,12,9,12,6,5,1,1,0,0,Arsenal,Leicester
+1296,26-Sep-15,Newcastle,Chelsea,2,2,D,1,0,H,M Atkinson,11,16,5,4,12,15,4,6,1,2,0,0,None,None
+1297,26-Sep-15,Southampton,Swansea,3,1,H,1,0,H,R East,18,11,7,4,18,14,4,3,3,1,0,0,Southampton,Swansea
+1298,26-Sep-15,Stoke,Bournemouth,2,1,H,1,0,H,L Mason,8,11,5,6,13,11,3,7,1,0,0,0,Stoke,Bournemouth
+1299,26-Sep-15,Tottenham,Man City,4,1,H,1,1,D,M Clattenburg,15,22,8,8,17,6,5,9,5,1,0,0,Tottenham,Man City
+1300,27-Sep-15,Watford,Crystal Palace,0,1,A,0,0,D,A Taylor,15,16,2,3,17,22,6,4,4,4,0,0,Crystal Palace,Watford
+1301,28-Sep-15,West Brom,Everton,2,3,A,1,0,H,R Madley,9,12,4,4,9,8,6,4,0,3,0,0,Everton,West Brom
+1302,3-Oct-15,Bournemouth,Watford,1,1,D,1,1,D,M Oliver,12,11,6,2,8,13,5,3,1,1,0,0,None,None
+1303,3-Oct-15,Chelsea,Southampton,1,3,A,1,1,D,R Madley,10,13,3,5,14,14,4,6,2,5,0,0,Southampton,Chelsea
+1304,3-Oct-15,Crystal Palace,West Brom,2,0,H,0,0,D,J Moss,21,7,8,2,14,13,8,3,3,3,0,0,Crystal Palace,West Brom
+1305,3-Oct-15,Man City,Newcastle,6,1,H,1,1,D,K Friend,23,6,11,4,13,8,6,3,3,1,0,0,Man City,Newcastle
+1306,4-Oct-15,Arsenal,Man United,3,0,H,3,0,H,A Taylor,12,9,5,5,8,17,3,6,1,3,0,0,Arsenal,Man United
+1307,4-Oct-15,Everton,Liverpool,1,1,D,1,1,D,M Atkinson,14,13,4,4,10,19,5,11,3,3,0,0,None,None
+1308,4-Oct-15,Swansea,Tottenham,2,2,D,2,1,H,M Dean,11,19,2,11,8,19,5,6,1,4,0,0,None,None
+1309,17-Oct-15,Crystal Palace,West Ham,1,3,A,1,1,D,M Clattenburg,6,24,1,4,9,11,1,9,1,3,1,0,West Ham,Crystal Palace
+1310,17-Oct-15,Everton,Man United,0,3,A,0,2,A,J Moss,12,10,3,7,12,14,5,3,2,2,0,0,Man United,Everton
+1311,17-Oct-15,Man City,Bournemouth,5,1,H,4,1,H,M Dean,15,5,11,1,11,5,1,7,2,1,0,0,Man City,Bournemouth
+1312,17-Oct-15,Southampton,Leicester,2,2,D,2,0,H,P Tierney,14,26,6,7,16,10,6,7,2,0,0,0,None,None
+1313,17-Oct-15,Tottenham,Liverpool,0,0,D,0,0,D,C Pawson,13,12,4,3,15,11,8,6,1,2,0,0,None,None
+1314,17-Oct-15,Watford,Arsenal,0,3,A,0,0,D,M Jones,8,17,1,6,11,12,3,9,2,1,0,0,Arsenal,Watford
+1315,19-Oct-15,Swansea,Stoke,0,1,A,0,1,A,R Madley,14,9,2,2,6,14,1,2,2,2,0,0,Stoke,Swansea
+1316,24-Oct-15,Arsenal,Everton,2,1,H,2,1,H,L Mason,20,10,5,5,11,14,7,5,2,0,0,1,Arsenal,Everton
+1317,24-Oct-15,Leicester,Crystal Palace,1,0,H,0,0,D,M Dean,12,9,3,4,7,11,3,2,3,1,0,0,Leicester,Crystal Palace
+1318,24-Oct-15,Stoke,Watford,0,2,A,0,1,A,M Atkinson,12,13,1,3,10,18,11,5,3,1,0,0,Watford,Stoke
+1319,24-Oct-15,West Ham,Chelsea,2,1,H,1,0,H,J Moss,12,8,5,4,10,12,7,4,1,5,0,1,West Ham,Chelsea
+1320,25-Oct-15,Bournemouth,Tottenham,1,5,A,1,3,A,R East,11,14,3,9,8,15,4,5,0,1,0,0,Tottenham,Bournemouth
+1321,25-Oct-15,Liverpool,Southampton,1,1,D,0,0,D,A Marriner,15,8,2,3,8,11,10,7,1,0,0,1,None,None
+1322,25-Oct-15,Man United,Man City,0,0,D,0,0,D,M Clattenburg,6,6,1,1,17,13,6,4,2,2,0,0,None,None
+1323,31-Oct-15,Chelsea,Liverpool,1,3,A,1,1,D,M Clattenburg,8,16,2,7,9,21,1,7,1,4,0,0,Liverpool,Chelsea
+1324,31-Oct-15,Crystal Palace,Man United,0,0,D,0,0,D,M Jones,10,5,5,1,12,15,7,3,3,3,0,0,None,None
+1325,31-Oct-15,Newcastle,Stoke,0,0,D,0,0,D,R East,15,9,6,2,6,16,11,4,1,3,0,0,None,None
+1326,31-Oct-15,Swansea,Arsenal,0,3,A,0,0,D,K Friend,8,15,3,5,12,7,4,4,2,0,0,0,Arsenal,Swansea
+1327,31-Oct-15,Watford,West Ham,2,0,H,1,0,H,K Stroud,20,8,5,3,16,12,7,2,3,0,0,1,Watford,West Ham
+1328,31-Oct-15,West Brom,Leicester,2,3,A,1,0,H,A Taylor,14,13,6,5,3,11,6,4,0,2,0,0,Leicester,West Brom
+1329,1-Nov-15,Southampton,Bournemouth,2,0,H,2,0,H,C Pawson,11,16,2,2,5,5,4,6,0,2,1,0,Southampton,Bournemouth
+1330,7-Nov-15,Bournemouth,Newcastle,0,1,A,0,1,A,L Mason,20,2,5,1,9,11,16,0,2,2,0,0,Newcastle,Bournemouth
+1331,7-Nov-15,Leicester,Watford,2,1,H,0,0,D,R East,12,8,6,4,10,10,4,2,0,1,0,0,Leicester,Watford
+1332,7-Nov-15,Man United,West Brom,2,0,H,0,0,D,M Dean,13,4,3,0,11,10,5,1,1,3,0,1,Man United,West Brom
+1333,7-Nov-15,Stoke,Chelsea,1,0,H,0,0,D,A Taylor,8,19,2,4,13,10,1,9,3,1,0,0,Stoke,Chelsea
+1334,7-Nov-15,West Ham,Everton,1,1,D,1,1,D,P Tierney,16,13,5,4,11,12,3,5,1,2,0,0,None,None
+1335,8-Nov-15,Arsenal,Tottenham,1,1,D,0,1,A,M Atkinson,10,14,4,4,12,17,7,6,0,1,0,0,None,None
+1336,8-Nov-15,Liverpool,Crystal Palace,1,2,A,1,1,D,N Swarbrick,22,9,4,4,7,6,14,6,1,2,0,0,Crystal Palace,Liverpool
+1337,21-Nov-15,Man City,Liverpool,1,4,A,1,3,A,J Moss,11,14,3,9,5,13,11,5,0,3,0,0,Liverpool,Man City
+1338,21-Nov-15,Newcastle,Leicester,0,3,A,0,1,A,M Jones,9,18,1,7,9,12,4,9,4,1,0,0,Leicester,Newcastle
+1339,21-Nov-15,Southampton,Stoke,0,1,A,0,1,A,L Mason,16,16,1,4,8,8,7,3,2,0,0,0,Stoke,Southampton
+1340,21-Nov-15,Swansea,Bournemouth,2,2,D,2,2,D,A Marriner,11,16,4,4,7,9,4,5,3,2,0,0,None,None
+1341,21-Nov-15,Watford,Man United,1,2,A,0,1,A,R Madley,10,13,5,6,6,12,4,10,1,2,0,0,Man United,Watford
+1342,21-Nov-15,West Brom,Arsenal,2,1,H,2,1,H,M Clattenburg,4,11,1,3,14,10,3,5,3,2,0,0,West Brom,Arsenal
+1343,22-Nov-15,Tottenham,West Ham,4,1,H,2,0,H,A Taylor,22,10,12,4,13,9,7,6,2,2,0,0,Tottenham,West Ham
+1344,28-Nov-15,Bournemouth,Everton,3,3,D,0,2,A,K Friend,19,11,10,6,6,6,10,5,2,0,0,0,None,None
+1345,28-Nov-15,Crystal Palace,Newcastle,5,1,H,3,1,H,S Attwell,19,7,8,2,7,13,7,5,1,1,0,0,Crystal Palace,Newcastle
+1346,28-Nov-15,Leicester,Man United,1,1,D,1,1,D,C Pawson,7,10,3,2,5,7,1,8,0,1,0,0,None,None
+1347,28-Nov-15,Man City,Southampton,3,1,H,2,0,H,R East,16,12,9,8,14,11,6,4,2,1,0,0,Man City,Southampton
+1348,29-Nov-15,Liverpool,Swansea,1,0,H,0,0,D,A Taylor,10,8,2,0,12,6,8,7,3,1,0,0,Liverpool,Swansea
+1349,29-Nov-15,Tottenham,Chelsea,0,0,D,0,0,D,M Oliver,9,5,4,1,14,9,4,4,4,2,0,0,None,None
+1350,29-Nov-15,West Ham,West Brom,1,1,D,1,0,H,M Atkinson,17,7,6,3,15,16,5,2,0,2,0,0,None,None
+1351,5-Dec-15,Chelsea,Bournemouth,0,1,A,0,0,D,M Jones,19,15,6,5,10,13,11,4,2,1,0,0,Bournemouth,Chelsea
+1352,5-Dec-15,Man United,West Ham,0,0,D,0,0,D,M Clattenburg,21,9,1,2,9,13,6,2,1,0,0,0,None,None
+1353,5-Dec-15,Stoke,Man City,2,0,H,2,0,H,M Atkinson,7,11,4,4,9,10,1,6,0,1,0,0,Stoke,Man City
+1354,5-Dec-15,Swansea,Leicester,0,3,A,0,2,A,M Oliver,10,16,2,5,3,19,3,8,2,3,0,0,Leicester,Swansea
+1355,5-Dec-15,West Brom,Tottenham,1,1,D,1,1,D,J Moss,11,9,4,3,13,10,3,6,3,2,0,0,None,None
+1356,6-Dec-15,Newcastle,Liverpool,2,0,H,0,0,D,A Marriner,6,10,1,1,6,10,2,7,3,1,0,0,Newcastle,Liverpool
+1357,7-Dec-15,Everton,Crystal Palace,1,1,D,0,0,D,C Pawson,19,14,4,5,4,11,13,6,1,2,0,0,None,None
+1358,12-Dec-15,Bournemouth,Man United,2,1,H,1,1,D,A Taylor,11,11,5,5,12,12,5,7,2,1,0,0,Bournemouth,Man United
+1359,12-Dec-15,Crystal Palace,Southampton,1,0,H,1,0,H,M Dean,12,15,5,3,11,13,8,5,0,0,0,0,Crystal Palace,Southampton
+1360,12-Dec-15,Man City,Swansea,2,1,H,1,0,H,R Madley,13,13,5,7,13,15,5,5,3,1,0,0,Man City,Swansea
+1361,12-Dec-15,West Ham,Stoke,0,0,D,0,0,D,A Marriner,22,12,9,3,7,9,11,7,1,2,0,0,None,None
+1362,13-Dec-15,Liverpool,West Brom,2,2,D,1,1,D,C Pawson,28,4,8,2,7,10,4,4,0,0,0,0,None,None
+1363,13-Dec-15,Tottenham,Newcastle,1,2,A,1,0,H,R East,20,8,8,4,13,14,6,2,2,2,0,0,Newcastle,Tottenham
+1364,14-Dec-15,Leicester,Chelsea,2,1,H,1,0,H,M Clattenburg,9,11,5,5,16,8,1,8,2,0,0,0,Leicester,Chelsea
+1365,19-Dec-15,Everton,Leicester,2,3,A,1,1,D,J Moss,13,10,5,5,6,14,10,2,2,1,0,0,Leicester,Everton
+1366,19-Dec-15,Southampton,Tottenham,0,2,A,0,2,A,K Friend,11,13,4,6,18,9,4,7,1,1,0,0,Tottenham,Southampton
+1367,19-Dec-15,Stoke,Crystal Palace,1,2,A,0,1,A,R Madley,26,12,5,3,6,12,7,3,2,0,0,0,Crystal Palace,Stoke
+1368,19-Dec-15,West Brom,Bournemouth,1,2,A,0,0,D,M Dean,6,16,2,7,12,9,4,8,2,1,2,0,Bournemouth,West Brom
+1369,20-Dec-15,Swansea,West Ham,0,0,D,0,0,D,L Mason,21,11,2,2,6,9,8,9,0,1,0,0,None,None
+1370,20-Dec-15,Watford,Liverpool,3,0,H,2,0,H,M Clattenburg,6,12,5,4,6,9,7,9,1,0,0,0,Watford,Liverpool
+1371,21-Dec-15,Arsenal,Man City,2,1,H,2,0,H,A Marriner,8,20,5,6,5,16,4,8,0,2,0,0,Arsenal,Man City
+1372,26-Dec-15,Bournemouth,Crystal Palace,0,0,D,0,0,D,M Oliver,10,8,4,0,10,13,8,9,1,0,0,0,None,None
+1373,26-Dec-15,Chelsea,Watford,2,2,D,1,1,D,A Marriner,17,12,2,3,7,15,9,4,1,4,0,0,None,None
+1374,26-Dec-15,Liverpool,Leicester,1,0,H,0,0,D,M Atkinson,25,7,4,3,11,8,7,6,2,1,0,0,Liverpool,Leicester
+1375,26-Dec-15,Newcastle,Everton,0,1,A,0,0,D,L Mason,10,20,1,7,16,12,1,7,2,2,0,0,Everton,Newcastle
+1376,26-Dec-15,Southampton,Arsenal,4,0,H,1,0,H,J Moss,15,7,5,4,10,9,3,4,1,0,0,0,Southampton,Arsenal
+1377,26-Dec-15,Stoke,Man United,2,0,H,2,0,H,K Friend,13,11,3,6,13,16,1,12,1,2,0,0,Stoke,Man United
+1378,26-Dec-15,Swansea,West Brom,1,0,H,1,0,H,R East,7,9,2,3,10,13,0,7,1,3,0,0,Swansea,West Brom
+1379,28-Dec-15,Arsenal,Bournemouth,2,0,H,1,0,H,R East,13,10,6,3,7,8,9,3,2,0,0,0,Arsenal,Bournemouth
+1380,28-Dec-15,Crystal Palace,Swansea,0,0,D,0,0,D,N Swarbrick,10,5,2,3,11,16,7,4,3,2,0,0,None,None
+1381,28-Dec-15,Everton,Stoke,3,4,A,1,2,A,M Clattenburg,15,8,3,5,10,12,6,2,2,1,0,0,Stoke,Everton
+1382,28-Dec-15,Man United,Chelsea,0,0,D,0,0,D,M Atkinson,12,8,2,3,16,6,5,3,4,2,0,0,None,None
+1383,28-Dec-15,Watford,Tottenham,1,2,A,1,1,D,A Taylor,9,10,1,3,11,13,5,3,4,2,1,0,Tottenham,Watford
+1384,28-Dec-15,West Brom,Newcastle,1,0,H,0,0,D,M Jones,22,7,5,2,7,13,18,6,0,0,0,0,West Brom,Newcastle
+1385,28-Dec-15,West Ham,Southampton,2,1,H,0,1,A,M Oliver,13,15,5,4,6,12,4,7,1,3,0,0,West Ham,Southampton
+1386,29-Dec-15,Leicester,Man City,0,0,D,0,0,D,C Pawson,11,21,4,5,11,8,1,13,1,3,0,0,None,None
+1387,2-Jan-16,Arsenal,Newcastle,1,0,H,0,0,D,A Taylor,16,15,3,6,10,9,7,4,2,2,0,0,Arsenal,Newcastle
+1388,2-Jan-16,Leicester,Bournemouth,0,0,D,0,0,D,A Marriner,16,9,2,0,9,5,7,1,1,1,0,1,None,None
+1389,2-Jan-16,Man United,Swansea,2,1,H,0,0,D,J Moss,19,9,6,4,14,10,4,2,2,1,0,0,Man United,Swansea
+1390,2-Jan-16,Watford,Man City,1,2,A,0,0,D,M Atkinson,11,16,3,5,6,10,4,5,1,0,0,0,Man City,Watford
+1391,2-Jan-16,West Brom,Stoke,2,1,H,0,0,D,L Mason,16,10,5,3,7,15,4,6,1,1,0,1,West Brom,Stoke
+1392,2-Jan-16,West Ham,Liverpool,2,0,H,1,0,H,R Madley,18,23,10,2,11,8,3,9,1,1,0,0,West Ham,Liverpool
+1393,3-Jan-16,Crystal Palace,Chelsea,0,3,A,0,1,A,K Friend,8,10,4,4,12,15,5,7,3,0,0,0,Chelsea,Crystal Palace
+1394,3-Jan-16,Everton,Tottenham,1,1,D,1,1,D,M Oliver,12,19,3,4,8,11,4,4,1,2,0,0,None,None
+1395,12-Jan-16,Bournemouth,West Ham,1,3,A,1,0,H,M Atkinson,11,10,4,5,8,5,4,7,1,1,0,0,West Ham,Bournemouth
+1396,12-Jan-16,Newcastle,Man United,3,3,D,1,2,A,M Dean,14,12,6,4,10,12,5,3,1,3,0,0,None,None
+1397,13-Jan-16,Chelsea,West Brom,2,2,D,1,1,D,A Taylor,14,13,2,6,13,8,7,7,3,3,0,0,None,None
+1398,13-Jan-16,Liverpool,Arsenal,3,3,D,2,2,D,M Jones,22,14,6,5,9,7,9,3,2,0,0,0,None,None
+1399,13-Jan-16,Man City,Everton,0,0,D,0,0,D,R East,22,7,5,2,5,6,12,5,0,1,0,0,None,None
+1400,13-Jan-16,Southampton,Watford,2,0,H,1,0,H,C Pawson,15,4,7,1,9,11,8,1,1,2,0,0,Southampton,Watford
+1401,13-Jan-16,Tottenham,Leicester,0,1,A,0,0,D,L Mason,21,10,5,2,13,10,16,8,1,0,0,0,Leicester,Tottenham
+1402,16-Jan-16,Chelsea,Everton,3,3,D,0,0,D,M Jones,14,9,7,4,12,5,6,4,1,1,0,0,None,None
+1403,16-Jan-16,Man City,Crystal Palace,4,0,H,2,0,H,J Moss,17,9,4,3,10,11,5,6,0,2,0,0,Man City,Crystal Palace
+1404,16-Jan-16,Newcastle,West Ham,2,1,H,2,0,H,N Swarbrick,23,10,10,3,9,4,3,3,1,0,0,0,Newcastle,West Ham
+1405,16-Jan-16,Southampton,West Brom,3,0,H,2,0,H,M Atkinson,9,9,5,0,10,11,1,3,0,0,0,0,Southampton,West Brom
+1406,17-Jan-16,Liverpool,Man United,0,1,A,0,0,D,M Clattenburg,19,7,4,1,6,18,5,4,0,2,0,0,Man United,Liverpool
+1407,17-Jan-16,Stoke,Arsenal,0,0,D,0,0,D,C Pawson,14,8,6,3,16,10,6,6,0,0,0,0,None,None
+1408,18-Jan-16,Swansea,Watford,1,0,H,1,0,H,M Oliver,10,13,2,2,8,11,6,3,2,2,0,0,Swansea,Watford
+1409,23-Jan-16,Crystal Palace,Tottenham,1,3,A,1,0,H,M Atkinson,11,24,3,11,11,12,3,10,2,2,0,0,Tottenham,Crystal Palace
+1410,23-Jan-16,Leicester,Stoke,3,0,H,1,0,H,M Dean,15,3,5,2,10,13,8,4,0,1,0,0,Leicester,Stoke
+1411,23-Jan-16,Man United,Southampton,0,1,A,0,0,D,M Jones,8,7,1,2,11,8,4,4,0,0,0,0,Southampton,Man United
+1412,23-Jan-16,Watford,Newcastle,2,1,H,0,0,D,A Marriner,13,11,5,2,10,12,2,7,2,1,0,0,Watford,Newcastle
+1413,23-Jan-16,West Ham,Man City,2,2,D,1,1,D,C Pawson,10,16,3,3,11,15,5,2,2,3,0,0,None,None
+1414,24-Jan-16,Arsenal,Chelsea,0,1,A,0,1,A,M Clattenburg,9,12,1,6,14,13,6,7,1,3,1,0,Chelsea,Arsenal
+1415,24-Jan-16,Everton,Swansea,1,2,A,1,2,A,A Taylor,20,7,2,5,5,12,7,1,0,3,0,0,Swansea,Everton
+1416,2-Feb-16,Arsenal,Southampton,0,0,D,0,0,D,L Mason,21,14,11,3,11,19,13,3,2,1,0,0,None,None
+1417,2-Feb-16,Crystal Palace,Bournemouth,1,2,A,1,1,D,M Jones,14,8,3,4,11,15,5,3,3,4,0,0,Bournemouth,Crystal Palace
+1418,2-Feb-16,Leicester,Liverpool,2,0,H,0,0,D,A Marriner,13,14,6,2,6,7,3,12,0,1,0,0,Leicester,Liverpool
+1419,2-Feb-16,Man United,Stoke,3,0,H,2,0,H,R East,15,10,5,0,13,13,2,5,2,1,0,0,Man United,Stoke
+1420,2-Feb-16,West Brom,Swansea,1,1,D,0,0,D,N Swarbrick,17,18,7,4,12,13,7,7,0,0,0,0,None,None
+1421,3-Feb-16,Everton,Newcastle,3,0,H,1,0,H,C Pawson,18,7,7,3,8,15,3,3,1,2,0,1,Everton,Newcastle
+1422,3-Feb-16,Watford,Chelsea,0,0,D,0,0,D,M Dean,12,12,3,4,10,13,7,7,2,1,0,0,None,None
+1423,6-Feb-16,Man City,Leicester,1,3,A,0,1,A,A Taylor,22,14,4,7,9,15,11,4,2,2,0,0,Leicester,Man City
+1424,6-Feb-16,Newcastle,West Brom,1,0,H,1,0,H,L Mason,19,7,7,0,12,12,8,4,0,3,0,0,Newcastle,West Brom
+1425,6-Feb-16,Southampton,West Ham,1,0,H,1,0,H,M Clattenburg,8,18,2,2,17,10,4,5,1,2,1,0,Southampton,West Ham
+1426,6-Feb-16,Stoke,Everton,0,3,A,0,3,A,A Marriner,11,14,3,6,11,8,6,4,1,0,0,0,Everton,Stoke
+1427,6-Feb-16,Swansea,Crystal Palace,1,1,D,1,0,H,M Dean,19,12,3,2,11,14,9,5,1,2,0,0,None,None
+1428,6-Feb-16,Tottenham,Watford,1,0,H,0,0,D,R East,26,3,9,0,12,9,15,1,0,1,0,0,Tottenham,Watford
+1429,7-Feb-16,Bournemouth,Arsenal,0,2,A,0,2,A,K Friend,17,10,4,5,6,8,7,3,0,1,0,0,Arsenal,Bournemouth
+1430,7-Feb-16,Chelsea,Man United,1,1,D,0,0,D,M Oliver,16,17,5,7,6,9,10,11,0,3,0,0,None,None
+1431,13-Feb-16,Bournemouth,Stoke,1,3,A,0,1,A,G Scott,11,11,2,6,7,18,9,2,4,2,0,0,Stoke,Bournemouth
+1432,13-Feb-16,Chelsea,Newcastle,5,1,H,3,0,H,R Madley,15,10,5,4,16,14,8,3,0,1,1,0,Chelsea,Newcastle
+1433,13-Feb-16,Crystal Palace,Watford,1,2,A,1,1,D,R East,14,10,7,3,11,16,8,5,0,2,0,0,Watford,Crystal Palace
+1434,13-Feb-16,Everton,West Brom,0,1,A,0,1,A,M Oliver,34,5,6,1,9,12,14,1,1,3,0,0,West Brom,Everton
+1435,13-Feb-16,Swansea,Southampton,0,1,A,0,0,D,J Moss,13,13,2,5,10,12,5,4,0,3,0,0,Southampton,Swansea
+1436,14-Feb-16,Arsenal,Leicester,2,1,H,0,1,A,M Atkinson,24,7,6,3,9,10,11,1,4,3,0,1,Arsenal,Leicester
+1437,14-Feb-16,Man City,Tottenham,1,2,A,0,0,D,M Clattenburg,19,6,4,3,12,17,7,1,1,3,0,0,Tottenham,Man City
+1438,27-Feb-16,Southampton,Chelsea,1,2,A,1,0,H,M Atkinson,7,16,2,4,10,11,7,8,3,1,0,0,Chelsea,Southampton
+1439,27-Feb-16,Watford,Bournemouth,0,0,D,0,0,D,A Taylor,14,11,1,3,14,17,4,5,3,1,0,0,None,None
+1440,27-Feb-16,West Brom,Crystal Palace,3,2,H,3,0,H,J Moss,11,15,5,2,14,16,3,6,2,2,0,0,West Brom,Crystal Palace
+1441,28-Feb-16,Man United,Arsenal,3,2,H,2,1,H,C Pawson,7,13,5,5,21,15,2,3,4,3,0,0,Man United,Arsenal
+1442,28-Feb-16,Tottenham,Swansea,2,1,H,0,1,A,M Jones,34,10,14,4,11,14,7,7,2,3,0,0,Tottenham,Swansea
+1443,1-Mar-16,Bournemouth,Southampton,2,0,H,1,0,H,M Dean,9,6,4,1,11,18,10,2,0,0,0,0,Bournemouth,Southampton
+1444,1-Mar-16,Leicester,West Brom,2,2,D,2,1,H,M Clattenburg,22,11,5,3,10,8,11,3,0,2,0,0,None,None
+1445,2-Mar-16,Arsenal,Swansea,1,2,A,1,1,D,R Madley,18,11,4,2,8,11,7,3,0,2,0,0,Swansea,Arsenal
+1446,2-Mar-16,Liverpool,Man City,3,0,H,2,0,H,M Atkinson,11,4,7,2,14,14,3,2,0,1,0,0,Liverpool,Man City
+1447,2-Mar-16,Man United,Watford,1,0,H,0,0,D,M Jones,14,13,3,3,7,17,9,7,1,2,0,0,Man United,Watford
+1448,2-Mar-16,Stoke,Newcastle,1,0,H,0,0,D,N Swarbrick,9,5,2,3,11,6,5,2,1,0,0,0,Stoke,Newcastle
+1449,2-Mar-16,West Ham,Tottenham,1,0,H,1,0,H,A Marriner,14,9,3,2,10,11,6,3,0,3,0,0,West Ham,Tottenham
+1450,5-Mar-16,Chelsea,Stoke,1,1,D,1,0,H,M Clattenburg,20,16,7,5,9,10,8,4,1,2,0,0,None,None
+1451,5-Mar-16,Everton,West Ham,2,3,A,1,0,H,A Taylor,15,17,8,5,12,13,9,6,2,3,1,0,West Ham,Everton
+1452,5-Mar-16,Newcastle,Bournemouth,1,3,A,0,1,A,P Tierney,14,16,3,5,13,8,5,4,1,3,0,0,Bournemouth,Newcastle
+1453,5-Mar-16,Tottenham,Arsenal,2,2,D,0,1,A,M Oliver,26,10,11,4,9,10,9,2,2,2,0,1,None,None
+1454,5-Mar-16,Watford,Leicester,0,1,A,0,0,D,J Moss,11,14,4,7,10,11,3,8,2,2,0,0,Leicester,Watford
+1455,6-Mar-16,Crystal Palace,Liverpool,1,2,A,0,0,D,A Marriner,14,19,4,5,12,16,6,6,1,2,0,1,Liverpool,Crystal Palace
+1456,6-Mar-16,West Brom,Man United,1,0,H,0,0,D,M Dean,9,7,2,1,8,7,4,5,1,0,0,1,West Brom,Man United
+1457,12-Mar-16,Bournemouth,Swansea,3,2,H,1,1,D,R East,12,12,4,4,12,11,5,3,1,0,0,0,Bournemouth,Swansea
+1458,12-Mar-16,Stoke,Southampton,1,2,A,0,2,A,L Mason,13,11,2,4,13,12,1,4,1,2,0,1,Southampton,Stoke
+1459,14-Mar-16,Leicester,Newcastle,1,0,H,1,0,H,C Pawson,10,13,1,2,4,9,8,4,0,0,0,0,Leicester,Newcastle
+1460,19-Mar-16,Chelsea,West Ham,2,2,D,1,1,D,R Madley,22,13,5,6,13,14,10,9,3,5,0,0,None,None
+1461,19-Mar-16,Crystal Palace,Leicester,0,1,A,0,1,A,M Jones,12,8,4,3,9,13,10,7,1,1,0,0,Leicester,Crystal Palace
+1462,19-Mar-16,Everton,Arsenal,0,2,A,0,2,A,M Clattenburg,8,11,2,3,7,10,7,5,0,0,0,0,Arsenal,Everton
+1463,19-Mar-16,Watford,Stoke,1,2,A,0,1,A,C Pawson,9,9,4,6,10,14,9,2,3,1,0,0,Stoke,Watford
+1464,20-Mar-16,Man City,Man United,0,1,A,0,1,A,M Oliver,26,5,2,3,9,12,11,5,1,1,0,0,Man United,Man City
+1465,20-Mar-16,Southampton,Liverpool,3,2,H,0,2,A,R East,16,18,5,9,10,13,3,5,1,3,0,0,Southampton,Liverpool
+1466,20-Mar-16,Tottenham,Bournemouth,3,0,H,2,0,H,N Swarbrick,17,2,8,0,11,6,4,5,0,1,0,0,Tottenham,Bournemouth
+1467,2-Apr-16,Arsenal,Watford,4,0,H,2,0,H,A Taylor,19,6,12,2,7,10,8,3,1,1,0,0,Arsenal,Watford
+1468,2-Apr-16,Bournemouth,Man City,0,4,A,0,3,A,R Madley,11,15,2,7,9,8,4,4,0,1,0,0,Man City,Bournemouth
+1469,2-Apr-16,Liverpool,Tottenham,1,1,D,0,0,D,J Moss,15,18,7,5,11,11,12,9,2,0,0,0,None,None
+1470,2-Apr-16,Stoke,Swansea,2,2,D,1,0,H,M Atkinson,12,12,5,3,6,16,5,5,0,1,0,0,None,None
+1471,2-Apr-16,West Ham,Crystal Palace,2,2,D,2,1,H,M Clattenburg,18,12,6,5,12,19,4,5,2,2,1,0,None,None
+1472,3-Apr-16,Leicester,Southampton,1,0,H,1,0,H,M Oliver,11,10,4,2,12,13,7,8,2,2,0,0,Leicester,Southampton
+1473,3-Apr-16,Man United,Everton,1,0,H,0,0,D,A Marriner,10,7,2,1,15,6,5,5,2,0,0,0,Man United,Everton
+1474,9-Apr-16,Man City,West Brom,2,1,H,1,1,D,M Jones,13,13,4,2,10,7,8,8,0,1,0,0,Man City,West Brom
+1475,9-Apr-16,Southampton,Newcastle,3,1,H,2,0,H,R Madley,20,5,6,3,8,7,11,2,0,0,0,0,Southampton,Newcastle
+1476,9-Apr-16,Swansea,Chelsea,1,0,H,1,0,H,A Marriner,12,8,6,2,15,13,1,9,5,4,0,0,Swansea,Chelsea
+1477,9-Apr-16,Watford,Everton,1,1,D,1,1,D,K Friend,13,12,5,7,13,10,7,6,2,1,0,0,None,None
+1478,9-Apr-16,West Ham,Arsenal,3,3,D,2,2,D,C Pawson,19,11,7,6,11,8,7,4,2,0,0,0,None,None
+1479,10-Apr-16,Liverpool,Stoke,4,1,H,2,1,H,M Clattenburg,14,10,6,3,14,14,6,3,0,2,0,0,Liverpool,Stoke
+1480,10-Apr-16,Tottenham,Man United,3,0,H,0,0,D,M Dean,16,5,8,1,10,10,2,7,3,3,0,0,Tottenham,Man United
+1481,13-Apr-16,Crystal Palace,Everton,0,0,D,0,0,D,M Jones,18,9,6,5,7,9,10,7,0,1,0,1,None,None
+1482,16-Apr-16,Chelsea,Man City,0,3,A,0,1,A,M Dean,11,11,4,8,12,15,11,3,2,3,1,0,Man City,Chelsea
+1483,16-Apr-16,Everton,Southampton,1,1,D,0,0,D,C Pawson,7,18,2,4,8,14,3,10,1,1,0,0,None,None
+1484,16-Apr-16,Newcastle,Swansea,3,0,H,1,0,H,L Mason,12,11,7,1,13,9,3,7,2,1,0,0,Newcastle,Swansea
+1485,16-Apr-16,West Brom,Watford,0,1,A,0,1,A,M Oliver,16,11,4,4,11,17,9,3,0,3,0,0,Watford,West Brom
+1486,17-Apr-16,Arsenal,Crystal Palace,1,1,D,1,0,H,R East,21,7,6,2,7,13,10,5,0,2,0,0,None,None
+1487,17-Apr-16,Bournemouth,Liverpool,1,2,A,0,2,A,M Jones,18,19,5,6,9,9,5,4,0,0,0,0,Liverpool,Bournemouth
+1488,17-Apr-16,Leicester,West Ham,2,2,D,1,0,H,J Moss,6,19,2,4,14,14,0,5,1,3,1,0,None,None
+1489,18-Apr-16,Stoke,Tottenham,0,4,A,0,1,A,N Swarbrick,12,23,2,6,12,12,5,3,2,0,0,0,Tottenham,Stoke
+1490,19-Apr-16,Newcastle,Man City,1,1,D,1,1,D,K Friend,5,9,3,5,13,8,5,3,3,2,0,0,None,None
+1491,20-Apr-16,Liverpool,Everton,4,0,H,2,0,H,R Madley,37,3,13,0,8,11,9,1,1,1,0,1,Liverpool,Everton
+1492,20-Apr-16,Man United,Crystal Palace,2,0,H,1,0,H,L Mason,16,5,10,0,13,7,10,2,1,2,0,0,Man United,Crystal Palace
+1493,20-Apr-16,West Ham,Watford,3,1,H,2,0,H,M Dean,18,7,7,4,11,17,4,2,0,2,0,1,West Ham,Watford
+1494,21-Apr-16,Arsenal,West Brom,2,0,H,2,0,H,J Moss,16,8,7,1,14,14,2,6,0,1,0,0,Arsenal,West Brom
+1495,23-Apr-16,Bournemouth,Chelsea,1,4,A,1,2,A,R East,13,16,4,4,11,4,10,7,1,0,0,0,Chelsea,Bournemouth
+1496,23-Apr-16,Liverpool,Newcastle,2,2,D,2,0,H,A Marriner,13,6,4,3,8,17,5,4,1,1,0,0,None,None
+1497,23-Apr-16,Man City,Stoke,4,0,H,2,0,H,R Madley,11,14,6,2,8,8,9,4,0,0,0,0,Man City,Stoke
+1498,24-Apr-16,Leicester,Swansea,4,0,H,2,0,H,M Clattenburg,18,9,9,1,15,10,4,6,1,2,0,0,Leicester,Swansea
+1499,25-Apr-16,Tottenham,West Brom,1,1,D,1,0,H,M Jones,19,16,2,3,8,13,9,7,0,1,0,0,None,None
+1500,30-Apr-16,Everton,Bournemouth,2,1,H,1,1,D,N Swarbrick,12,16,5,2,4,8,3,5,1,0,0,0,Everton,Bournemouth
+1501,30-Apr-16,Newcastle,Crystal Palace,1,0,H,0,0,D,M Dean,10,9,4,3,11,12,4,8,2,0,0,0,Newcastle,Crystal Palace
+1502,30-Apr-16,West Brom,West Ham,0,3,A,0,2,A,L Mason,15,8,5,4,14,7,8,6,0,0,0,0,West Ham,West Brom
+1503,1-May-16,Man United,Leicester,1,1,D,1,1,D,M Oliver,21,14,6,3,16,10,6,5,3,0,0,1,None,None
+1504,1-May-16,Southampton,Man City,4,2,H,2,1,H,A Marriner,14,6,7,5,12,9,8,2,2,1,0,0,Southampton,Man City
+1505,1-May-16,Swansea,Liverpool,3,1,H,2,0,H,R East,18,11,9,3,12,13,4,7,2,2,0,1,Swansea,Liverpool
+1506,2-May-16,Chelsea,Tottenham,2,2,D,0,2,A,M Clattenburg,13,16,5,5,9,20,7,8,3,9,0,0,None,None
+1507,7-May-16,Bournemouth,West Brom,1,1,D,0,1,A,M Clattenburg,12,12,4,4,5,8,5,3,2,1,0,0,None,None
+1508,7-May-16,Crystal Palace,Stoke,2,1,H,0,1,A,K Friend,17,12,4,3,8,18,4,3,2,3,0,0,Crystal Palace,Stoke
+1509,7-May-16,Leicester,Everton,3,1,H,2,0,H,A Marriner,32,9,8,5,4,12,12,4,0,3,0,0,Leicester,Everton
+1510,7-May-16,West Ham,Swansea,1,4,A,0,2,A,M Oliver,25,13,7,6,11,8,13,3,3,0,0,0,Swansea,West Ham
+1511,8-May-16,Liverpool,Watford,2,0,H,1,0,H,L Mason,19,14,5,3,10,15,8,8,1,2,0,0,Liverpool,Watford
+1512,8-May-16,Man City,Arsenal,2,2,D,1,1,D,A Taylor,14,5,3,2,16,10,7,2,2,1,0,0,None,None
+1513,8-May-16,Tottenham,Southampton,1,2,A,1,1,D,J Moss,20,10,6,2,8,16,10,2,0,3,0,0,Southampton,Tottenham
+1514,10-May-16,West Ham,Man United,3,2,H,1,0,H,M Dean,20,3,6,2,6,18,6,2,1,3,0,0,West Ham,Man United
+1515,11-May-16,Liverpool,Chelsea,1,1,D,0,1,A,M Oliver,28,13,9,7,11,12,7,3,3,1,0,0,None,None
+1516,15-May-16,Chelsea,Leicester,1,1,D,0,0,D,C Pawson,17,18,4,5,4,12,7,6,0,0,0,0,None,None
+1517,15-May-16,Newcastle,Tottenham,5,1,H,2,0,H,A Taylor,19,17,10,5,7,6,3,8,1,2,1,0,Newcastle,Tottenham
+1518,15-May-16,Southampton,Crystal Palace,4,1,H,1,0,H,M Oliver,18,16,5,4,7,14,2,5,1,2,0,0,Southampton,Crystal Palace
+1519,15-May-16,Stoke,West Ham,2,1,H,0,1,A,M Jones,7,20,4,7,8,12,4,10,3,1,0,0,Stoke,West Ham
+1520,15-May-16,Swansea,Man City,1,1,D,1,1,D,M Dean,4,18,1,5,4,19,4,4,1,3,0,0,None,None
+1521,15-May-16,West Brom,Liverpool,1,1,D,1,1,D,R Madley,13,7,1,3,11,14,7,5,3,1,0,0,None,None
+1522,17-May-16,Man United,Bournemouth,3,1,H,1,0,H,J Moss,12,7,5,0,9,8,7,1,1,0,0,0,Man United,Bournemouth
+1523,13-Aug-16,Burnley,Swansea,0,1,A,0,0,D,J Moss,10,17,3,9,10,14,7,4,3,2,0,0,Swansea,Burnley
+1524,13-Aug-16,Crystal Palace,West Brom,0,1,A,0,0,D,C Pawson,14,13,4,3,12,15,3,6,2,2,0,0,West Brom,Crystal Palace
+1525,13-Aug-16,Everton,Tottenham,1,1,D,1,0,H,M Atkinson,12,13,6,4,10,14,5,6,0,0,0,0,None,None
+1526,13-Aug-16,Southampton,Watford,1,1,D,0,1,A,R East,24,5,6,1,8,12,6,2,1,2,0,1,None,None
+1527,14-Aug-16,Arsenal,Liverpool,3,4,A,1,1,D,M Oliver,9,16,5,7,13,17,5,4,3,3,0,0,Liverpool,Arsenal
+1528,14-Aug-16,Bournemouth,Man United,1,3,A,0,1,A,A Marriner,9,11,3,7,7,10,4,2,0,1,0,0,Man United,Bournemouth
+1529,15-Aug-16,Chelsea,West Ham,2,1,H,0,0,D,A Taylor,16,7,6,3,16,16,7,1,5,2,0,0,Chelsea,West Ham
+1530,19-Aug-16,Man United,Southampton,2,0,H,1,0,H,A Taylor,12,13,5,1,11,8,4,0,0,0,0,0,Man United,Southampton
+1531,20-Aug-16,Burnley,Liverpool,2,0,H,2,0,H,L Mason,3,26,2,5,14,5,1,12,0,1,0,0,Burnley,Liverpool
+1532,20-Aug-16,Leicester,Arsenal,0,0,D,0,0,D,M Clattenburg,8,13,1,4,11,7,2,7,1,2,0,0,None,None
+1533,20-Aug-16,Stoke,Man City,1,4,A,0,2,A,M Dean,8,12,3,6,12,13,7,7,3,4,0,0,Man City,Stoke
+1534,20-Aug-16,Tottenham,Crystal Palace,1,0,H,0,0,D,M Oliver,20,10,5,2,19,9,10,4,3,3,0,0,Tottenham,Crystal Palace
+1535,20-Aug-16,Watford,Chelsea,1,2,A,0,0,D,J Moss,6,13,2,4,20,10,0,5,4,3,0,0,Chelsea,Watford
+1536,20-Aug-16,West Brom,Everton,1,2,A,1,1,D,N Swarbrick,11,13,4,7,16,10,7,4,3,1,0,0,Everton,West Brom
+1537,21-Aug-16,West Ham,Bournemouth,1,0,H,0,0,D,C Pawson,15,8,2,5,15,15,1,6,3,1,0,1,West Ham,Bournemouth
+1538,27-Aug-16,Chelsea,Burnley,3,0,H,2,0,H,M Clattenburg,22,6,10,0,6,9,9,5,2,2,0,0,Chelsea,Burnley
+1539,27-Aug-16,Crystal Palace,Bournemouth,1,1,D,0,1,A,M Dean,24,10,5,3,15,10,10,4,2,1,0,0,None,None
+1540,27-Aug-16,Everton,Stoke,1,0,H,0,0,D,M Oliver,21,8,9,1,14,11,9,2,2,1,0,0,Everton,Stoke
+1541,27-Aug-16,Leicester,Swansea,2,1,H,1,0,H,R East,13,9,6,3,14,10,4,6,2,2,0,0,Leicester,Swansea
+1542,27-Aug-16,Tottenham,Liverpool,1,1,D,0,1,A,R Madley,11,13,4,3,11,17,5,5,3,5,0,0,None,None
+1543,27-Aug-16,Watford,Arsenal,1,3,A,0,3,A,K Friend,14,10,6,7,18,15,3,2,6,1,0,0,Arsenal,Watford
+1544,28-Aug-16,Man City,West Ham,3,1,H,2,0,H,A Marriner,22,9,5,2,5,10,5,4,1,3,0,0,Man City,West Ham
+1545,10-Sep-16,Arsenal,Southampton,2,1,H,1,1,D,R Madley,17,11,2,5,10,8,6,1,2,5,0,0,Arsenal,Southampton
+1546,10-Sep-16,Bournemouth,West Brom,1,0,H,0,0,D,K Friend,12,12,5,2,9,11,10,5,1,3,0,0,Bournemouth,West Brom
+1547,10-Sep-16,Liverpool,Leicester,4,1,H,2,1,H,C Pawson,17,12,11,3,4,8,1,7,1,2,0,0,Liverpool,Leicester
+1548,10-Sep-16,Man United,Man City,1,2,A,1,2,A,M Clattenburg,14,18,3,6,15,10,4,4,4,2,0,0,Man City,Man United
+1549,10-Sep-16,Stoke,Tottenham,0,4,A,0,1,A,A Taylor,15,20,2,8,13,18,10,8,3,2,0,0,Tottenham,Stoke
+1550,10-Sep-16,West Ham,Watford,2,4,A,2,2,D,M Atkinson,19,13,4,8,10,15,4,4,2,2,0,0,Watford,West Ham
+1551,11-Sep-16,Swansea,Chelsea,2,2,D,0,1,A,A Marriner,6,28,2,7,17,8,1,11,3,4,0,0,None,None
+1552,16-Sep-16,Chelsea,Liverpool,1,2,A,0,2,A,M Atkinson,12,13,4,5,6,13,6,4,1,1,0,0,Liverpool,Chelsea
+1553,17-Sep-16,Leicester,Burnley,3,0,H,1,0,H,A Taylor,14,7,6,2,10,9,7,1,0,1,0,0,Leicester,Burnley
+1554,17-Sep-16,Man City,Bournemouth,4,0,H,2,0,H,J Moss,20,6,12,2,8,11,5,5,1,1,1,0,Man City,Bournemouth
+1555,17-Sep-16,West Brom,West Ham,4,2,H,3,0,H,M Clattenburg,8,23,6,5,14,6,2,6,2,1,0,0,West Brom,West Ham
+1556,18-Sep-16,Crystal Palace,Stoke,4,1,H,2,0,H,C Pawson,14,11,8,4,15,9,10,5,2,1,0,0,Crystal Palace,Stoke
+1557,18-Sep-16,Southampton,Swansea,1,0,H,0,0,D,M Jones,19,9,6,3,14,9,7,1,1,1,0,0,Southampton,Swansea
+1558,18-Sep-16,Watford,Man United,3,1,H,1,0,H,M Oliver,10,15,5,2,14,19,5,7,3,4,0,0,Watford,Man United
+1559,24-Sep-16,Arsenal,Chelsea,3,0,H,3,0,H,M Oliver,14,9,5,2,9,11,9,1,0,2,0,0,Arsenal,Chelsea
+1560,24-Sep-16,Bournemouth,Everton,1,0,H,1,0,H,R Madley,12,13,1,2,10,14,5,3,2,2,0,0,Bournemouth,Everton
+1561,24-Sep-16,Man United,Leicester,4,1,H,4,0,H,M Dean,16,10,7,3,9,12,8,6,0,2,0,0,Man United,Leicester
+1562,24-Sep-16,Stoke,West Brom,1,1,D,0,0,D,M Atkinson,12,9,2,3,9,13,6,6,3,4,0,0,None,None
+1563,24-Sep-16,Swansea,Man City,1,3,A,1,1,D,N Swarbrick,13,18,5,4,15,9,2,7,2,4,0,0,Man City,Swansea
+1564,25-Sep-16,West Ham,Southampton,0,3,A,0,1,A,J Moss,13,18,1,9,9,14,6,2,5,2,0,0,Southampton,West Ham
+1565,26-Sep-16,Burnley,Watford,2,0,H,1,0,H,M Jones,13,12,4,3,11,15,7,6,1,3,0,0,Burnley,Watford
+1566,30-Sep-16,Everton,Crystal Palace,1,1,D,1,0,H,J Moss,13,10,3,2,16,11,10,9,5,4,0,0,None,None
+1567,1-Oct-16,Swansea,Liverpool,1,2,A,1,0,H,M Oliver,8,18,3,6,11,9,3,10,2,2,0,0,Liverpool,Swansea
+1568,1-Oct-16,Watford,Bournemouth,2,2,D,0,1,A,M Dean,17,11,7,2,17,12,4,5,3,4,0,0,None,None
+1569,2-Oct-16,Burnley,Arsenal,0,1,A,0,0,D,C Pawson,10,18,1,3,2,3,2,6,0,0,0,0,Arsenal,Burnley
+1570,2-Oct-16,Leicester,Southampton,0,0,D,0,0,D,M Atkinson,9,11,1,5,9,9,3,6,1,0,0,0,None,None
+1571,2-Oct-16,Man United,Stoke,1,1,D,0,0,D,R Madley,24,7,9,6,14,9,13,2,3,0,0,0,None,None
+1572,2-Oct-16,Tottenham,Man City,2,0,H,2,0,H,A Marriner,13,12,7,6,20,10,4,3,2,2,0,0,Tottenham,Man City
+1573,15-Oct-16,Arsenal,Swansea,3,2,H,2,1,H,J Moss,16,13,6,6,7,10,5,6,0,1,1,0,Arsenal,Swansea
+1574,15-Oct-16,Chelsea,Leicester,3,0,H,2,0,H,A Marriner,16,5,6,0,6,12,8,5,1,1,0,0,Chelsea,Leicester
+1575,15-Oct-16,Crystal Palace,West Ham,0,1,A,0,1,A,M Atkinson,12,12,3,4,12,13,7,6,1,3,0,1,West Ham,Crystal Palace
+1576,15-Oct-16,Man City,Everton,1,1,D,0,0,D,M Oliver,19,3,8,2,7,9,13,1,0,2,0,0,None,None
+1577,15-Oct-16,West Brom,Tottenham,1,1,D,0,0,D,K Friend,8,20,4,8,14,10,5,8,2,2,0,0,None,None
+1578,16-Oct-16,Southampton,Burnley,3,1,H,0,0,D,M Dean,34,6,14,1,11,10,8,4,1,2,0,0,Southampton,Burnley
+1579,17-Oct-16,Liverpool,Man United,0,0,D,0,0,D,A Taylor,9,7,3,1,14,20,3,1,0,4,0,0,None,None
+1580,22-Oct-16,Bournemouth,Tottenham,0,0,D,0,0,D,C Pawson,8,16,1,4,10,15,7,4,2,4,0,0,None,None
+1581,22-Oct-16,Burnley,Everton,2,1,H,1,0,H,M Jones,9,20,3,8,16,15,2,8,2,3,0,0,Burnley,Everton
+1582,22-Oct-16,Leicester,Crystal Palace,3,1,H,1,0,H,M Oliver,17,23,4,7,10,8,8,8,0,0,0,0,Leicester,Crystal Palace
+1583,22-Oct-16,Liverpool,West Brom,2,1,H,2,0,H,N Swarbrick,21,6,7,1,9,13,3,2,1,3,0,0,Liverpool,West Brom
+1584,22-Oct-16,Swansea,Watford,0,0,D,0,0,D,P Tierney,11,10,5,2,15,16,7,2,2,1,0,0,None,None
+1585,23-Oct-16,Chelsea,Man United,4,0,H,2,0,H,M Atkinson,14,16,6,5,7,17,5,7,3,2,0,0,Chelsea,Man United
+1586,23-Oct-16,Man City,Southampton,1,1,D,0,1,A,M Clattenburg,14,6,3,2,11,10,10,3,3,3,0,0,None,None
+1587,29-Oct-16,Crystal Palace,Liverpool,2,4,A,2,3,A,A Marriner,7,17,6,10,15,5,3,3,1,2,0,0,Liverpool,Crystal Palace
+1588,29-Oct-16,Man United,Burnley,0,0,D,0,0,D,M Clattenburg,37,7,11,1,12,9,19,1,1,3,1,0,None,None
+1589,29-Oct-16,Tottenham,Leicester,1,1,D,1,0,H,R Madley,22,6,5,1,11,20,8,1,3,4,0,0,None,None
+1590,29-Oct-16,West Brom,Man City,0,4,A,0,2,A,L Mason,9,21,1,8,17,10,1,7,4,3,0,0,Man City,West Brom
+1591,30-Oct-16,Everton,West Ham,2,0,H,0,0,D,A Taylor,17,13,6,3,15,12,8,8,2,3,0,0,Everton,West Ham
+1592,30-Oct-16,Southampton,Chelsea,0,2,A,0,1,A,M Jones,9,13,1,7,13,16,7,3,0,0,0,0,Chelsea,Southampton
+1593,31-Oct-16,Stoke,Swansea,3,1,H,1,1,D,M Oliver,17,14,4,6,7,14,6,4,2,0,0,0,Stoke,Swansea
+1594,5-Nov-16,Burnley,Crystal Palace,3,2,H,2,0,H,A Taylor,14,16,7,5,11,12,4,7,1,2,0,0,Burnley,Crystal Palace
+1595,5-Nov-16,Chelsea,Everton,5,0,H,3,0,H,R Madley,21,1,9,0,5,16,4,2,0,3,0,0,Chelsea,Everton
+1596,5-Nov-16,West Ham,Stoke,1,1,D,0,0,D,A Marriner,9,12,2,4,11,10,6,4,4,1,0,0,None,None
+1597,6-Nov-16,Arsenal,Tottenham,1,1,D,1,0,H,M Clattenburg,15,10,2,3,11,17,7,2,1,2,0,0,None,None
+1598,6-Nov-16,Leicester,West Brom,1,2,A,0,0,D,C Pawson,5,11,2,5,8,8,5,6,0,2,0,0,West Brom,Leicester
+1599,6-Nov-16,Liverpool,Watford,6,1,H,3,0,H,M Oliver,28,11,17,8,14,10,6,3,1,2,0,0,Liverpool,Watford
+1600,6-Nov-16,Swansea,Man United,1,3,A,0,3,A,N Swarbrick,6,9,1,3,9,16,2,0,0,2,0,0,Man United,Swansea
+1601,19-Nov-16,Crystal Palace,Man City,1,2,A,0,1,A,R Madley,9,10,2,4,12,15,2,7,1,2,0,0,Man City,Crystal Palace
+1602,19-Nov-16,Everton,Swansea,1,1,D,0,1,A,M Atkinson,14,5,6,3,13,12,10,3,4,2,0,0,None,None
+1603,19-Nov-16,Man United,Arsenal,1,1,D,0,0,D,A Marriner,12,5,5,1,14,11,10,4,3,3,0,0,None,None
+1604,19-Nov-16,Southampton,Liverpool,0,0,D,0,0,D,M Clattenburg,3,15,0,2,8,11,1,8,1,1,0,0,None,None
+1605,19-Nov-16,Stoke,Bournemouth,0,1,A,0,1,A,R East,14,9,6,2,17,10,3,4,3,2,0,0,Bournemouth,Stoke
+1606,19-Nov-16,Tottenham,West Ham,3,2,H,0,1,A,M Dean,14,11,6,3,13,16,4,5,3,2,0,1,Tottenham,West Ham
+1607,19-Nov-16,Watford,Leicester,2,1,H,2,1,H,N Swarbrick,10,10,3,2,12,18,4,6,2,3,0,0,Watford,Leicester
+1608,21-Nov-16,West Brom,Burnley,4,0,H,3,0,H,M Jones,16,5,6,2,12,12,4,3,0,0,0,0,West Brom,Burnley
+1609,26-Nov-16,Burnley,Man City,1,2,A,1,1,D,A Marriner,10,21,5,5,5,15,5,8,2,3,0,0,Man City,Burnley
+1610,26-Nov-16,Chelsea,Tottenham,2,1,H,1,1,D,M Oliver,9,12,5,6,13,16,3,8,2,1,0,0,Chelsea,Tottenham
+1611,26-Nov-16,Swansea,Crystal Palace,5,4,H,1,1,D,K Friend,18,12,9,4,12,24,10,6,4,5,0,0,Swansea,Crystal Palace
+1612,27-Nov-16,Arsenal,Bournemouth,3,1,H,1,1,D,M Jones,16,9,3,3,12,13,3,10,3,5,0,0,Arsenal,Bournemouth
+1613,27-Nov-16,Man United,West Ham,1,1,D,1,1,D,J Moss,17,6,8,2,16,16,8,4,3,1,0,0,None,None
+1614,27-Nov-16,Southampton,Everton,1,0,H,1,0,H,C Pawson,17,13,7,1,11,15,5,2,0,2,0,0,Southampton,Everton
+1615,27-Nov-16,Watford,Stoke,0,1,A,0,1,A,R Madley,11,14,2,1,24,14,3,3,3,0,1,0,Stoke,Watford
+1616,3-Dec-16,Crystal Palace,Southampton,3,0,H,2,0,H,N Swarbrick,9,17,4,3,11,13,4,9,3,1,0,0,Crystal Palace,Southampton
+1617,3-Dec-16,Man City,Chelsea,1,3,A,1,0,H,A Taylor,14,10,5,4,14,9,9,2,2,3,2,0,Chelsea,Man City
+1618,3-Dec-16,Stoke,Burnley,2,0,H,2,0,H,M Clattenburg,10,14,4,4,7,13,4,9,3,2,0,0,Stoke,Burnley
+1619,3-Dec-16,Tottenham,Swansea,5,0,H,2,0,H,J Moss,28,1,15,0,11,17,5,0,0,4,0,0,Tottenham,Swansea
+1620,3-Dec-16,West Brom,Watford,3,1,H,2,0,H,G Scott,11,17,3,5,12,8,3,4,2,1,0,1,West Brom,Watford
+1621,3-Dec-16,West Ham,Arsenal,1,5,A,0,1,A,C Pawson,10,19,3,10,10,11,3,2,3,3,0,0,Arsenal,West Ham
+1622,4-Dec-16,Bournemouth,Liverpool,4,3,H,0,2,A,R Madley,12,10,8,3,9,17,4,9,2,2,0,0,Bournemouth,Liverpool
+1623,4-Dec-16,Everton,Man United,1,1,D,0,1,A,M Oliver,13,10,6,2,13,11,6,3,2,3,0,0,None,None
+1624,10-Dec-16,Arsenal,Stoke,3,1,H,1,1,D,L Mason,21,12,6,5,9,6,7,7,0,0,0,0,Arsenal,Stoke
+1625,10-Dec-16,Burnley,Bournemouth,3,2,H,2,1,H,M Atkinson,16,17,7,4,14,18,4,11,2,2,0,0,Burnley,Bournemouth
+1626,10-Dec-16,Leicester,Man City,4,2,H,3,0,H,M Oliver,10,19,6,4,10,7,3,11,2,1,0,0,Leicester,Man City
+1627,10-Dec-16,Watford,Everton,3,2,H,1,1,D,A Taylor,11,11,6,4,11,16,2,4,2,2,0,0,Watford,Everton
+1628,11-Dec-16,Chelsea,West Brom,1,0,H,0,0,D,M Dean,12,6,2,1,6,10,3,1,2,4,0,0,Chelsea,West Brom
+1629,11-Dec-16,Liverpool,West Ham,2,2,D,1,2,A,M Clattenburg,18,7,3,3,7,8,11,4,2,0,0,0,None,None
+1630,11-Dec-16,Man United,Tottenham,1,0,H,1,0,H,R Madley,15,12,5,4,19,17,3,8,3,3,0,0,Man United,Tottenham
+1631,13-Dec-16,Bournemouth,Leicester,1,0,H,1,0,H,P Tierney,9,12,3,4,5,15,4,11,0,3,0,0,Bournemouth,Leicester
+1632,13-Dec-16,Everton,Arsenal,2,1,H,1,1,D,M Clattenburg,14,9,4,3,10,10,8,3,1,1,1,0,Everton,Arsenal
+1633,14-Dec-16,Crystal Palace,Man United,1,2,A,0,1,A,C Pawson,6,16,3,6,16,10,1,8,2,2,0,0,Man United,Crystal Palace
+1634,14-Dec-16,Man City,Watford,2,0,H,1,0,H,K Friend,13,5,7,2,16,20,5,2,1,2,0,0,Man City,Watford
+1635,14-Dec-16,Stoke,Southampton,0,0,D,0,0,D,A Taylor,5,15,3,4,9,10,3,11,1,2,1,0,None,None
+1636,14-Dec-16,West Brom,Swansea,3,1,H,0,0,D,M Oliver,13,8,4,4,8,8,0,11,0,0,0,0,West Brom,Swansea
+1637,14-Dec-16,West Ham,Burnley,1,0,H,1,0,H,R Madley,20,8,7,2,12,15,6,1,0,2,0,0,West Ham,Burnley
+1638,17-Dec-16,Crystal Palace,Chelsea,0,1,A,0,1,A,J Moss,6,13,2,6,12,15,5,3,2,3,0,0,Chelsea,Crystal Palace
+1639,17-Dec-16,Stoke,Leicester,2,2,D,2,0,H,C Pawson,16,14,7,8,9,12,9,9,2,6,0,1,None,None
+1640,17-Dec-16,West Brom,Man United,0,2,A,0,1,A,A Taylor,10,10,1,5,9,13,2,3,3,3,0,0,Man United,West Brom
+1641,18-Dec-16,Bournemouth,Southampton,1,3,A,1,1,D,M Clattenburg,10,14,5,8,6,12,7,4,0,2,0,0,Southampton,Bournemouth
+1642,18-Dec-16,Man City,Arsenal,2,1,H,0,1,A,M Atkinson,14,6,5,1,9,13,8,1,4,2,0,0,Man City,Arsenal
+1643,18-Dec-16,Tottenham,Burnley,2,1,H,1,1,D,K Friend,30,5,9,2,10,11,11,2,1,2,0,0,Tottenham,Burnley
+1644,19-Dec-16,Everton,Liverpool,0,1,A,0,0,D,M Dean,6,11,1,4,13,9,1,6,3,1,0,0,Liverpool,Everton
+1645,26-Dec-16,Arsenal,West Brom,1,0,H,0,0,D,N Swarbrick,26,3,11,1,11,7,6,5,2,1,0,0,Arsenal,West Brom
+1646,26-Dec-16,Chelsea,Bournemouth,3,0,H,1,0,H,M Jones,14,7,4,3,13,14,5,5,1,1,0,0,Chelsea,Bournemouth
+1647,26-Dec-16,Leicester,Everton,0,2,A,0,0,D,S Attwell,7,8,2,3,14,7,3,4,3,0,0,0,Everton,Leicester
+1648,26-Dec-16,Swansea,West Ham,1,4,A,0,1,A,A Marriner,14,14,7,7,10,12,8,4,0,0,0,0,West Ham,Swansea
+1649,26-Dec-16,Watford,Crystal Palace,1,1,D,0,1,A,M Clattenburg,9,10,3,4,18,17,7,3,2,4,0,0,None,None
+1650,27-Dec-16,Liverpool,Stoke,4,1,H,2,1,H,M Oliver,20,6,6,2,9,6,8,2,0,1,0,0,Liverpool,Stoke
+1651,28-Dec-16,Southampton,Tottenham,1,4,A,1,1,D,M Dean,9,17,2,5,7,16,2,10,1,4,1,0,Tottenham,Southampton
+1652,31-Dec-16,Chelsea,Stoke,4,2,H,1,0,H,R Madley,18,5,7,2,12,10,8,3,3,2,0,0,Chelsea,Stoke
+1653,31-Dec-16,Leicester,West Ham,1,0,H,1,0,H,A Taylor,12,25,4,5,11,8,7,7,5,3,0,0,Leicester,West Ham
+1654,31-Dec-16,Liverpool,Man City,1,0,H,1,0,H,C Pawson,5,9,1,2,12,12,4,6,2,1,0,0,Liverpool,Man City
+1655,31-Dec-16,Southampton,West Brom,1,2,A,1,1,D,M Jones,10,7,1,3,13,17,8,3,1,3,1,0,West Brom,Southampton
+1656,31-Dec-16,Swansea,Bournemouth,0,3,A,0,2,A,K Friend,14,11,5,6,14,9,4,3,2,0,0,0,Bournemouth,Swansea
+1657,1-Jan-17,Arsenal,Crystal Palace,2,0,H,1,0,H,A Marriner,22,7,7,4,9,7,8,4,1,1,0,0,Arsenal,Crystal Palace
+1658,1-Jan-17,Watford,Tottenham,1,4,A,0,3,A,M Oliver,6,19,2,6,11,6,0,3,3,0,0,0,Tottenham,Watford
+1659,2-Jan-17,Everton,Southampton,3,0,H,0,0,D,K Friend,17,12,6,3,5,14,10,8,0,1,0,0,Everton,Southampton
+1660,2-Jan-17,Man City,Burnley,2,1,H,0,0,D,L Mason,14,11,3,3,11,11,8,8,4,3,1,0,Man City,Burnley
+1661,2-Jan-17,West Ham,Man United,0,2,A,0,0,D,M Dean,8,13,2,6,9,13,2,1,1,2,1,0,Man United,West Ham
+1662,3-Jan-17,Bournemouth,Arsenal,3,3,D,2,0,H,M Oliver,12,14,6,4,10,12,4,7,3,3,1,0,None,None
+1663,3-Jan-17,Crystal Palace,Swansea,1,2,A,0,1,A,P Tierney,7,11,3,4,13,14,4,5,2,1,0,0,Swansea,Crystal Palace
+1664,3-Jan-17,Stoke,Watford,2,0,H,1,0,H,N Swarbrick,17,9,5,2,10,15,7,6,1,2,0,0,Stoke,Watford
+1665,4-Jan-17,Tottenham,Chelsea,2,0,H,1,0,H,M Atkinson,9,11,2,2,9,8,1,6,3,2,0,0,Tottenham,Chelsea
+1666,14-Jan-17,Burnley,Southampton,1,0,H,0,0,D,P Tierney,9,20,3,5,14,14,2,7,1,2,0,0,Burnley,Southampton
+1667,14-Jan-17,Leicester,Chelsea,0,3,A,0,1,A,A Marriner,7,8,2,3,8,9,3,5,1,0,0,0,Chelsea,Leicester
+1668,14-Jan-17,Swansea,Arsenal,0,4,A,0,1,A,M Jones,12,14,3,6,12,8,3,2,2,0,0,0,Arsenal,Swansea
+1669,14-Jan-17,Tottenham,West Brom,4,0,H,2,0,H,A Taylor,21,3,11,0,11,12,8,0,0,2,0,0,Tottenham,West Brom
+1670,14-Jan-17,West Ham,Crystal Palace,3,0,H,0,0,D,N Swarbrick,14,10,3,1,10,14,2,2,4,2,0,0,West Ham,Crystal Palace
+1671,15-Jan-17,Everton,Man City,4,0,H,1,0,H,M Clattenburg,6,13,4,5,17,7,3,6,2,2,0,0,Everton,Man City
+1672,15-Jan-17,Man United,Liverpool,1,1,D,0,1,A,M Oliver,9,13,3,4,17,13,5,7,1,3,0,0,None,None
+1673,21-Jan-17,Bournemouth,Watford,2,2,D,0,1,A,L Mason,15,10,5,3,6,16,9,4,1,1,0,0,None,None
+1674,21-Jan-17,Crystal Palace,Everton,0,1,A,0,0,D,A Taylor,8,16,2,8,10,15,8,7,0,1,0,0,Everton,Crystal Palace
+1675,21-Jan-17,Liverpool,Swansea,2,3,A,0,0,D,K Friend,16,6,5,3,7,7,6,3,1,1,0,0,Swansea,Liverpool
+1676,21-Jan-17,Man City,Tottenham,2,2,D,0,0,D,A Marriner,17,6,7,2,10,7,5,4,2,4,0,0,None,None
+1677,21-Jan-17,Stoke,Man United,1,1,D,1,0,H,M Clattenburg,6,25,1,8,12,13,1,7,4,0,0,0,None,None
+1678,22-Jan-17,Arsenal,Burnley,2,1,H,0,0,D,J Moss,24,13,8,7,12,11,10,4,1,3,1,0,Arsenal,Burnley
+1679,22-Jan-17,Southampton,Leicester,3,0,H,2,0,H,M Oliver,20,11,7,2,8,10,7,2,0,1,0,0,Southampton,Leicester
+1680,31-Jan-17,Arsenal,Watford,1,2,A,0,2,A,A Marriner,20,10,5,6,12,15,9,5,3,3,0,0,Watford,Arsenal
+1681,31-Jan-17,Bournemouth,Crystal Palace,0,2,A,0,0,D,J Moss,10,11,2,4,14,23,2,3,0,4,0,0,Crystal Palace,Bournemouth
+1682,31-Jan-17,Burnley,Leicester,1,0,H,0,0,D,M Dean,24,13,3,5,4,8,10,2,1,0,0,0,Burnley,Leicester
+1683,31-Jan-17,Liverpool,Chelsea,1,1,D,0,1,A,M Clattenburg,7,8,3,2,13,8,3,3,2,1,0,0,None,None
+1684,31-Jan-17,Swansea,Southampton,2,1,H,1,0,H,R East,11,10,5,2,10,19,5,4,2,0,0,0,Swansea,Southampton
+1685,1-Feb-17,Stoke,Everton,1,1,D,1,1,D,C Pawson,14,14,7,5,21,12,5,5,1,0,0,0,None,None
+1686,1-Feb-17,West Ham,Man City,0,4,A,0,3,A,K Friend,6,11,1,4,11,14,2,4,3,3,0,0,Man City,West Ham
+1687,4-Feb-17,Chelsea,Arsenal,3,1,H,1,0,H,M Atkinson,13,9,6,5,14,8,10,13,1,1,0,0,Chelsea,Arsenal
+1688,4-Feb-17,Everton,Bournemouth,6,3,H,3,0,H,M Jones,15,18,10,8,14,4,4,8,3,1,0,0,Everton,Bournemouth
+1689,4-Feb-17,Southampton,West Ham,1,3,A,1,2,A,G Scott,21,6,7,4,12,15,3,2,0,2,0,0,West Ham,Southampton
+1690,4-Feb-17,Watford,Burnley,2,1,H,2,0,H,M Oliver,16,11,7,7,12,10,3,6,5,0,0,1,Watford,Burnley
+1691,4-Feb-17,West Brom,Stoke,1,0,H,1,0,H,K Friend,16,12,4,2,6,13,5,6,2,2,0,0,West Brom,Stoke
+1692,5-Feb-17,Leicester,Man United,0,3,A,0,2,A,A Taylor,11,15,1,9,12,13,10,3,2,4,0,0,Man United,Leicester
+1693,5-Feb-17,Man City,Swansea,2,1,H,1,0,H,M Dean,17,4,5,2,9,13,10,3,2,3,0,0,Man City,Swansea
+1694,11-Feb-17,Liverpool,Tottenham,2,0,H,2,0,H,A Taylor,17,7,9,2,14,14,10,3,3,4,0,0,Liverpool,Tottenham
+1695,11-Feb-17,Man United,Watford,2,0,H,1,0,H,R Madley,22,9,11,3,10,12,5,1,1,0,0,0,Man United,Watford
+1696,11-Feb-17,Stoke,Crystal Palace,1,0,H,0,0,D,M Atkinson,7,6,4,1,10,14,5,5,1,3,0,0,Stoke,Crystal Palace
+1697,11-Feb-17,West Ham,West Brom,2,2,D,0,1,A,M Oliver,16,8,4,3,7,14,7,5,3,2,0,0,None,None
+1698,12-Feb-17,Burnley,Chelsea,1,1,D,1,1,D,K Friend,6,13,4,2,12,11,1,1,3,2,0,0,None,None
+1699,12-Feb-17,Swansea,Leicester,2,0,H,2,0,H,J Moss,10,9,4,1,7,14,7,3,2,2,0,0,Swansea,Leicester
+1700,13-Feb-17,Bournemouth,Man City,0,2,A,0,1,A,N Swarbrick,5,17,1,5,8,11,3,7,2,3,0,0,Man City,Bournemouth
+1701,25-Feb-17,Chelsea,Swansea,3,1,H,1,1,D,N Swarbrick,16,3,5,2,11,14,8,1,1,3,0,0,Chelsea,Swansea
+1702,25-Feb-17,Watford,West Ham,1,1,D,1,0,H,C Pawson,9,13,1,2,18,14,4,6,4,1,0,1,None,None
+1703,25-Feb-17,West Brom,Bournemouth,2,1,H,2,1,H,M Clattenburg,13,12,4,4,12,5,8,6,2,0,0,0,West Brom,Bournemouth
+1704,26-Feb-17,Tottenham,Stoke,4,0,H,4,0,H,J Moss,21,5,9,3,11,14,8,5,2,3,0,0,Tottenham,Stoke
+1705,27-Feb-17,Leicester,Liverpool,3,1,H,2,0,H,M Oliver,13,17,7,7,8,5,5,12,0,0,0,0,Leicester,Liverpool
+1706,4-Mar-17,Liverpool,Arsenal,3,1,H,2,0,H,R Madley,18,7,7,3,8,15,9,3,1,2,0,0,Liverpool,Arsenal
+1707,4-Mar-17,Man United,Bournemouth,1,1,D,1,1,D,K Friend,20,3,7,1,9,11,15,2,3,2,0,1,None,None
+1708,4-Mar-17,Swansea,Burnley,3,2,H,1,1,D,A Taylor,23,6,10,4,7,13,9,2,2,2,0,0,Swansea,Burnley
+1709,4-Mar-17,Watford,Southampton,3,4,A,1,2,A,J Moss,16,20,4,11,16,9,6,5,3,2,0,0,Southampton,Watford
+1710,4-Mar-17,West Brom,Crystal Palace,0,2,A,0,0,D,M Jones,11,10,1,4,8,12,5,5,0,1,0,0,Crystal Palace,West Brom
+1711,5-Mar-17,Tottenham,Everton,3,2,H,1,0,H,M Oliver,20,8,7,4,9,14,7,2,1,2,0,0,Tottenham,Everton
+1712,6-Mar-17,West Ham,Chelsea,1,2,A,0,1,A,A Marriner,11,9,2,4,8,8,6,4,0,1,0,0,Chelsea,West Ham
+1713,8-Mar-17,Man City,Stoke,0,0,D,0,0,D,N Swarbrick,12,5,1,2,8,11,8,1,1,3,0,0,None,None
+1714,11-Mar-17,Bournemouth,West Ham,3,2,H,1,1,D,R Madley,21,15,9,7,20,15,5,6,4,2,0,0,Bournemouth,West Ham
+1715,11-Mar-17,Everton,West Brom,3,0,H,2,0,H,G Scott,16,5,5,2,8,12,4,6,1,2,0,0,Everton,West Brom
+1716,12-Mar-17,Liverpool,Burnley,2,1,H,1,1,D,C Pawson,10,11,3,1,12,16,11,1,2,2,0,0,Liverpool,Burnley
+1717,18-Mar-17,Bournemouth,Swansea,2,0,H,1,0,H,M Dean,12,10,6,1,10,9,2,4,0,2,0,0,Bournemouth,Swansea
+1718,18-Mar-17,Crystal Palace,Watford,1,0,H,0,0,D,M Atkinson,7,6,0,2,8,15,3,2,0,2,0,0,Crystal Palace,Watford
+1719,18-Mar-17,Stoke,Chelsea,1,2,A,1,1,D,A Taylor,5,20,1,7,16,11,5,11,4,2,1,0,Chelsea,Stoke
+1720,18-Mar-17,West Brom,Arsenal,3,1,H,1,1,D,N Swarbrick,12,11,8,2,5,6,4,5,1,0,0,0,West Brom,Arsenal
+1721,18-Mar-17,West Ham,Leicester,2,3,A,1,3,A,R East,20,11,7,5,10,14,6,5,0,1,0,0,Leicester,West Ham
+1722,19-Mar-17,Man City,Liverpool,1,1,D,0,0,D,M Oliver,13,13,3,4,14,7,9,8,3,3,0,0,None,None
+1723,19-Mar-17,Tottenham,Southampton,2,1,H,2,0,H,A Marriner,12,8,6,3,12,13,5,1,3,3,0,0,Tottenham,Southampton
+1724,1-Apr-17,Burnley,Tottenham,0,2,A,0,0,D,S Attwell,13,19,2,7,9,6,3,7,2,0,0,0,Tottenham,Burnley
+1725,1-Apr-17,Chelsea,Crystal Palace,1,2,A,1,2,A,C Pawson,24,8,11,3,12,14,9,3,3,2,0,0,Crystal Palace,Chelsea
+1726,1-Apr-17,Leicester,Stoke,2,0,H,1,0,H,L Mason,23,10,10,2,7,11,10,4,1,4,0,0,Leicester,Stoke
+1727,1-Apr-17,Liverpool,Everton,3,1,H,2,1,H,A Taylor,10,9,6,4,17,10,2,3,1,3,0,0,Liverpool,Everton
+1728,1-Apr-17,Man United,West Brom,0,0,D,0,0,D,M Dean,18,3,3,1,15,13,6,1,3,3,0,0,None,None
+1729,1-Apr-17,Southampton,Bournemouth,0,0,D,0,0,D,J Moss,14,12,4,3,14,8,6,3,1,0,0,0,None,None
+1730,2-Apr-17,Arsenal,Man City,2,2,D,1,2,A,A Marriner,8,14,3,5,8,15,3,8,3,2,0,0,None,None
+1731,4-Apr-17,Burnley,Stoke,1,0,H,0,0,D,K Friend,7,15,3,2,9,16,3,5,3,2,0,0,Burnley,Stoke
+1732,4-Apr-17,Man United,Everton,1,1,D,0,1,A,N Swarbrick,18,11,3,4,10,18,6,5,1,4,0,1,None,None
+1733,4-Apr-17,Watford,West Brom,2,0,H,1,0,H,P Tierney,9,18,2,2,11,14,5,6,1,4,1,0,Watford,West Brom
+1734,5-Apr-17,Arsenal,West Ham,3,0,H,0,0,D,M Atkinson,21,7,8,2,11,5,5,0,2,2,0,0,Arsenal,West Ham
+1735,5-Apr-17,Chelsea,Man City,2,1,H,2,1,H,M Dean,10,17,4,7,10,14,2,9,1,3,0,0,Chelsea,Man City
+1736,5-Apr-17,Liverpool,Bournemouth,2,2,D,1,1,D,L Mason,20,7,8,2,11,8,7,2,1,1,0,0,None,None
+1737,5-Apr-17,Southampton,Crystal Palace,3,1,H,1,1,D,R East,25,17,9,3,16,11,11,11,2,1,0,0,Southampton,Crystal Palace
+1738,5-Apr-17,Swansea,Tottenham,1,3,A,1,0,H,J Moss,4,18,1,8,7,8,5,7,1,1,0,0,Tottenham,Swansea
+1739,8-Apr-17,Bournemouth,Chelsea,1,3,A,1,2,A,A Marriner,12,15,1,5,7,11,4,4,2,3,0,0,Chelsea,Bournemouth
+1740,8-Apr-17,Stoke,Liverpool,1,2,A,1,0,H,M Dean,9,14,4,4,7,11,5,8,0,2,0,0,Liverpool,Stoke
+1741,8-Apr-17,Tottenham,Watford,4,0,H,3,0,H,A Taylor,19,8,6,2,12,12,7,5,0,1,0,0,Tottenham,Watford
+1742,8-Apr-17,West Brom,Southampton,0,1,A,0,1,A,C Kavanagh,17,10,6,3,12,12,7,3,2,2,0,0,Southampton,West Brom
+1743,8-Apr-17,West Ham,Swansea,1,0,H,1,0,H,K Friend,14,4,6,1,12,12,4,3,5,1,0,0,West Ham,Swansea
+1744,9-Apr-17,Everton,Leicester,4,2,H,3,2,H,R Madley,12,6,7,4,8,15,4,6,2,2,0,0,Everton,Leicester
+1745,10-Apr-17,Crystal Palace,Arsenal,3,0,H,1,0,H,M Oliver,17,11,6,3,11,10,5,8,0,1,0,0,Crystal Palace,Arsenal
+1746,15-Apr-17,Crystal Palace,Leicester,2,2,D,0,1,A,M Dean,15,6,4,2,10,16,8,5,0,2,0,0,None,None
+1747,15-Apr-17,Everton,Burnley,3,1,H,0,0,D,M Clattenburg,29,13,7,6,15,14,6,7,2,0,0,0,Everton,Burnley
+1748,15-Apr-17,Southampton,Man City,0,3,A,0,0,D,N Swarbrick,8,18,1,5,9,8,3,8,3,0,0,0,Man City,Southampton
+1749,15-Apr-17,Tottenham,Bournemouth,4,0,H,2,0,H,M Oliver,24,5,14,1,8,10,13,1,0,1,0,0,Tottenham,Bournemouth
+1750,15-Apr-17,Watford,Swansea,1,0,H,1,0,H,L Mason,15,13,7,4,8,13,6,2,0,0,0,0,Watford,Swansea
+1751,16-Apr-17,Man United,Chelsea,2,0,H,1,0,H,R Madley,9,5,3,0,16,20,1,3,3,3,0,0,Man United,Chelsea
+1752,16-Apr-17,West Brom,Liverpool,0,1,A,0,1,A,J Moss,7,15,2,2,15,9,4,4,3,1,0,0,Liverpool,West Brom
+1753,22-Apr-17,Swansea,Stoke,2,0,H,1,0,H,M Oliver,10,9,6,3,5,14,11,4,2,2,0,0,Swansea,Stoke
+1754,22-Apr-17,West Ham,Everton,0,0,D,0,0,D,R East,15,4,3,0,9,15,8,4,2,3,0,0,None,None
+1755,23-Apr-17,Burnley,Man United,0,2,A,0,2,A,A Taylor,8,12,0,6,17,16,3,3,2,1,0,0,Man United,Burnley
+1756,23-Apr-17,Liverpool,Crystal Palace,1,2,A,1,1,D,A Marriner,14,7,1,3,8,10,4,3,1,2,0,0,Crystal Palace,Liverpool
+1757,25-Apr-17,Chelsea,Southampton,4,2,H,2,1,H,L Mason,17,12,7,4,13,9,6,7,2,2,0,0,Chelsea,Southampton
+1758,26-Apr-17,Arsenal,Leicester,1,0,H,0,0,D,M Jones,12,7,5,3,9,13,12,1,2,4,0,0,Arsenal,Leicester
+1759,26-Apr-17,Crystal Palace,Tottenham,0,1,A,0,0,D,J Moss,6,18,1,4,13,15,2,11,3,3,0,0,Tottenham,Crystal Palace
+1760,27-Apr-17,Man City,Man United,0,0,D,0,0,D,M Atkinson,19,3,6,1,10,8,7,4,1,0,0,1,None,None
+1761,29-Apr-17,Crystal Palace,Burnley,0,2,A,0,1,A,R Madley,15,9,5,3,11,12,14,4,2,0,0,0,Burnley,Crystal Palace
+1762,29-Apr-17,Stoke,West Ham,0,0,D,0,0,D,L Probert,19,12,4,4,12,3,5,3,1,0,0,0,None,None
+1763,29-Apr-17,West Brom,Leicester,0,1,A,0,1,A,M Clattenburg,16,6,4,1,14,9,5,6,2,2,0,0,Leicester,West Brom
+1764,30-Apr-17,Everton,Chelsea,0,3,A,0,0,D,J Moss,12,11,4,5,13,11,2,4,3,4,0,0,Chelsea,Everton
+1765,30-Apr-17,Man United,Swansea,1,1,D,1,0,H,N Swarbrick,12,12,6,4,11,13,5,2,2,2,0,0,None,None
+1766,30-Apr-17,Tottenham,Arsenal,2,0,H,0,0,D,M Oliver,20,12,11,4,7,15,14,5,1,3,0,0,Tottenham,Arsenal
+1767,1-May-17,Watford,Liverpool,0,1,A,0,1,A,C Pawson,9,12,2,8,11,9,3,5,3,1,0,0,Liverpool,Watford
+1768,5-May-17,West Ham,Tottenham,1,0,H,0,0,D,A Taylor,13,11,5,5,8,9,3,7,4,2,0,0,West Ham,Tottenham
+1769,6-May-17,Bournemouth,Stoke,2,2,D,0,1,A,P Tierney,12,14,2,3,10,15,0,7,2,0,0,0,None,None
+1770,6-May-17,Burnley,West Brom,2,2,D,0,0,D,M Jones,14,11,4,3,9,14,5,8,1,3,0,0,None,None
+1771,6-May-17,Leicester,Watford,3,0,H,1,0,H,R East,11,14,5,7,8,10,10,1,0,0,0,0,Leicester,Watford
+1772,6-May-17,Man City,Crystal Palace,5,0,H,1,0,H,M Oliver,26,5,12,2,12,8,9,3,1,3,0,0,Man City,Crystal Palace
+1773,6-May-17,Swansea,Everton,1,0,H,1,0,H,M Atkinson,9,8,4,2,5,13,9,5,0,0,0,0,Swansea,Everton
+1774,7-May-17,Arsenal,Man United,2,0,H,0,0,D,A Marriner,9,10,4,4,14,10,5,9,1,0,0,0,Arsenal,Man United
+1775,7-May-17,Liverpool,Southampton,0,0,D,0,0,D,R Madley,17,4,8,0,9,4,3,6,1,3,0,0,None,None
+1776,10-May-17,Southampton,Arsenal,0,2,A,0,0,D,J Moss,14,11,3,4,5,5,8,5,1,2,0,0,Arsenal,Southampton
+1777,12-May-17,Everton,Watford,1,0,H,0,0,D,K Friend,15,14,6,2,7,11,9,8,0,3,0,0,Everton,Watford
+1778,12-May-17,West Brom,Chelsea,0,1,A,0,0,D,M Oliver,7,24,2,5,13,8,5,8,3,0,0,0,Chelsea,West Brom
+1779,13-May-17,Bournemouth,Burnley,2,1,H,1,0,H,L Probert,18,14,6,3,6,11,7,1,0,1,0,0,Bournemouth,Burnley
+1780,13-May-17,Man City,Leicester,2,1,H,2,1,H,R Madley,17,9,5,4,12,16,9,3,3,3,0,0,Man City,Leicester
+1781,13-May-17,Stoke,Arsenal,1,4,A,0,1,A,M Dean,10,10,4,6,13,7,7,6,1,2,0,0,Arsenal,Stoke
+1782,14-May-17,Tottenham,Man United,2,1,H,1,0,H,J Moss,14,8,7,2,14,15,8,3,1,2,0,0,Tottenham,Man United
+1783,14-May-17,West Ham,Liverpool,0,4,A,0,1,A,N Swarbrick,10,26,3,11,5,10,4,6,2,0,0,0,Liverpool,West Ham
+1784,15-May-17,Chelsea,Watford,4,3,H,2,1,H,L Mason,24,9,9,3,7,12,8,3,2,4,0,1,Chelsea,Watford
+1785,16-May-17,Man City,West Brom,3,1,H,2,0,H,C Pawson,21,5,10,2,8,11,7,1,1,2,0,0,Man City,West Brom
+1786,17-May-17,Southampton,Man United,0,0,D,0,0,D,M Dean,17,11,6,1,7,10,7,3,2,1,0,0,None,None
+1787,18-May-17,Leicester,Tottenham,1,6,A,0,2,A,M Oliver,12,26,5,12,11,8,4,4,3,1,0,0,Tottenham,Leicester
+1788,21-May-17,Arsenal,Everton,3,1,H,2,0,H,M Oliver,17,22,9,7,10,15,4,6,2,4,1,0,Arsenal,Everton
+1789,21-May-17,Burnley,West Ham,1,2,A,1,1,D,R Madley,9,14,1,4,11,14,2,5,2,2,0,0,West Ham,Burnley
+1790,21-May-17,Leicester,Bournemouth,1,1,D,0,1,A,l Mason,21,10,5,4,11,10,9,1,4,1,0,0,None,None
+1791,21-May-17,Man United,Crystal Palace,2,0,H,2,0,H,A Taylor,9,6,2,1,16,10,3,6,2,0,0,0,Man United,Crystal Palace
+1792,21-May-17,Southampton,Stoke,0,1,A,0,0,D,L Probert,14,14,6,3,12,10,4,10,2,4,0,0,Stoke,Southampton
+1793,21-May-17,Swansea,West Brom,2,1,H,0,1,A,M Dean,12,16,2,5,8,10,7,4,1,1,0,0,Swansea,West Brom
+1794,21-May-17,Watford,Man City,0,5,A,0,4,A,J Moss,6,15,3,9,12,10,4,5,1,0,0,0,Man City,Watford
